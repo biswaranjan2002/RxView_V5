@@ -1,0 +1,6 @@
+2025-07-17 10:43:30 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 10:43:42 INFO  c.r.r.service.login.LoginController - username is sai
+2025-07-17 10:43:42 INFO  c.r.r.service.login.LoginController - password is sai
+2025-07-17 10:43:42 INFO  c.r.r.service.login.Authentication - User found: sai
+2025-07-17 10:43:42 INFO  c.r.r.service.login.Authentication - Incorrect password for user: sai
+2025-07-17 10:43:42 INFO  c.r.r.service.login.LoginController - role is null

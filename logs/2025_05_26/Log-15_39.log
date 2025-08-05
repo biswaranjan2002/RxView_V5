@@ -1,0 +1,13 @@
+2025-05-26 15:40:13 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 15:40:14 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 15:40:14 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 15:40:14 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 15:40:17 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 15:40:26 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 15:40:27 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 15:40:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 15:40:31 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 15:40:32 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 15:40:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 15:40:33 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 3052 * 2500
+2025-05-26 15:40:33 INFO  com.raymedis.rxviewui.service.study.StudyService - outputfile : D:\Work\RxView_Java\RxView\44_RxView_ThumbNail\output\202505260001_thumbnails.rxv

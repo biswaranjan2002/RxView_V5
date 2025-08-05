@@ -1,0 +1,138 @@
+2025-07-18 16:24:16 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-18 16:24:19 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-18 16:24:19 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-18 16:24:19 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 16:24:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 16:24:22 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 16:24:22 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 16:24:24 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 16:24:24 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 16:24:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 16:24:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 16:24:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 16:24:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 16:24:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Interlock failed.
+2025-07-18 16:24:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 16:24:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 16:24:26 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - decMs currentMs: 0.05
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:33 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:33 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - decMs currentMs: 0.045
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:33 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:33 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:33 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:34 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - decMs currentMs: 0.0405
+2025-07-18 16:24:34 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:34 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:34 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:34 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - decMs currentMs: 0.03645
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:35 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:35 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - decMs currentMs: 0.032805
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:35 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:35 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:35 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:36 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.029524500000000002
+2025-07-18 16:24:36 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:36 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:36 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:36 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.032476950000000004
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.035724645000000006
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.03929710950000001
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:38 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:38 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.04322682045000001
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:38 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:38 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:38 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.04754950249500001
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:39 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:39 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.052304452744500005
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:39 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:39 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:39 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:40 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - incMs currentMs: 0.05753489801895001
+2025-07-18 16:24:40 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:24:40 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:24:40 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:24:40 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:56 INFO  com.raymedis.rxviewui.service.study.StudyMainController - IncMas mas: 5.063,  MA: 80.0
+2025-07-18 16:24:56 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.0757875
+2025-07-18 16:24:56 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 75
+2025-07-18 16:24:56 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 75 0 and G
+2025-07-18 16:24:56 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:24:57 INFO  com.raymedis.rxviewui.service.study.StudyMainController - IncMas mas: 6.063,  MA: 80.0
+2025-07-18 16:24:57 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.08828749999999999
+2025-07-18 16:24:57 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 88
+2025-07-18 16:24:57 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 88 0 and G
+2025-07-18 16:24:57 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.service.study.StudyMainController - decMas mas: 7.063,  MA: 80.0
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.0757875
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 75
+2025-07-18 16:25:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 75 0 and G
+2025-07-18 16:25:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.service.study.StudyMainController - decMas mas: 6.063,  MA: 80.0
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.0632875
+2025-07-18 16:25:25 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 63
+2025-07-18 16:25:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 63 0 and G
+2025-07-18 16:25:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:25:26 INFO  com.raymedis.rxviewui.service.study.StudyMainController - decMas mas: 5.063,  MA: 80.0
+2025-07-18 16:25:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.0507875
+2025-07-18 16:25:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:25:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:25:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.

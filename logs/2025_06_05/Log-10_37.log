@@ -1,0 +1,764 @@
+2025-06-05 10:38:00 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-05 10:38:00 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-05 10:38:00 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.service.study.StudyMainController - saving for export...
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=-73.37446808510637, offsetY=-57.84680851063828, text='RIGHT'} 
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:38:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:44 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-06-05 10:38:44 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:38:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:38:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:15 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:15 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:16 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:16 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:16 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:16 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.service.study.StudyMainController - saving for export...
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=-67.60851063829787, offsetY=-31.702127659574458, text='RIGHT'} 
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:39:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:39:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:39:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:40:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.service.study.StudyMainController - saving for export...
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=-67.60851063829787, offsetY=-31.702127659574458, text='RIGHT'} 
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:40:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.controller.ExportStudy - org.width(): 2500 patientBodyPart.getEditedMat().width(): 838
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.controller.ExportStudy - saveWithAnnotationBurn Crop Multiple: 2.983293556085919
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.controller.ExportStudy - Crop Rect: {955, 0, 504x3052}
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.controller.ExportStudy - org width: 2500, height: 3052
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 2.9822485207100593
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 5.964497041420119, Ellipse Radius X: 23.857988165680474, Ellipse Radius Y: 23.857988165680474, Label Font Size: 41.75147928994083, Rect Width: 268.40236686390534, Rect Height: 89.46745562130178, Custom Font Icon Size: 596.4497041420119
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:41:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.controller.ExportStudy - org.width(): 2500 patientBodyPart.getEditedMat().width(): 838
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.controller.ExportStudy - saveWithAnnotationBurn Crop Multiple: 2.983293556085919
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.controller.ExportStudy - Crop Rect: {591, 0, 605x3052}
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.controller.ExportStudy - org width: 2500, height: 3052
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 2.995049504950495
+2025-06-05 10:41:05 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 5.99009900990099, Ellipse Radius X: 23.96039603960396, Ellipse Radius Y: 23.96039603960396, Label Font Size: 41.93069306930693, Rect Width: 269.55445544554453, Rect Height: 89.85148514851485, Custom Font Icon Size: 599.009900990099
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.controller.ExportStudy - org.width(): 2500 patientBodyPart.getEditedMat().width(): 838
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.controller.ExportStudy - saveWithAnnotationBurn Crop Multiple: 2.983293556085919
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.controller.ExportStudy - Crop Rect: {591, 0, 605x3052}
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.controller.ExportStudy - org width: 2500, height: 3052
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 2.995049504950495
+2025-06-05 10:41:06 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 5.99009900990099, Ellipse Radius X: 23.96039603960396, Ellipse Radius Y: 23.96039603960396, Label Font Size: 41.93069306930693, Rect Width: 269.55445544554453, Rect Height: 89.85148514851485, Custom Font Icon Size: 599.009900990099
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {198, 0, 202x1024}
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 2500x3052}
+2025-06-05 10:41:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 2500.0x3052.0

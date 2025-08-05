@@ -1,0 +1,32 @@
+2025-05-14 12:16:40 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-14 12:16:41 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-14 12:16:41 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-14 12:16:41 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-14 12:16:44 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-14 12:16:44 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-14 12:16:51 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\1,2,2,1 2048.0 2560.0
+2025-05-14 12:16:52 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.0712890625 
+2025-05-14 12:16:52 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7140045648379874 
+2025-05-14 12:16:54 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.96484375 
+2025-05-14 12:16:54 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 1.7804637132879657 
+2025-05-14 12:16:55 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 12:16:55 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.9951171874999999 
+2025-05-14 12:16:57 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.3928464673913044 
+2025-05-14 12:16:57 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.6177450573979592 
+2025-05-14 12:16:58 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 12:16:58 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7549645512114538 
+2025-05-14 12:17:00 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {658, 0, 731x632}
+2025-05-14 12:17:00 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {288, 637, 442x632}
+2025-05-14 12:17:00 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {1024, 717, 1018x472}
+2025-05-14 12:17:00 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {122, 1275, 773x632}
+2025-05-14 12:17:00 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {112, 1912, 1823x632}
+2025-05-14 12:17:00 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.0712890625 
+2025-05-14 12:17:00 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7140045648379874 
+2025-05-14 12:17:00 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.3928464673913044 
+2025-05-14 12:17:00 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.6177450573979592 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.9951171874999999 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7549645512114538 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.96484375 
+2025-05-14 12:17:01 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 1.7804637132879657 

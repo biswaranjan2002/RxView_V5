@@ -1,0 +1,8 @@
+2025-07-17 10:53:28 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 10:53:36 INFO  c.r.r.service.login.LoginController - username is saipro
+2025-07-17 10:53:36 INFO  c.r.r.service.login.LoginController - password is sai
+2025-07-17 10:53:36 INFO  c.r.r.service.login.Authentication - User found: saipro
+2025-07-17 10:53:36 INFO  c.r.r.service.login.Authentication - userEntity: SystemAccountsEntity{userName='saipro', userId='101', password='$2a$10$d/P1HIDYNgn6PPFOBoXBN.YDLMz.94h23dWxmwNA76hOGVszVC4eq', userGroup='Technician'}
+2025-07-17 10:53:36 INFO  c.r.r.service.login.LoginController - role is Technician
+2025-07-17 10:53:36 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-17 10:53:36 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.

@@ -1,0 +1,406 @@
+2025-07-24 13:22:32 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-24 13:22:36 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-24 13:22:36 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-24 13:22:36 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-24 13:22:36 INFO  c.r.r.service.login.LoginController - IP not found
+2025-07-24 13:22:36 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-07-24 13:22:36 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-24 13:22:36 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-07-24 13:22:36 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-24 13:22:36 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-24 13:22:39 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-24 13:22:39 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-07-24 13:22:41 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-24 13:22:41 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 13:22:41 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:22:43 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:22:43 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:22:43 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:22:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:22:44 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:22:52 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:22:52 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:22:52 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:23:10 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:23:10 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:23:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:23:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:23:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:23:24 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:23:24 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:23:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:23:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:23:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:23:41 INFO  c.r.r.service.study.StudyService - current bodyPart chest PA
+2025-07-24 13:23:41 INFO  c.r.r.service.study.StudyService - current bodyPart chest PA
+2025-07-24 13:23:41 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 13:23:41 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 13:23:41 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:23:41 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:23:44 WARN  c.r.r.m.I.i.ImageDrawWrapperHandling - Display image is null, cannot apply drawing tools.
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:23:44 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:23:44 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:23:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:23:59 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:23:59 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:23:59 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:25:10 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:10 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:25:10 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:10 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:25:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:25:11 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:11 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:25:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:25:12 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:12 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:25:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:25:25 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:25 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:26 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:26 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:27 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:28 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:28 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:28 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:30 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:30 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:30 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:31 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:31 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:32 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:32 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:33 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:33 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:33 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:33 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:34 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:34 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:34 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:35 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:35 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:35 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:36 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:36 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:37 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:48 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:48 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:48 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:50 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:50 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:25:52 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:25:52 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:25:52 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:01 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:01 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:01 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:26:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:26:06 INFO  c.r.r.service.study.StudyService - current bodyPart skull AP
+2025-07-24 13:26:06 INFO  c.r.r.service.study.StudyService - current bodyPart skull AP
+2025-07-24 13:26:06 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: skull
+2025-07-24 13:26:06 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: skull
+2025-07-24 13:26:06 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:26:06 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:08 WARN  c.r.r.m.I.i.ImageDrawWrapperHandling - Display image is null, cannot apply drawing tools.
+2025-07-24 13:26:08 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:26:08 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:26:08 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:26:08 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:26:08 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:08 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:26:21 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:21 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:26:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:26:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:26:32 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:32 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:45 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:45 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:45 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:46 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:26:46 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:26:47 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:47 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:47 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:47 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:26:47 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:26:47 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:48 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:48 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:51 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:51 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:51 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:52 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:26:52 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:26:52 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:52 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:53 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:56 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:56 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:56 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:57 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:57 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:57 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:58 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:58 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:58 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:58 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:58 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:59 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:26:59 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:26:59 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:26:59 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:00 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:00 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:00 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:01 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:01 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:01 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:02 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:02 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:02 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:03 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:03 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:03 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:04 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:04 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:27:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:27:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:27:09 INFO  c.r.r.service.study.StudyService - current bodyPart hand LAT
+2025-07-24 13:27:10 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: hand
+2025-07-24 13:27:10 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:27:11 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:27:11 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:11 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:27:11 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:27:11 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:27:11 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:27:11 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:27:11 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:27:14 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:27:14 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:27:14 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:28:12 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:28:12 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:28:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:28:21 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:28:21 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:28:21 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:28:21 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:28:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:28:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:28:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:28:24 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:28:24 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:28:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:28:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:28:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:28:25 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:28:25 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:28:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:29:52 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-24 13:29:52 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 13:29:52 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:29:55 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:29:55 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:29:55 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:29:55 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:29:55 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:30:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:05 INFO  c.r.r.service.study.StudyService - current bodyPart chest PA
+2025-07-24 13:30:06 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 13:30:06 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:30:08 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:30:08 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:08 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:30:08 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:30:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:09 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:09 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:11 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:11 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:12 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:12 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:13 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:13 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:13 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:13 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:14 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:14 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:15 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:15 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:16 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:16 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:17 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:17 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:19 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:19 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:19 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:19 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:20 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:20 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:20 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:20 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:21 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:21 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:21 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:21 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:22 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:22 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:24 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:24 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:27 INFO  c.r.r.service.study.StudyService - current bodyPart skull AP
+2025-07-24 13:30:27 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: skull
+2025-07-24 13:30:27 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:30:28 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:30:28 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:28 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:28 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:30:28 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:30:28 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:30:28 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:30:28 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:30:28 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:30:31 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:31 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:44 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:44 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:30:44 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:30:44 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:30:44 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:30:45 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:31:06 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:31:06 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:31:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:31:06 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:31:06 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:31:07 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:31:56 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:31:57 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:31:57 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:31:58 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:31:58 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:31:58 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:14 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:14 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:15 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:16 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:16 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:17 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:17 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:18 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:18 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:18 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:19 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:19 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:19 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 13:32:20 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 13:32:20 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 13:32:21 INFO  c.r.r.service.study.StudyService - current bodyPart hand LAT
+2025-07-24 13:32:21 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: hand
+2025-07-24 13:32:21 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 13:32:23 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-24 13:32:23 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:23 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:23 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:32:23 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-24 13:32:23 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-24 13:32:23 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-24 13:32:23 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-24 13:32:23 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-24 13:32:31 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:31 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 13:32:43 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-07-24 13:32:43 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 13:32:43 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0

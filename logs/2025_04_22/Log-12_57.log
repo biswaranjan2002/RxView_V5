@@ -1,0 +1,9 @@
+2025-04-22 12:57:58 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-22 12:57:59 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-22 12:57:59 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-22 12:57:59 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-22 12:58:03 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-22 12:58:11 INFO  c.r.r.modules.print.Layout.LayoutTab - Drag and drop successful: Chest PA
+2025-04-22 12:59:13 INFO  c.r.r.modules.print.Layout.LayoutTab - Drag and drop successful: Chest PA
+2025-04-22 12:59:17 INFO  c.r.r.modules.print.Layout.LayoutTab - Drag and drop successful: Chest PA
+2025-04-22 12:59:23 INFO  c.r.r.modules.print.Layout.LayoutTab - Drag and drop successful: Chest PA

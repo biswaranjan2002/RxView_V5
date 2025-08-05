@@ -1,0 +1,21 @@
+2025-05-31 15:24:00 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-31 15:24:00 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-31 15:24:00 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:24:07 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Birth Date : 2025-05-30T16:05:17.135101 added to TOP_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Modality : DX added to TOP_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Sex : male added to BOTTOM_LEFT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label BodyPart Projection : Skull AP added to BOTTOM_LEFT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Name : Apollo Hospital added to BOTTOM_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 added to BOTTOM_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Dept Name : Radiology deptarment added to BOTTOM_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Birth Date : 2025-05-30T16:05:17.135101 added to TOP_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Modality : DX added to TOP_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Sex : male added to BOTTOM_LEFT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label BodyPart Projection : Skull AP added to BOTTOM_LEFT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Name : Apollo Hospital added to BOTTOM_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 added to BOTTOM_RIGHT
+2025-05-31 15:24:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - label Institutional Dept Name : Radiology deptarment added to BOTTOM_RIGHT

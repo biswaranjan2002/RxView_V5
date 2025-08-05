@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" stylesheets="@../../../../../Styles/Css/AdminSettings/Registration/Manual.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.dicom.DicomMPPS">
+    <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0">
+        <children>
+            <HBox alignment="CENTER" maxHeight="515.0" maxWidth="1620.0" minHeight="515.0" minWidth="1620.0" prefHeight="515.0" prefWidth="1620.0" spacing="50.0">
+                <children>
+                    <VBox id="ShadowEffectBox2" fx:id="tableOuterBox" alignment="CENTER" maxHeight="450.0" maxWidth="600.0" minHeight="450.0" minWidth="600.0" prefHeight="450.0" prefWidth="600.0">
+                        <children>
+                            <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="600.0" minHeight="60.0" minWidth="600.0" prefHeight="60.0" prefWidth="600.0">
+                                <children>
+                                    <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="SCP List" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                        <font>
+                                            <Font name="Century Gothic" size="22.0" />
+                                        </font>
+                                    </Label>
+                                </children>
+                                <padding>
+                                    <Insets left="25.0" top="-200.0" />
+                                </padding>
+                            </HBox>
+                            <VBox alignment="CENTER" maxHeight="250.0" maxWidth="600.0" minHeight="250.0" minWidth="600.0" prefHeight="250.0" prefWidth="600.0" spacing="15.0">
+                                <children>
+                                    <HBox alignment="CENTER" maxHeight="250.0" maxWidth="500.0" minHeight="250.0" minWidth="500.0" prefHeight="250.0" prefWidth="500.0">
+                                        <children>
+                                              <TableView fx:id="mppsTableView" focusTraversable="false" maxHeight="250.0" maxWidth="500.0" minHeight="250.0" minWidth="500.0" prefHeight="250.0" prefWidth="500.0">
+                                                  <placeholder>
+                                                      <Pane />
+                                                  </placeholder>
+                                                  <columns>
+                                       <TableColumn fx:id="useColumn" maxWidth="100.0" minWidth="100.0" prefWidth="100.0" text="Use" />
+                                                      <TableColumn fx:id="nameColumn" maxWidth="200.0" minWidth="200.0" prefWidth="200.0" text="Name" />
+                                                      <TableColumn fx:id="aeTitleColumn" maxWidth="200.0" minWidth="200.0" prefWidth="200.0" text="AE Title" />
+                                                  </columns>
+                                                  <columnResizePolicy>
+                                                      <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                                  </columnResizePolicy>
+                                              </TableView>
+                                        </children>
+                                        <VBox.margin>
+                                            <Insets left="25.0" />
+                                        </VBox.margin>
+                                    </HBox>
+                                    <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="600.0" minHeight="75.0" minWidth="600.0" prefHeight="75.0" prefWidth="600.0" spacing="25.0">
+                                        <children>
+                                            <JFXButton id="ActionButton" fx:id="newButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#newClick" prefHeight="60.0" prefWidth="150.0" text="New" />
+                                            <JFXButton id="ActionButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#deleteClick" prefHeight="60.0" prefWidth="150.0" text="Delete" />
+                                        </children>
+                                        <padding>
+                                            <Insets right="50.0" />
+                                        </padding>
+                                    </HBox>
+                                </children>
+                                <padding>
+                                    <Insets top="-50.0" />
+                                </padding>
+                            </VBox>
+                        </children>
+                    </VBox>
+               <VBox alignment="CENTER" maxHeight="500.0" maxWidth="75.0" minHeight="500.0" minWidth="75.0" prefHeight="500.0" prefWidth="75.0">
+                  <children>
+                     <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="CENTER" maxWidth="60.0" minHeight="60.0" minWidth="60.0" onAction="#saveClick" prefHeight="60.0" prefWidth="60.0" text=" ">
+                        <graphic>
+                           <FontIcon id="fontIcon" iconLiteral="mdi2l-less-than" iconSize="30" wrappingWidth="30.0" />
+                        </graphic>
+                     </JFXButton>
+                  </children>
+               </VBox>
+                    <VBox id="ShadowEffectBox2" alignment="CENTER" maxHeight="450.0" maxWidth="650.0" minHeight="450.0" minWidth="650.0" prefHeight="450.0" prefWidth="650.0">
+                        <children>
+                            <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="650.0" minHeight="60.0" minWidth="650.0" prefHeight="60.0" prefWidth="650.0">
+                                <children>
+                                    <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Basic Information" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                        <font>
+                                            <Font name="Century Gothic" size="22.0" />
+                                        </font>
+                                    </Label>
+                                </children>
+                                <padding>
+                                    <Insets left="25.0" />
+                                </padding>
+                                <VBox.margin>
+                                    <Insets top="-45.0" />
+                                </VBox.margin>
+                            </HBox>
+                            <VBox maxHeight="400.0" maxWidth="650.0" minHeight="400.0" minWidth="650.0" prefHeight="400.0" prefWidth="650.0">
+                                <children>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Name                                 :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <TextField fx:id="nameInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="AE Title                                :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <TextField fx:id="aeTitleInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="IP Address                          :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <TextField fx:id="ipAddressInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Port                                     :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <TextField fx:id="portInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                           <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                              <children>
+                                 <JFXCheckBox fx:id="maxPduCheckBox" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" onAction="#maxPduCheckBoxClick" prefHeight="50.0" prefWidth="300.0" text="Max PDU                      :">
+                                    <HBox.margin>
+                                       <Insets left="20.0" />
+                                    </HBox.margin>
+                                 </JFXCheckBox>
+                                 <TextField fx:id="maxPduInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                              </children>
+                           </HBox>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Verification Timeout         :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <TextField fx:id="verificationTimeoutInput" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                                    <HBox maxHeight="55.0" maxWidth="650.0" minHeight="55.0" minWidth="650.0" prefHeight="55.0" prefWidth="650.0">
+                                        <children>
+                                            <Label maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Language                         :">
+                                                <HBox.margin>
+                                                    <Insets left="20.0" />
+                                                </HBox.margin>
+                                            </Label>
+                                            <JFXComboBox fx:id="languageComboBox" focusColor="#ec641c" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" />
+                                        </children>
+                                    </HBox>
+                                </children>
+                                <VBox.margin>
+                                    <Insets top="10.0" />
+                                </VBox.margin>
+                            </VBox>
+                        </children>
+                    </VBox>
+                </children>
+            <padding>
+               <Insets top="50.0" />
+            </padding>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" maxHeight="515.0" maxWidth="1620.0" minHeight="515.0" minWidth="1620.0" prefHeight="515.0" prefWidth="1620.0">
+                <children>
+                    <VBox id="ShadowEffectBox2" alignment="CENTER" maxHeight="400.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="400.0" prefWidth="600.0">
+                        <children>
+                            <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="600.0" minHeight="60.0" minWidth="600.0" prefHeight="60.0" prefWidth="600.0">
+                                <children>
+                                    <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Verification" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                        <font>
+                                            <Font name="Century Gothic" size="22.0" />
+                                        </font>
+                                    </Label>
+                                </children>
+                                <padding>
+                                    <Insets left="25.0" top="-150.0" />
+                                </padding>
+                            </HBox>
+                            <VBox alignment="CENTER" maxHeight="250.0" maxWidth="600.0" minHeight="250.0" minWidth="600.0" prefHeight="250.0" prefWidth="600.0" spacing="15.0">
+                                <children>
+                                    <HBox alignment="CENTER" maxHeight="250.0" maxWidth="500.0" minHeight="250.0" minWidth="500.0" prefHeight="250.0" prefWidth="500.0">
+                                        <children>
+                                              <TableView fx:id="verificationTable" focusTraversable="false" maxHeight="250.0" maxWidth="500.0" minHeight="250.0" minWidth="500.0" prefHeight="250.0" prefWidth="500.0">
+                                                  <placeholder>
+                                                      <Pane />
+                                                  </placeholder>
+                                                  <columns>
+                                                      <TableColumn fx:id="timeColumn" maxWidth="150.0" minWidth="150.0" prefWidth="150.0" text="Time" />
+                                                      <TableColumn fx:id="informationColumn" maxWidth="350.0" minWidth="350.0" prefWidth="350.0" text="Information" />
+                                                  </columns>
+                                                  <columnResizePolicy>
+                                                      <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                                  </columnResizePolicy>
+                                              </TableView>
+                                        </children>
+                                        <VBox.margin>
+                                            <Insets left="25.0" />
+                                        </VBox.margin>
+                                    </HBox>
+                                    <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="600.0" minHeight="75.0" minWidth="600.0" prefHeight="75.0" prefWidth="600.0">
+                                        <children>
+                                            <JFXButton id="ActionButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#echoClick" prefHeight="60.0" prefWidth="150.0" text="Echo" />
+                                        </children>
+                                        <padding>
+                                            <Insets bottom="15.0" right="35.0" />
+                                        </padding>
+                                    </HBox>
+                                </children>
+                            </VBox>
+                        </children>
+                    </VBox>
+                </children>
+            <padding>
+               <Insets left="100.0" top="40.0" />
+            </padding>
+            </HBox>
+        </children>
+    </VBox>
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <styleClass>
+        <String fx:value="GridPane" />
+        <String fx:value="fontStyle" />
+    </styleClass>
+</GridPane>

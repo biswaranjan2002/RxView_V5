@@ -1,0 +1,107 @@
+2025-04-16 16:22:50 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-16 16:22:51 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-16 16:22:51 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-16 16:22:51 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-16 16:22:53 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-16 16:22:54 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-16 16:22:55 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-16 16:22:55 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-16 16:23:03 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:23:03 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:23:03 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 690.0 , startSceneY : 363.0
+2025-04-16 16:23:03 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 364.0
+2025-04-16 16:23:03 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 369.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 375.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 383.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 688.0 , startSceneY : 394.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 692.0 , startSceneY : 405.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 696.0 , startSceneY : 419.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 700.0 , startSceneY : 431.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 702.0 , startSceneY : 445.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 704.0 , startSceneY : 456.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 708.0 , startSceneY : 478.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 715.0 , startSceneY : 494.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 716.0 , startSceneY : 504.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 718.0 , startSceneY : 509.0
+2025-04-16 16:23:04 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 718.0 , startSceneY : 510.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 716.0 , startSceneY : 511.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 710.0 , startSceneY : 511.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 706.0 , startSceneY : 511.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 702.0 , startSceneY : 511.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 699.0 , startSceneY : 509.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 696.0 , startSceneY : 507.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 693.0 , startSceneY : 504.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 690.0 , startSceneY : 501.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 498.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 684.0 , startSceneY : 495.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 682.0 , startSceneY : 492.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 680.0 , startSceneY : 490.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 680.0 , startSceneY : 487.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 677.0 , startSceneY : 484.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 675.0 , startSceneY : 481.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 672.0 , startSceneY : 478.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 672.0 , startSceneY : 476.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 669.0 , startSceneY : 473.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 669.0 , startSceneY : 470.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 666.0 , startSceneY : 468.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 666.0 , startSceneY : 465.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 666.0 , startSceneY : 463.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 460.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 457.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 455.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 452.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 449.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 447.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 444.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 442.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 439.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 437.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 434.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 432.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 429.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 426.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 424.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 421.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 419.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 416.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 414.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 411.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 663.0 , startSceneY : 408.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 665.0 , startSceneY : 406.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 665.0 , startSceneY : 403.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 665.0 , startSceneY : 400.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 665.0 , startSceneY : 398.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 666.0 , startSceneY : 395.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 668.0 , startSceneY : 392.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 668.0 , startSceneY : 390.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 669.0 , startSceneY : 387.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 670.0 , startSceneY : 384.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 670.0 , startSceneY : 382.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 672.0 , startSceneY : 379.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 673.0 , startSceneY : 376.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 673.0 , startSceneY : 374.0
+2025-04-16 16:23:05 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 674.0 , startSceneY : 371.0
+2025-04-16 16:23:07 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 677.0 , startSceneY : 368.0
+2025-04-16 16:23:07 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 679.0 , startSceneY : 366.0
+2025-04-16 16:23:07 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 680.0 , startSceneY : 363.0
+2025-04-16 16:23:07 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 683.0 , startSceneY : 360.0
+2025-04-16 16:23:07 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 686.0 , startSceneY : 357.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 688.0 , startSceneY : 357.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 357.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 360.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 362.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 365.0
+2025-04-16 16:23:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 367.0
+2025-04-16 16:23:09 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 689.0 , startSceneY : 370.0
+2025-04-16 16:23:10 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 691.0 , startSceneY : 370.0
+2025-04-16 16:23:10 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 692.0 , startSceneY : 370.0
+2025-04-16 16:23:10 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 693.0 , startSceneY : 367.0
+2025-04-16 16:23:11 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 694.0 , startSceneY : 365.0
+2025-04-16 16:23:13 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 693.0 , startSceneY : 365.0
+2025-04-16 16:23:14 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 690.0 , startSceneY : 365.0
+2025-04-16 16:23:14 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 688.0 , startSceneY : 365.0
+2025-04-16 16:23:14 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 683.0 , startSceneY : 365.0
+2025-04-16 16:23:14 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 684.0 , startSceneY : 362.0
+2025-04-16 16:23:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 685.0 , startSceneY : 362.0
+2025-04-16 16:23:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 687.0 , startSceneY : 362.0
+2025-04-16 16:23:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - dragged startSceneX : 690.0 , startSceneY : 362.0

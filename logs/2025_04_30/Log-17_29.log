@@ -1,0 +1,631 @@
+2025-04-30 17:29:21 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-30 17:29:22 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-30 17:29:22 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-30 17:29:22 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-30 17:29:25 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:31 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:42 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:42 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:42 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:42 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:43 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:52 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:52 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:54 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:54 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:55 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:55 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:55 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:55 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:29:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 405.2425531914894 startY 34.17446808510638 endX 666.6893617021277 endY 160.5404255319149
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 405.2425531914894 startY 34.17446808510638 endX 666.6893617021277 endY 160.5404255319149
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 405.2425531914894 startY 34.17446808510638 endX 666.6893617021277 endY 160.5404255319149
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 228.7659574468085 startY 135.48510638297873 endX 405.2425531914894 endY 34.17446808510638
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 405.2425531914894 startY 34.17446808510638 endX 666.6893617021277 endY 160.5404255319149
+2025-04-30 17:30:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:16 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:20 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:20 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:20 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:20 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:31 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:30:32 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:34 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:30:34 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:35 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:30:57 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:57 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:57 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:57 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:30:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected false 
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 294.1276595744681 startY 396.12340425531914 endX 528.3404255319149 endY 671.731914893617
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 528.3404255319149 startY 671.731914893617 endX 700.4595744680851 endY 320.9574468085106
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 184.10212765957448 startY 63.86808510638298 endX 861.6851063829787 endY 67.13617021276596
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 294.1276595744681 startY 396.12340425531914 endX 528.3404255319149 endY 671.731914893617
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 528.3404255319149 startY 671.731914893617 endX 700.4595744680851 endY 320.9574468085106
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 184.10212765957448 startY 63.86808510638298 endX 861.6851063829787 endY 67.13617021276596
+2025-04-30 17:31:01 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 294.1276595744681 startY 396.12340425531914 endX 528.3404255319149 endY 671.731914893617
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 528.3404255319149 startY 671.731914893617 endX 700.4595744680851 endY 320.9574468085106
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 184.10212765957448 startY 63.86808510638298 endX 861.6851063829787 endY 67.13617021276596
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:02 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:03 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:31:07 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:15 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:20 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:20 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:21 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:21 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:21 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:21 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:22 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:27 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:27 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:27 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:31:32 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:31:49 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 433.56595744680845 startY 8.029787234042459 endX 472.7829787234042 endY 170.34468085106383
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 472.7829787234042 startY 170.34468085106383 endX 874.7574468085106 endY 1.4936170212765958
+2025-04-30 17:31:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 1.3617021276595374 322.45106382978724 1021.6851063829787 185.47234042553225
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {4, 961, 3045x552}
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:32:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:33:28 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:33:30 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:33:40 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3045.0 * 552.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 130.72340425531917 203.74468085106378 741.8553191489361 406.0
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {389, 607, 2211x1210}
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-04-30 17:34:19 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:21 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2211.0 * 1210.0
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 338.55319148936155 261.95744680851067 368.3404255319146 318.6808510638294
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {1009, 780, 1097x949}
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 1097.0 * 949.0
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 338.55319148936155 261.95744680851067 368.3404255319146 318.6808510638294
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {1009, 780, 1097x949}
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 542.2978723404256 startY 107.8617021276596 endX 534.6382978723404 endY 411.1808510638298
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 534.6382978723404 startY 411.1808510638298 endX 540.7659574468086 endY 863.0957446808511
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 281.87234042553206 startY 143.09574468085106 endX 376.85106382978734 endY 878.4148936170212
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - print line startX 376.85106382978734 startY 878.4148936170212 endX 119.48936170212778 endY 680.7978723404256
+2025-04-30 17:34:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ================================================

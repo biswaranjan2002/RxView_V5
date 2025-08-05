@@ -1,0 +1,884 @@
+2025-07-17 14:57:34 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 14:57:46 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-17 14:57:50 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-17 14:57:50 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-17 14:57:50 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-17 14:57:51 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-17 14:57:51 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-17 14:57:51 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-17 14:57:51 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 14:57:51 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-17 14:57:51 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 14:57:52 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-17 14:57:52 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-17 14:57:52 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-17 14:57:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - StepEntity is null, no params to apply
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 0.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -2.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -514.0 1.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -4.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1028.0 1.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -5.0
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1285.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -7.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1799.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -8.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2056.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -8.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2056.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -9.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2313.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -9.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2313.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -10.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2570.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -11.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2827.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -11.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2827.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -11.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2827.0 1.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -12.0
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3084.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -13.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3341.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -14.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3598.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -14.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3598.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -15.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3855.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -16.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4112.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -16.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4112.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -16.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4112.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -12.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3084.0 1.0
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -6.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1542.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 257.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 6.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 1542.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 9.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 2313.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 11.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 2827.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 13.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3341.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 14.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3598.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 16.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4112.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 19.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4883.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 22.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5654.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 23.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5911.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 24.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6168.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 25.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6425.0 1.0
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 26.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6682.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 26.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6682.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 20.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5140.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 13.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3341.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 3.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 771.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -6.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1542.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -32.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -8224.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -45.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -11565.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -50.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -12850.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -53.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -13621.0 1.0
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:06 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -55.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -14135.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -58.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -14906.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -59.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15163.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -61.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15677.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -63.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -16191.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -63.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -16191.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -64.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -16448.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -63.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -16191.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -43.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -11051.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -25.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6425.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -8.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2056.0 1.0
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 0.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 7.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 1799.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 12.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3084.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 14.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3598.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 18.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4626.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 20.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5140.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 22.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5654.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 23.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5911.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 24.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6168.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 26.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6682.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 27.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6939.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 29.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 7453.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 38.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 9766.0 1.0
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 49.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12593.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 53.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13621.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 55.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 14135.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 58.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 14906.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 60.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15420.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 60.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15420.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 62.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15934.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 62.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15934.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 62.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15934.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 54.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13878.0 1.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 42.0
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 10794.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 22.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 5654.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 9.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 2313.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -3.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -771.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -9.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2313.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -16.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4112.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -24.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6168.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -31.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -7967.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -34.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -8738.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -38.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -9766.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -41.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -10537.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -45.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -11565.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -49.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -12593.0 1.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -53.0
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -13621.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -57.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -14649.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -59.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15163.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -60.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15420.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -62.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15934.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -63.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -16191.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -61.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -15677.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -38.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -9766.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -14.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3598.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: -4.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1028.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 2.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 514.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 14.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3598.0 1.0
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 31.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 7967.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 43.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 11051.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 46.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 11822.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 47.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12079.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 48.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12336.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 49.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12593.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 50.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12850.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 50.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 12850.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 52.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Brightness Slider with value: 52.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:34 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:34 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:34 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:34 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:34 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 2.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Contrast Slider with value: 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 13364.0 1.0
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 14:58:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0

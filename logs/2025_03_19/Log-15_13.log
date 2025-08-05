@@ -1,0 +1,26 @@
+2025-03-19 15:13:43 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-19 15:13:43 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-19 15:13:43 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-19 15:13:44 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-19 15:13:47 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-19 15:13:54 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-19 15:13:56 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-19 15:13:56 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:13:56 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-19 15:14:01 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:14:02 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:14:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:14:05 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:14:05 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:14:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:14:13 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - before calling dicom
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - while calling dicom
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - inside createDicomFile
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - images ready
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - meta data is ready
+2025-03-19 15:14:15 INFO  c.r.r.modules.dicom.DicomCreator - inside dicom creator
+2025-03-19 15:14:15 INFO  c.r.r.modules.dicom.DicomCreator - inside generateDICOMPixelModuleFromMatList
+2025-03-19 15:14:15 INFO  c.r.r.modules.dicom.DicomCreator - file path : 
+2025-03-19 15:14:15 INFO  c.r.rxviewui.controller.ExportWindow - dicom file ready
+2025-03-19 15:14:51 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null

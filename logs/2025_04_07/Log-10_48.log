@@ -1,0 +1,14 @@
+2025-04-07 10:48:17 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-07 10:48:17 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-07 10:48:17 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-07 10:48:18 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-07 10:48:21 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-07 10:48:29 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-07 10:48:31 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-07 10:48:31 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-07 10:48:47 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-07 10:48:48 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-07 10:48:49 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-07 10:48:57 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 746d28b5-8304-47d1-974d-3d5c7ee751ee
+2025-04-07 10:48:58 INFO  c.r.r.service.print.PrintController - com.raymedis.rxviewui.modules.print.Layout.LayoutTab@687757ad
+2025-04-07 10:48:58 INFO  c.r.r.service.print.PrintController - Chest 

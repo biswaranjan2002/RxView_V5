@@ -1,0 +1,4 @@
+2025-04-17 14:34:00 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-17 14:34:01 INFO  c.r.r.service.login.LoginController - ip matched 192.168.12.10
+2025-04-17 14:34:01 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-17 14:34:04 INFO  c.r.r.service.login.LoginController - No devices found!!!

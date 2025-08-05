@@ -1,0 +1,952 @@
+2025-07-17 10:15:28 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-17 10:15:32 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-17 10:15:32 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-17 10:15:32 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-17 10:15:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-17 10:15:37 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-17 10:15:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-17 10:15:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 10:15:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-17 10:15:37 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 10:15:38 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-17 10:15:38 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-17 10:15:38 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-17 10:15:41 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-17 10:15:41 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - StepEntity is null, no params to apply
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 27.996595744680164 1.0
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 1147.8604255319144 1.0
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 2939.642553191489 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4815.414468085106 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6355.227234042553 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 7531.08425531915 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 7979.029787234043 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 8007.026382978722 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 7951.033191489361 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 6887.16255319149 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4787.417872340425 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 3107.622127659574 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 1315.8399999999997 1.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -195.976170212767 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -1679.7957446808514 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -2687.673191489362 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3415.584680851064 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3975.5165957446816 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4087.5029787234043 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4115.4995744680855 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4171.492765957448 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -4647.434893617022 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -5683.308936170213 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6355.227234042554 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6439.217021276597 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6495.210212765959 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -6495.210212765959 1.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast -3275.60170212766 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 4703.428085106382 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 10190.760851063831 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 15454.12085106383 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 16657.974468085107 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 17469.87574468085 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 17581.862127659577 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 17721.845106382978 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:15:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:13 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:14 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:17 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - frame type CV_16UC1
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 32767.0 1.0
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 10:16:20 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0

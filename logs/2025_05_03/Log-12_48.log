@@ -1,0 +1,13 @@
+2025-05-03 12:48:19 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-03 12:48:20 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-03 12:48:20 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-03 12:48:20 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-03 12:48:23 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-03 12:48:29 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 2.9736328125
+2025-05-03 12:48:29 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.9736328125
+2025-05-03 12:48:30 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 2.1591796875
+2025-05-03 12:48:31 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.1591796875
+2025-05-03 12:48:50 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 1.0712890625
+2025-05-03 12:48:50 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 1.0712890625
+2025-05-03 12:48:58 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 2.1591796875
+2025-05-03 12:48:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.1591796875

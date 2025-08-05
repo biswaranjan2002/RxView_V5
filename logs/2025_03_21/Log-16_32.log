@@ -1,0 +1,50 @@
+2025-03-21 16:33:02 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-21 16:33:02 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-21 16:33:02 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-21 16:33:02 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-21 16:33:05 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-21 16:33:10 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:10 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:10 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:10 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:12 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-21 16:33:13 INFO  c.r.r.service.study.StudyService - 838.0 1024.0
+2025-03-21 16:33:13 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:13 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:33:14 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:14 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-21 16:33:17 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:22 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:22 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:23 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:23 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:23 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 1 
+2025-03-21 16:33:24 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 2 
+2025-03-21 16:33:24 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:24 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:24 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:25 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:25 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:25 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:26 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:26 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:37 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:33:37 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:33:37 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - before distanceDrawWrapperList 1 , lines size 1 
+2025-03-21 16:33:37 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - after distanceDrawWrapperList 1 , lines size 2 
+2025-03-21 16:33:37 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:33:37 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:33:39 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:33:39 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane maxHeight="815.0" maxWidth="400.0" minHeight="815.0" minWidth="400.0" prefHeight="815.0" prefWidth="400.0" styleClass="fontStyle" stylesheets="@../../../../Styles/Css/AdditionalTools.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.studyModule.AdditionalTools">
+    <VBox maxHeight="815.0" maxWidth="400.0" minHeight="815.0" minWidth="400.0" prefHeight="815.0" prefWidth="400.0">
+        <children>
+            <ScrollPane hbarPolicy="NEVER" maxHeight="815.0" maxWidth="400.0" minHeight="815.0" minWidth="400.0" prefHeight="815.0" prefWidth="400.0" styleClass="scroll-pane2" vbarPolicy="ALWAYS">
+                <content>
+                    <VBox maxWidth="400.0" minWidth="400.0" prefWidth="400.0">
+                        <children>
+                            <JFXButton fx:id="pointButton" onAction="#pointClick" alignment="CENTER" contentDisplay="CENTER" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" text="Point" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton fx:id="arrowButton" onAction="#arrowClick" alignment="CENTER" contentDisplay="CENTER" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" text="Arrow" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" text="Distance" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Circle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="3 Point Circle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Circle Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Vertical Discrepancy" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cross Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Middle Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="V-Axis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="H-Axis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Free-Axis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Horizontal Level" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Vertical Level" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Free Axis Level" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Point Ratio" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="3 Point Ratio" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cardio-Thoracic Ratio" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Leg Length Discrepancy" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Femoral Symmetry" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Acetabular Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Meta-Diaphyseal Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Illac Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Double Line Axis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cnter Edge Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="PMAA/CMAA" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Axis Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="IMA/HVA" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Measurements Callibration" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Free Rotate" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <Label alignment="TOP_LEFT" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" text="Advanced Tools" textFill="WHITE">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                                <padding>
+                                    <Insets top="10.0" />
+                                </padding>
+                            </Label>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Spine Label" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Spine Analysis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cobb Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Vertebral Line" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="George's Line" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cervical Curve" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Atlas-Axis Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Atlas (C1) Plane Angle" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cervical Curve C2-C7" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Cervical Curve C1-T2" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Spinolaminar Line" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Vertebral Angulations" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Advanced Line Analysis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Lumbar Curve" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Spondyloslisthesis" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                            <JFXButton alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="45.0" maxWidth="380.0" minHeight="45.0" minWidth="380.0" prefHeight="45.0" prefWidth="380.0" styleClass="unSelectedAdditionalToolsButton" text="Pelvic Parameters" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="20.0" />
+                                </font>
+                                 <styleClass>
+                           <String fx:value="unSelectedAdditionalToolsButton" />
+                           <String fx:value="fontStyle" />
+                        </styleClass>
+                            </JFXButton>
+                        </children>
+                        <padding>
+                            <Insets left="1.0" />
+                        </padding>
+                    </VBox>
+                </content>
+            </ScrollPane>
+        </children>
+    </VBox>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+
+</GridPane>

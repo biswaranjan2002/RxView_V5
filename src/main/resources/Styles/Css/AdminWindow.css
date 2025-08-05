@@ -1,0 +1,56 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+.label{
+    -fx-text-fill:-text;
+}
+
+#GridPane{
+     -fx-background-color: -primary;
+      -fx-background-radius: 10;
+}
+
+#StackPanel{
+    -fx-background-color: -secondary;
+    -fx-background-radius: 10;
+}
+
+.scroll-pane {
+    -fx-background-color: -secondary;
+    -fx-background-radius:  10;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 10;
+}
+
+.AdminOptionButtons{
+     -fx-background-radius: 10;
+     -fx-background-color: transparent;
+     -fx-text-fill:-text;
+     -fx-focus-traversable:false;
+     -fx-font-size:24;
+}
+
+
+
+.unSelectedAdminSubOptionButtons{
+     -fx-background-radius: 10;
+     -fx-background-color: transparent;
+     -fx-text-fill:-additional;
+     -fx-border-width: 0 0 0 0;
+     -fx-border-color:-accent;
+     -fx-focus-traversable:false;
+      -fx-font-size:18;
+}
+
+.selectedAdminSubOptionButtons{
+     -fx-background-radius: 10;
+     -fx-background-color: transparent;
+     -fx-text-fill:-text;
+     -fx-border-width: 0 0 0 1;
+     -fx-border-color:-accent;
+     -fx-focus-traversable:false;
+      -fx-font-size:18;
+}

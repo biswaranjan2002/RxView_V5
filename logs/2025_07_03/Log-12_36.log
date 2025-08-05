@@ -1,0 +1,51 @@
+2025-07-03 12:36:12 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-03 12:36:12 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-03 12:36:12 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-03 12:36:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Read bytes: [119, 1, 1, 1, 1, 1, 0]
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 5
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 4
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 3
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 2
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 1
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock count: 0
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock: 
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - all faults: true true true true true true
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Detected Faults:
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Overvoltage: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Filament: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Thermal: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Rotor: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Overcurrent: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - GOS: false
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Interlocks retrieved successfully.
+2025-07-03 12:36:19 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Calling X-ray mode set.
+2025-07-03 12:36:19 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-03 12:36:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Read bytes: [97]
+2025-07-03 12:36:25 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Received DO_NOTHING command.
+2025-07-03 12:36:58 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-03 12:36:58 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-03 12:36:58 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-03 12:37:11 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-03 12:37:13 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-03 12:37:13 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-03 12:37:15 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-03 12:37:15 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-03 12:37:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-03 12:37:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-03 12:37:17 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-03 12:37:17 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done

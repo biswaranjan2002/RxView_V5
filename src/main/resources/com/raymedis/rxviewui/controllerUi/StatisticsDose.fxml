@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXRadioButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<GridPane maxHeight="950.0" maxWidth="1585.0" minHeight="950.0" minWidth="1585.0" prefHeight="950.0" prefWidth="1585.0" styleClass="fontStyle"
+          stylesheets="@../../../../Styles/Css/StatisticsPage.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.databaseModule.statistics.StatisticsDose">
+    <children>
+        <VBox alignment="CENTER" maxHeight="950.0" maxWidth="1585.0" minHeight="950.0" minWidth="1585.0" prefHeight="950.0" prefWidth="1585.0" spacing="10.0">
+            <children>
+                <HBox id="ShadowEffectBox2" alignment="CENTER_LEFT" maxHeight="80.0" maxWidth="1575.0" minHeight="80.0" minWidth="1575.0" prefHeight="80.0" prefWidth="1575.0">
+                    <children>
+                        <Label maxHeight="65.0" maxWidth="750.0" minHeight="65.0" minWidth="750.0" prefHeight="65.0" prefWidth="750.0" text="Dose : 0 uGy , 0 uGy/Image,  0 uGy/Study " />
+                    </children>
+                    <VBox.margin>
+                        <Insets />
+                    </VBox.margin>
+                    <padding>
+                        <Insets left="15.0" />
+                    </padding>
+                </HBox>
+                <HBox alignment="CENTER_LEFT" maxHeight="850.0" maxWidth="1575.0" minHeight="850.0" minWidth="1575.0" prefHeight="850.0" prefWidth="1575.0" spacing="10.0">
+                    <children>
+                        <VBox id="ShadowEffectBox2" alignment="BOTTOM_CENTER" maxHeight="835.0" maxWidth="515.0" minHeight="835.0" minWidth="515.0" prefHeight="835.0" prefWidth="515.0">
+                            <children>
+                                <LineChart focusTraversable="true" maxHeight="800.0" maxWidth="515.0" minHeight="800.0" minWidth="515.0" prefHeight="800.0" prefWidth="515.0">
+                                    <xAxis>
+                                        <CategoryAxis side="BOTTOM" />
+                                    </xAxis>
+                                    <yAxis>
+                                        <NumberAxis side="LEFT" />
+                                    </yAxis>
+                                </LineChart>
+                            </children>
+                        </VBox>
+                        <VBox alignment="CENTER" maxHeight="835.0" maxWidth="1050.0" minHeight="835.0" minWidth="1050.0" prefHeight="835.0" prefWidth="1050.0" spacing="10.0">
+                            <children>
+                                <VBox id="ShadowEffectBox2" alignment="TOP_RIGHT" maxHeight="415.0" maxWidth="1050.0" minHeight="415.0" minWidth="1050.0" prefHeight="415.0" prefWidth="1050.0">
+                                    <children>
+                                        <HBox alignment="CENTER_LEFT" maxHeight="65.0" maxWidth="1050.0" minHeight="65.0" minWidth="1050.0" prefHeight="65.0" prefWidth="1050.0">
+                                            <children>
+                                                <JFXRadioButton maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Month" />
+                                                <JFXRadioButton maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Week" />
+                                                <JFXRadioButton maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Day" />
+                                    <HBox alignment="CENTER_RIGHT" maxHeight="65.0" maxWidth="500.0" minHeight="65.0" minWidth="500.0" prefHeight="65.0" prefWidth="500.0">
+                                       <padding>
+                                          <Insets left="25.0" />
+                                       </padding>
+                                       <children>
+                                          <Label alignment="CENTER_RIGHT" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Study Statistics" />
+                                       </children>
+                                       <HBox.margin>
+                                          <Insets left="125.0" />
+                                       </HBox.margin>
+                                    </HBox>
+                                            </children>
+                                            <VBox.margin>
+                                                <Insets />
+                                            </VBox.margin>
+                                            <padding>
+                                                <Insets left="25.0" />
+                                            </padding>
+                                        </HBox>
+                                    </children>
+                                </VBox>
+                                <VBox id="ShadowEffectBox2" alignment="CENTER" maxHeight="410.0" maxWidth="1050.0" minHeight="410.0" minWidth="1050.0" prefHeight="410.0" prefWidth="1050.0">
+                           <children>
+                              <HBox alignment="CENTER_RIGHT" maxHeight="65.0" maxWidth="1050.0" minHeight="65.0" minWidth="1050.0" prefHeight="65.0" prefWidth="1050.0">
+                                 <padding>
+                                    <Insets left="25.0" />
+                                 </padding>
+                                 <children>
+                                    <Label alignment="CENTER_RIGHT" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Performing Physician">
+                                       <padding>
+                                          <Insets right="25.0" />
+                                       </padding>
+                                    </Label>
+                                 </children>
+                              </HBox>
+                              <VBox maxHeight="345.0" maxWidth="1050.0" minHeight="345.0" minWidth="1050.0" prefHeight="345.0" prefWidth="1050.0" />
+                           </children></VBox>
+                            </children>
+                        </VBox>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </children>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

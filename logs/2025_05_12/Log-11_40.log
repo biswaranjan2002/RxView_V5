@@ -1,0 +1,20 @@
+2025-05-12 11:40:44 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-12 11:40:44 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.204.139 and 192.168.12.10
+2025-05-12 11:40:44 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-12 11:40:45 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-12 11:40:48 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-12 11:40:51 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-12 11:41:20 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-12 11:41:22 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-05-12 11:41:27 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-12 11:41:29 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\3,4 2048.0 2560.0
+2025-05-12 11:41:34 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-05-12 11:41:37 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-12 11:41:38 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-12 11:41:54 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,1 2048.0 2560.0
+2025-05-12 11:41:58 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-12 11:42:00 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-05-12 11:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-12 11:42:07 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-12 11:42:12 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-12 11:42:14 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\1,2,2,1 2048.0 2560.0

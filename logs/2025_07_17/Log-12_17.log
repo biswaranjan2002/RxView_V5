@@ -1,0 +1,456 @@
+2025-07-17 12:17:20 ERROR c.r.r.s.s.ProcessingToolsController - CanvasMainChange.mainDrawTool is null, cannot bind sliders.
+2025-07-17 12:17:20 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 12:17:26 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-17 12:17:26 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-17 12:17:26 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 12:17:31 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 12:17:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-17 12:17:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-17 12:17:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-17 12:17:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:17:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-17 12:17:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:17:33 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-17 12:17:33 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-17 12:17:33 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-17 12:17:36 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-17 12:17:36 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-07-17 12:17:37 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-17 12:17:37 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-17 12:17:37 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-17 12:17:37 INFO  c.r.r.m.I.D.MainDrawTool - StepEntity is null, no params to apply
+2025-07-17 12:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -755.9080851063834 1.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -3275.6017021276593 1.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -4199.489361702128 1.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -4227.485957446808 1.0
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -4283.479148936168 1.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -5039.387234042551 1.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -6971.152340425531 1.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -8091.016170212765 1.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -8566.95829787234 1.0
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:42 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -8706.941276595744 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -8958.91063829787 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -9378.859574468084 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -9910.79489361702 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -10218.757446808511 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -10666.702978723402 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11338.621276595743 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11870.556595744682 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12122.525957446807 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12262.508936170212 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12318.502127659574 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12486.481702127658 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12822.440851063831 1.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13018.417021276597 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13214.393191489362 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13466.362553191488 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13746.328510638297 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13970.301276595745 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14222.270638297872 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14390.250212765959 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14558.229787234042 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14614.222978723403 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14642.219574468085 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -14698.212765957445 1.0
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.0 newVal=-0.554016620498615
+2025-07-17 12:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -0.554016620498615
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -142.38227146814404 1.0
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-0.554016620498615 newVal=-1.10803324099723
+2025-07-17 12:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -1.10803324099723
+2025-07-17 12:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -284.7645429362881 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-1.10803324099723 newVal=-3.32409972299169
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -3.32409972299169
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -854.2936288088644 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-3.32409972299169 newVal=-5.54016620498615
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -5.54016620498615
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -1423.8227146814406 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-5.54016620498615 newVal=-6.64819944598338
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -6.64819944598338
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -1708.5872576177287 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-6.64819944598338 newVal=-7.202216066481995
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -7.202216066481995
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -1850.9695290858726 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-7.202216066481995 newVal=-7.75623268698061
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -7.75623268698061
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -1993.3518005540168 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-7.75623268698061 newVal=-8.86426592797784
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -8.86426592797784
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -2278.1163434903046 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-8.86426592797784 newVal=-9.97229916897507
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -9.97229916897507
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -2562.880886426593 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-9.97229916897507 newVal=-12.742382271468145
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -12.742382271468145
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -3274.7922437673133 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-12.742382271468145 newVal=-13.850415512465375
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -13.850415512465375
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -3559.5567867036016 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-13.850415512465375 newVal=-14.40443213296399
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -14.40443213296399
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -3701.9390581717453 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-14.40443213296399 newVal=-15.51246537396122
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -15.51246537396122
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -3986.7036011080336 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-15.51246537396122 newVal=-17.72853185595568
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -17.72853185595568
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -4556.232686980609 1.0
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-17.72853185595568 newVal=-21.05263157894737
+2025-07-17 12:17:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -21.05263157894737
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -5410.526315789474 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-21.05263157894737 newVal=-23.26869806094183
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -23.26869806094183
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -5980.05540166205 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-23.26869806094183 newVal=-24.930747922437675
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -24.930747922437675
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -6407.202216066483 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-24.930747922437675 newVal=-27.146814404432135
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -27.146814404432135
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -6976.7313019390585 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-27.146814404432135 newVal=-31.024930747922426
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -31.024930747922426
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -7973.4072022160635 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-31.024930747922426 newVal=-37.67313019390581
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -37.67313019390581
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -9681.994459833793 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-37.67313019390581 newVal=-39.88919667590027
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -39.88919667590027
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -10251.52354570637 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-39.88919667590027 newVal=-41.551246537396125
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -41.551246537396125
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -10678.670360110804 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-41.551246537396125 newVal=-42.65927977839334
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -42.65927977839334
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -10963.43490304709 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-42.65927977839334 newVal=-43.767313019390585
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -43.767313019390585
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11248.19944598338 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-43.767313019390585 newVal=-44.32132963988919
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -44.32132963988919
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11390.581717451523 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-44.32132963988919 newVal=-44.87534626038781
+2025-07-17 12:17:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -44.87534626038781
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11532.963988919666 1.0
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-44.87534626038781 newVal=-45.42936288088642
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -45.42936288088642
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -11675.34626038781 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-45.42936288088642 newVal=-48.199445983379505
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -48.199445983379505
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12387.257617728532 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-48.199445983379505 newVal=-50.41551246537396
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -50.41551246537396
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -12956.786703601107 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-50.41551246537396 newVal=-52.63157894736842
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -52.63157894736842
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13526.315789473683 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-52.63157894736842 newVal=-53.18559556786704
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -53.18559556786704
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13668.69806094183 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-53.18559556786704 newVal=-53.73961218836565
+2025-07-17 12:17:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -53.73961218836565
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13811.08033240997 1.0
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:53 INFO  c.r.r.s.s.ProcessingToolsController - Slider released at value: -53.73961218836565
+2025-07-17 12:17:53 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -53.73961218836565
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -13811.08033240997 1.0
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:17:53 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=-53.73961218836565 newVal=-60.0
+2025-07-17 12:17:53 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: -60.0
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast -15420.0 1.0
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:17:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0

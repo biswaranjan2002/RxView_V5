@@ -1,0 +1,66 @@
+2025-05-02 11:24:49 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-02 11:24:50 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-02 11:24:50 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-02 11:24:51 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-02 11:24:54 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-02 11:26:57 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 741x406}
+2025-05-02 11:27:00 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 741x417}
+2025-05-02 11:27:00 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 753x428}
+2025-05-02 11:27:00 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 810x509}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 814x512}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 871x558}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 898x577}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 921x596}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 1024x673}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 1047x695}
+2025-05-02 11:27:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 1916x1062}
+2025-05-02 11:27:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2008x1111}
+2025-05-02 11:27:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2294x1256}
+2025-05-02 11:27:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2302x1260}
+2025-05-02 11:27:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2428x1302}
+2025-05-02 11:27:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2595x1386}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2626x1401}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2718x1436}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2737x1443}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2866x1474}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2878x1478}
+2025-05-02 11:27:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2878x1478}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2908x1489}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2908x1489}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2920x1493}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2840x1531}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2828x1531}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2702x1512}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2687x1504}
+2025-05-02 11:27:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2557x1481}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2550x1481}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2458x1470}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {130, 203, 2412x1447}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {123, 203, 2412x1447}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {81, 203, 2412x1447}
+2025-05-02 11:27:06 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {54, 207, 2412x1447}
+2025-05-02 11:27:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {54, 310, 2412x1447}
+2025-05-02 11:27:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {31, 360, 2412x1447}
+2025-05-02 11:27:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {42, 360, 2412x1447}
+2025-05-02 11:27:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {69, 360, 2412x1447}
+2025-05-02 11:27:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {92, 360, 2412x1447}
+2025-05-02 11:27:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {138, 360, 2412x1447}
+2025-05-02 11:27:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {149, 360, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {187, 360, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {207, 360, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {237, 360, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {248, 360, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 363, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 383, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 428, 2412x1447}
+2025-05-02 11:27:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 440, 2412x1447}
+2025-05-02 11:27:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 451, 2412x1447}
+2025-05-02 11:27:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 459, 2412x1447}
+2025-05-02 11:27:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 459, 2412x1455}
+2025-05-02 11:27:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 459, 2412x1485}
+2025-05-02 11:27:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rect: {252, 459, 2412x1516}

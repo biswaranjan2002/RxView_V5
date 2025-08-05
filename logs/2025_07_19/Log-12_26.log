@@ -1,0 +1,1665 @@
+2025-07-19 12:26:56 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-19 12:27:00 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-19 12:27:00 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-19 12:27:00 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-19 12:27:01 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:01 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:27:01 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:27:01 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:01 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:01 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:27:01 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-19 12:27:01 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-19 12:27:01 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-19 12:27:03 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-19 12:27:03 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-19 12:27:05 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-19 12:27:05 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-19 12:27:07 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-19 12:27:07 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-19 12:27:07 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-19 12:27:07 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-19 12:27:07 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-19 12:27:07 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-19 12:27:07 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-19 12:27:07 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-19 12:27:11 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 70.0, MA: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 70.0, currentMa: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 69.0, ma1: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - x: 173
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.323
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 69.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 69.0, MA: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 69.0, currentMa: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 68.0, ma1: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - x: 170
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.326
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 68.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 68.0, MA: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 68.0, currentMa: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 67.0, ma1: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - x: 168
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.329
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 67.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 67.0, MA: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 67.0, currentMa: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 66.0, ma1: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - x: 165
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.332
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 66.0
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:11 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:11 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 66.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 66.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 65.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 163
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.335
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 65.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 65.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 65.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 64.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 160
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.338
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 64.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 64.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 64.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 63.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 158
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.341
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 63.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 63.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 63.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 62.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 155
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.344
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 62.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 62.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 62.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 61.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 153
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.347
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 61.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 61.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 61.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 60.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 150
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 60.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 60.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 60.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 59.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 148
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.355
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 59.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 59.0, MA: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 59.0, currentMa: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 58.0, ma1: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - x: 145
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.36
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 58.0
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:13 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 58.0,  MA: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 58.0, currentMa: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 59.0, ma1: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - x: 148
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.355
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 59.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:13 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 59.0,  MA: 80.0
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 59.0, currentMa: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 60.0, ma1: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - x: 150
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.35
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 60.0
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:13 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:13 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:14 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 60.0,  MA: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 60.0, currentMa: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 61.0, ma1: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - x: 153
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.347
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 61.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:14 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 61.0,  MA: 80.0
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 61.0, currentMa: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 62.0, ma1: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - x: 155
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.344
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 62.0
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:14 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:14 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 62.0,  MA: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 62.0, currentMa: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 63.0, ma1: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - x: 158
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.341
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 63.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:15 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 63.0,  MA: 80.0
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 63.0, currentMa: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 64.0, ma1: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - x: 160
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.338
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 64.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 64.0,  MA: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 64.0, currentMa: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 65.0, ma1: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - x: 163
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.335
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 65.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 65.0,  MA: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 65.0, currentMa: 80.0
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 66.0, ma1: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - x: 165
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.332
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 66.0
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:15 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:15 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 66.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 66.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 65.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 163
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.335
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 65.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 65.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 65.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 64.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 160
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.338
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 64.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 64.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 64.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 63.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 158
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.341
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 63.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 63.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 63.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 62.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 155
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.344
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 62.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 62.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 62.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 61.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 153
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.347
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 61.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 61.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 61.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 60.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 150
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 60.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 60.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 60.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 59.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 148
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.355
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 59.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 59.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 59.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 58.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 145
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.36
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 58.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 58.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 58.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 57.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 143
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.365
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 57.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 57.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 57.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 56.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 140
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.37
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 56.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 56.0, MA: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 56.0, currentMa: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 55.0, ma1: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - x: 138
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.375
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 55.0
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:18 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:18 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 55.0, MA: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 55.0, currentMa: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 54.0, ma1: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - x: 135
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.38
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 54.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:19 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 54.0, MA: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 54.0, currentMa: 80.0
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 53.0, ma1: 80.0
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - x: 133
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.385
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 53.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 53.0, MA: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 53.0, currentMa: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 52.0, ma1: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - x: 130
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.39
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 52.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 52.0, MA: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 52.0, currentMa: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 51.0, ma1: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - x: 128
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.395
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 51.0
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:19 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 51.0, MA: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 51.0, currentMa: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 50.0, ma1: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - x: 125
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 50.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:20 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 50.0, MA: 80.0
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 50.0, currentMa: 80.0
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 49.0, ma1: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - x: 123
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.405000000000001
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 49.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 49.0, MA: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 49.0, currentMa: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 48.0, ma1: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - x: 120
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.41
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 48.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:20 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 48.0, MA: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 48.0, currentMa: 80.0
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 47.0, ma1: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - x: 118
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.415
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 47.0
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:20 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:23 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 47.0, MA: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 47.0, currentMa: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 46.0, ma1: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - x: 115
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.42
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 46.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:23 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 46.0, MA: 80.0
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 46.0, currentMa: 80.0
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 45.0, ma1: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - x: 113
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.425
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 45.0
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:23 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:24 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 45.0, MA: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 45.0, currentMa: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 44.0, ma1: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - x: 110
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.43
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 44.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:24 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 44.0, MA: 80.0
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 44.0, currentMa: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 43.0, ma1: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - x: 108
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.434999999999999
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 43.0
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:24 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:25 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 43.0, MA: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 43.0, currentMa: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 42.0, ma1: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - x: 105
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.44
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 42.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:25 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 42.0, MA: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 42.0, currentMa: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 41.0, ma1: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - x: 103
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.445
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 41.0
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:25 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:30 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 41.0,  MA: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 41.0, currentMa: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 42.0, ma1: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - x: 105
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.44
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 42.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:30 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 42.0,  MA: 80.0
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 42.0, currentMa: 80.0
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 43.0, ma1: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - x: 108
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.434999999999999
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 43.0
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:30 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 43.0,  MA: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 43.0, currentMa: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 44.0, ma1: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - x: 110
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.43
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 44.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:31 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 44.0,  MA: 80.0
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 44.0, currentMa: 80.0
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 45.0, ma1: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - x: 113
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.425
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 45.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 45.0,  MA: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 45.0, currentMa: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 46.0, ma1: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - x: 115
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.42
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 46.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 211
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -45
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 46.0,  MA: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 46.0, currentMa: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -45
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 47.0, ma1: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - x: 118
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.415
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 47.0
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:31 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 47.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 47.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 48.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 120
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.41
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 48.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 48.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 48.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 49.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 123
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.405000000000001
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 49.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.45
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.6
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 49.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 49.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 50.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 125
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 50.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 50.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 50.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 51.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 128
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.395
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 51.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 51.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 51.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 52.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 130
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.39
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 52.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 52.0,  MA: 80.0
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 52.0, currentMa: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 53.0, ma1: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - x: 133
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.385
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 53.0
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:32 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 53.0,  MA: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 53.0, currentMa: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 54.0, ma1: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - x: 135
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.38
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 54.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 210
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -46
+2025-07-19 12:27:33 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 54.0,  MA: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 54.0, currentMa: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 55.0, ma1: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - x: 138
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -46
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.375
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 55.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 55.0,  MA: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 55.0, currentMa: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 56.0, ma1: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - x: 140
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.37
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 56.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 56.0,  MA: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 56.0, currentMa: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 57.0, ma1: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - x: 143
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.365
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 57.0
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:33 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 57.0,  MA: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 57.0, currentMa: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 58.0, ma1: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - x: 145
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.36
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 58.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:34 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 58.0,  MA: 80.0
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 58.0, currentMa: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 59.0, ma1: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - x: 148
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.355
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 59.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.4
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.55
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 59.0,  MA: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 59.0, currentMa: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 60.0, ma1: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - x: 150
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 60.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:34 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 60.0,  MA: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 60.0, currentMa: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 61.0, ma1: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - x: 153
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.347
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 61.0
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:34 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 61.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 61.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 62.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 155
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.344
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 62.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 62.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 62.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 63.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 158
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.341
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 63.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 209
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -47
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -47
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 63.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 63.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 64.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 160
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.338
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 64.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 64.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 64.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 65.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 163
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.335
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 65.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 65.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 65.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 66.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 165
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.332
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 66.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:35 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 66.0,  MA: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 66.0, currentMa: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 67.0, ma1: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - x: 168
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.329
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 67.0
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 67.0,  MA: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 67.0, currentMa: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 68.0, ma1: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - x: 170
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.326
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 68.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:36 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 68.0,  MA: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 68.0, currentMa: 80.0
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 69.0, ma1: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - x: 173
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.323
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 69.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.35
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.52
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 69.0,  MA: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 69.0, currentMa: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 70.0,  MA: 80.0
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 70.0, currentMa: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 71.0, ma1: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - x: 178
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.317
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 71.0
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:36 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:37 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 71.0,  MA: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 71.0, currentMa: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 72.0, ma1: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - x: 180
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.314
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 72.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:37 INFO  c.r.r.s.study.StudyMainController - IncKv KV: 72.0,  MA: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - incKv currentKv: 72.0, currentMa: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 73.0, ma1: 80.0
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - x: 183
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.311
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 73.0
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:27:37 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:27:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.

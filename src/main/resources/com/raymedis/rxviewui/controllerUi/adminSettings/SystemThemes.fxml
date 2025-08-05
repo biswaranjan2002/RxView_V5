@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+
+<GridPane alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" styleClass="GridPane" stylesheets="@../../../../../Styles/Css/AdminSettings/System/Themes.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.system.SystemThemes">
+   <children>
+      <VBox id="ShadowEffectBox2" maxHeight="600.0" maxWidth="800.0" minHeight="600.0" minWidth="800.0" prefHeight="600.0" prefWidth="800.0" spacing="10.0">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <children>
+            <HBox maxHeight="60.0" maxWidth="800.0" minHeight="60.0" minWidth="800.0" prefHeight="60.0" prefWidth="800.0">
+               <children>
+                  <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="175.0" minHeight="60.0" minWidth="175.0" prefHeight="60.0" prefWidth="175.0" styleClass="fontStyle" text="Theme" />
+               </children>
+               <padding>
+                  <Insets left="20.0" top="-30.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" maxHeight="60.0" maxWidth="800.0" minHeight="60.0" minWidth="800.0" prefHeight="60.0" prefWidth="800.0" spacing="5.0">
+               <children>
+                  <Label alignment="CENTER" maxHeight="60.0" maxWidth="175.0" minHeight="60.0" minWidth="175.0" prefHeight="60.0" prefWidth="175.0" styleClass="fontStyle" text="Text Font        :">
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </Label>
+                  <JFXComboBox fx:id="textFontComboBox" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" styleClass="fontStyle">
+                     <items>
+                        <FXCollections fx:factory="observableArrayList">
+                           <String fx:value="Century Gothic" />
+                           <String fx:value="System" />
+                           <String fx:value="Times New Roman" />
+                        </FXCollections>
+                     </items>
+                     <value>
+                        <String fx:value="Century Gothic" />
+                     </value>
+                  </JFXComboBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" maxHeight="60.0" maxWidth="800.0" minHeight="60.0" minWidth="800.0" prefHeight="60.0" prefWidth="800.0" spacing="5.0">
+               <children>
+                  <Label alignment="CENTER" maxHeight="60.0" maxWidth="175.0" minHeight="60.0" minWidth="175.0" prefHeight="60.0" prefWidth="175.0" styleClass="fontStyle" text="Theme           :">
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </Label>
+                  <JFXComboBox fx:id="themeComboBox" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" onAction="#onUpdateTheme" prefHeight="50.0" prefWidth="300.0" styleClass="fontStyle">
+                     <items>
+                        <FXCollections fx:factory="observableArrayList">
+                           <String fx:value="Default" />
+                           <String fx:value="Dark" />
+                           <String fx:value="Light" />
+                           <String fx:value="Custom" />
+                        </FXCollections>
+                     </items>
+                     <value>
+                        <String fx:value="Default" />
+                     </value>
+                  </JFXComboBox>
+               </children>
+            </HBox>
+            <VBox fx:id="customThemeBox" alignment="CENTER" disable="true" maxHeight="300.0" maxWidth="800.0" minHeight="300.0" minWidth="800.0" prefHeight="300.0" prefWidth="800.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="800.0" minHeight="60.0" minWidth="800.0" prefHeight="60.0" prefWidth="800.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="60.0" maxWidth="375.0" minHeight="60.0" minWidth="375.0" prefHeight="60.0" prefWidth="375.0" styleClass="fontStyle" text="Custom Theme Color Combination">
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Label>
+                     </children>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="185.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="50.0" maxWidth="750.0" minHeight="50.0" minWidth="750.0" prefHeight="50.0" prefWidth="750.0">
+                     <children>
+                        <HBox alignment="CENTER" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0">
+                           <children>
+                              <Label maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="fontStyle" text="Background Color :" />
+                              <ColorPicker fx:id="colorPicker1" maxHeight="40.0" maxWidth="175.0" minHeight="40.0" minWidth="175.0" prefHeight="40.0" prefWidth="175.0" styleClass="fontStyle">
+                                 <value>
+                                    <Color red="0.22745098173618317" green="0.22745098173618317" blue="0.22745098173618317" />
+                                 </value></ColorPicker>
+                           </children>
+                        </HBox>
+                     </children>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="50.0" maxWidth="750.0" minHeight="50.0" minWidth="750.0" prefHeight="50.0" prefWidth="750.0">
+                     <children>
+                        <HBox alignment="CENTER" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0">
+                           <children>
+                              <Label maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="fontStyle" text="Foreground Color  :" />
+                              <ColorPicker fx:id="colorPicker2" maxHeight="40.0" maxWidth="175.0" minHeight="40.0" minWidth="175.0" prefHeight="40.0" prefWidth="175.0" styleClass="fontStyle">
+                                 <value>
+                                    <Color red="0.34117648005485535" green="0.33725491166114807" blue="0.33725491166114807" />
+                                 </value>
+                              </ColorPicker>
+                           </children>
+                        </HBox>
+                     </children>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="50.0" maxWidth="750.0" minHeight="50.0" minWidth="750.0" prefHeight="50.0" prefWidth="750.0">
+                     <children>
+                        <HBox alignment="CENTER" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0">
+                           <children>
+                              <Label maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="fontStyle" text="Button Color           :" />
+                              <ColorPicker fx:id="colorPicker3" maxHeight="40.0" maxWidth="175.0" minHeight="40.0" minWidth="175.0" prefHeight="40.0" prefWidth="175.0" styleClass="fontStyle">
+                                 <value>
+                                    <Color red="0.9254902005195618" green="0.3921568691730499" blue="0.10980392247438431" />
+                                 </value>
+                              </ColorPicker>
+                           </children>
+                        </HBox>
+                     </children>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="50.0" maxWidth="750.0" minHeight="50.0" minWidth="750.0" prefHeight="50.0" prefWidth="750.0">
+                     <children>
+                        <HBox alignment="CENTER" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0">
+                           <children>
+                              <Label maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="fontStyle" text="Text-Color               :" />
+                              <ColorPicker fx:id="colorPicker4" maxHeight="40.0" maxWidth="175.0" minHeight="40.0" minWidth="175.0" prefHeight="40.0" prefWidth="175.0" styleClass="fontStyle" />
+                           </children>
+                        </HBox>
+                     </children>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="50.0" maxWidth="750.0" minHeight="50.0" minWidth="750.0" prefHeight="50.0" prefWidth="750.0">
+                     <children>
+                        <HBox alignment="CENTER" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0">
+                           <children>
+                              <Label maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="fontStyle" text="Additional Color    :" />
+                              <ColorPicker fx:id="colorPicker5" maxHeight="40.0" maxWidth="175.0" minHeight="40.0" minWidth="175.0" prefHeight="40.0" prefWidth="175.0" styleClass="fontStyle">
+                                 <value>
+                                    <Color red="0.501960813999176" green="0.501960813999176" blue="0.501960813999176" />
+                                 </value>
+                              </ColorPicker>
+                           </children>
+                        </HBox>
+                     </children>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </HBox>
+               </children>
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </VBox>
+            <HBox alignment="CENTER_RIGHT" maxHeight="60.0" maxWidth="800.0" minHeight="60.0" minWidth="800.0" prefHeight="60.0" prefWidth="800.0" spacing="15.0">
+               <children>
+                  <JFXButton id="ActionButton" fx:id="saveButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#saveClick" prefHeight="50.0" prefWidth="125.0" text="Save" />
+                  <JFXButton id="ActionButton" fx:id="restartButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#restartClick" prefHeight="50.0" prefWidth="125.0" text="Restart" />
+               </children>
+               <padding>
+                  <Insets right="30.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+      <Label id="noteLabel" maxHeight="40.0" maxWidth="800.0" minHeight="40.0" minWidth="750.0" prefHeight="40.0" prefWidth="800.0" styleClass="fontStyle" text="*Note : Save and Restart to Apply the New Theme" GridPane.rowIndex="1">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <padding>
+            <Insets left="15.0" />
+         </padding></Label>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

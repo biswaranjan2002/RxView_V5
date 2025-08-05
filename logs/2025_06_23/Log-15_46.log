@@ -1,0 +1,6 @@
+2025-06-23 15:46:23 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-23 15:46:23 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-23 15:46:23 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-23 15:46:49 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-23 15:46:49 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-23 15:46:49 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.

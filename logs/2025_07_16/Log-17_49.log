@@ -1,0 +1,1143 @@
+2025-07-16 17:49:13 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-16 17:49:17 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-16 17:49:17 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-16 17:49:17 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-16 17:49:18 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-16 17:49:18 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-16 17:49:18 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-16 17:49:18 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:49:18 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-16 17:49:18 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:49:21 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-16 17:49:21 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-16 17:49:21 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-16 17:49:24 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-16 17:49:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - StepEntity is null, no params to apply
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.08
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.91
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.57
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.15
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.32
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.0
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.08
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.17
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.75
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.58
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.24
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.49
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.58
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.66
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.74
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.91
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.0
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.08
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.5
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.66
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.75
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.83
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.91
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.0
+2025-07-16 17:52:49 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.08
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.16
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.25
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.33
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.41
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.58
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.66
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.75
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.83
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.99
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.16
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.24
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.33
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.41
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.58
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.16
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:50 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.24
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.32
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.41
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.49
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.57
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.66
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.74
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.91
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.99
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.07
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.4
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.57
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.65
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.74
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.9
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.15
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.24
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.4
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.57
+2025-07-16 17:52:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.65
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.73
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.82
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.9
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.98
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.07
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.32
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.81
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.9
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.98
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.06
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.15
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.06
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.98
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.65
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.57
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.48
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.57
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.65
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.73
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.81
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.9
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.98
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.06
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:54 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:55 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.0
+2025-07-16 17:52:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:56 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.92
+2025-07-16 17:52:56 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.83
+2025-07-16 17:52:56 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.75
+2025-07-16 17:52:56 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.67
+2025-07-16 17:52:57 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.58
+2025-07-16 17:52:57 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.5
+2025-07-16 17:52:57 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.42
+2025-07-16 17:52:57 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.34
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.25
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.17
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.09
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.0
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:52:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.92
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.83
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.75
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.58
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.5
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.42
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.34
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.25
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.17
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.09
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.0
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.92
+2025-07-16 17:52:59 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.84
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.5
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.42
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.0
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.08
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.25
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.33
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.42
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.58
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.75
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:01 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.83
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.91
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.08
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.41
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.5
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.58
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.66
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.75
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.83
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.91
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.99
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.08
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.16
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:02 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.24
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.41
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.49
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.58
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.66
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.74
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.83
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.0
+2025-07-16 17:53:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:53:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:53:13 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.0
+2025-07-16 17:54:41 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 27.0
+2025-07-16 17:54:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:41 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 26.73
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 26.47
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 22.75
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 22.35
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 21.42
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 10.25
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.98
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.85
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.71
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.58
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.45
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.32
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 9.18
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:44 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 8.12
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 6.12
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 5.46
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 4.26
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 3.47
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Denoise Slider with value: 3.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:45 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.08
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.33
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.58
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.91
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.41
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.07
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 18.16
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 20.48
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.81
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.39
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.14
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.97
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.13
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.22
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.88
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.05
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.63
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 28.38
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.04
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.12
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.29
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.62
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.04
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.12
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.2
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:48 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.92
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.75
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.58
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.34
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.09
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.67
+2025-07-16 17:54:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.93
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.69
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.86
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.95
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.79
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.73
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:54:52 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.08
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.25
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.33
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.17
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.66
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.16
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.06
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 12.88
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.8
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 16.79
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 18.53
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 18.78
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 18.95
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.03
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.12
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.0
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.08
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.33
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.65
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.23
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.9
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.73
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.98
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.31
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.48
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 28.14
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:25 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.06
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.64
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.72
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.05
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.14
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.74
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.38
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.38
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 4.37
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.2
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.78
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.35
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.92
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.99
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.4
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.06
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.55
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.47
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.07
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.69
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.8
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.96
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.62
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.18
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.83
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.24
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.07
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.32
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.48
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:32 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.0
+2025-07-16 17:55:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:34 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.92
+2025-07-16 17:55:34 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.83
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.75
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.67
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.58
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.5
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.42
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.34
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.25
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.17
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.0
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:55:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:55:39 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.0
+2025-07-16 17:55:40 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.0
+2025-07-16 17:55:51 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.92
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.83
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.75
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.67
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.08
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.5
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.73
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.81
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.3
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.44
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.02
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.5
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.92
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 28.26
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.51
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 26.1
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.6
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.35
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.52
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.27
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.94
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.19
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:28 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.28
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.78
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 17.45
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.22
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.73
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.56
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.48
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.39
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.31
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.07
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:30 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.33
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.07
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.31
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.56
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.64
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.73
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.64
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.19
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:32 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.36
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.44
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.01
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.92
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.67
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.42
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.17
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.92
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.09
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.43
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.93
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.6
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.2
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.22
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 11.22
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.97
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.72
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.56
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.39
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.14
+2025-07-16 17:56:35 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.06
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.98
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.81
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.64
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 8.81
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.98
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.32
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.24
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.15
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.07
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.99
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.65
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 4.49
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.74
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.41
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.24
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.91
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.66
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.58
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.5
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.41
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.33
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.25
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.16
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.91
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.66
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.33
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.17
+2025-07-16 17:56:36 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.08
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:37 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.25
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.74
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.48
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.79
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 20.7
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 21.61
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.77
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 22.94
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.77
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 23.94
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:42 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.02
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.19
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.27
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.35
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.43
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.52
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.68
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.77
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.85
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 24.93
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.1
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 25.85
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.67
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.42
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.58
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 31.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:43 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 30.58
+2025-07-16 17:56:45 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 29.92
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 27.84
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 19.45
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 15.54
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 14.88
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 13.63
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.89
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.72
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.64
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.56
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.39
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.31
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.14
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 10.06
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.89
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 9.48
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 7.57
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 6.24
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 5.49
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 4.74
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.83
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 3.16
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.58
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.08
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 2.0
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.91
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.5
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.service.study.ProcessingToolsService - Processing Sharpness Slider with value: 1.0
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:56:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0

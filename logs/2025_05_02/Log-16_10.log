@@ -1,0 +1,112 @@
+2025-05-02 16:10:53 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-02 16:10:53 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-02 16:10:53 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-02 16:10:54 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-02 16:10:57 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:58 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:11:58 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x185
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x185
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:11:59 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:00 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x185
+2025-05-02 16:12:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:00 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:12:00 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 213.51489361702127 startY 61.40851063829787 endX 840.9872340425532 endY 58.14042553191489
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:08 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x561
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x561
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 261.4468085106383 startY 238.51489361702127 endX 370.3829787234043 endY 382.31063829787234
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 370.3829787234043 startY 382.31063829787234 endX 374.74042553191487 endY 69.66382978723404
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 717.8893617021276 startY 382.31063829787234 endX 809.3957446808511 endY 186.22553191489362
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - line startX 809.3957446808511 startY 186.22553191489362 endX 868.2212765957447 endY 283.1787234042553
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - is crop selected true 
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x649
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================
+2025-05-02 16:12:10 INFO  c.r.r.m.I.D.CanvasMainChange - ================================================

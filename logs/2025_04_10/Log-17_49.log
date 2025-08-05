@@ -1,0 +1,2 @@
+2025-04-10 17:49:56 WARN  c.p.network.VerificationSOPClassSCU - Debug level supplied as constructor argument ignored
+2025-04-10 17:49:56 INFO  c.r.rxviewui.modules.dicom.DicomTest - Echo : Success

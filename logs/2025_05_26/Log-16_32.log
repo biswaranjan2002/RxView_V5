@@ -1,0 +1,32 @@
+2025-05-26 16:33:02 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 16:33:03 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 16:33:03 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 16:33:03 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 16:33:07 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 16:34:49 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:34:50 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:34:51 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:34:51 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 3052 * 2500
+2025-05-26 16:34:55 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:34:56 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:34:56 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:34:58 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:34:59 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:34:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:35:01 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 3052 * 2500
+2025-05-26 16:35:04 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:35:05 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:35:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:35:07 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:35:08 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:35:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:35:11 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:35:11 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:35:12 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:35:12 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 3052 * 2500
+2025-05-26 16:38:39 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:38:39 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:38:39 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:38:41 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 16:39:24 INFO  com.raymedis.rxviewui.service.study.StudyMainController - saving for export...
+2025-05-26 16:39:25 INFO  com.raymedis.rxviewui.controller.ExportWindow - initialized

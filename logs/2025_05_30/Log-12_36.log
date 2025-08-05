@@ -1,0 +1,10 @@
+2025-05-30 12:36:25 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-30 12:36:25 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-30 12:36:25 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-30 12:36:28 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-05-30 12:36:28 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 12:36:31 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 12:36:31 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 12:36:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 12:36:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 12:36:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L

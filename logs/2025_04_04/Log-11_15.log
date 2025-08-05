@@ -1,0 +1,9 @@
+2025-04-04 11:16:57 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-04 11:16:58 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-04 11:16:58 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-04 11:16:58 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-04 11:17:01 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-04 11:18:46 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-04 11:18:47 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-04 11:18:48 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-04 11:19:27 INFO  c.r.r.service.print.PrintService - loadStudyData patientStudy : PatientStudy{patientInfo=PatientInfo{patientId='', patientName='', age=0, height=0.0, weight=0.0, birthDate=2025-04-04T11:18:43.192475800, patientSize='Medium', sex='male', patientInstituteResidence=''}, studyId='', studyUid=' ', bodyPartHandler=, isRejected=false, accessionNum='', modality='DX', requestProcedurePriority='', additionalPatientHistory='', admittingDiagnosisDescription='', studyDescription='', procedure='None', studyDateTime=2025-04-04T11:18:43.196600500, registerDateTime=2025-04-04T11:18:43.196600500, scheduledDateTime=2025-04-04T11:18:43.196600500, patientComments='', readingPhysician='', performingPhysician='', referringPhysician='', institution='Apollo Hospital'}

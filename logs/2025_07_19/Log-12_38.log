@@ -1,0 +1,1779 @@
+2025-07-19 12:38:05 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-19 12:38:11 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-19 12:38:11 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-19 12:38:11 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-19 12:38:12 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:38:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:12 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-19 12:38:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-19 12:38:12 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-19 12:38:12 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-19 12:38:12 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-19 12:38:12 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-19 12:38:14 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-19 12:38:14 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.05500000000000001
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.06050000000000001
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.06655000000000001
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.07320500000000002
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.08052550000000003
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.08857805000000003
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.09743585500000004
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.10717944050000006
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.11789738455000007
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.12968712300500007
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.14265583530550008
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.1569214188360501
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.1726135607196551
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.18987491679162063
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.2088624084707827
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.22974864931786096
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.25272351424964706
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.27799586567461176
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:15 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:15 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.30579545224207294
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.33637499746628025
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.3700124972129083
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.4070137469341991
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.44771512162761906
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.492486633790381
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.5417352971694191
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.595908826886361
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.6554997095749971
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.7210496805324969
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.7931546485857466
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.8724701134443212
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 0.9597171247887534
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-19 12:38:16 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.0556888372676287
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.1612577209943917
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.2773834930938308
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.405121842403214
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.5456340266435353
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.700197429307889
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 1.8702171722386778
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:16 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:16 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.0572388894625457
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.2629627784088004
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.4892590562496806
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.7381849618746488
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.0120034580621136
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.313203803868325
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.6445241842551575
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.008976602680673
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.40987426294874
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.850861689243614
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:17 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:17 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:17 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.335947858167976
+2025-07-19 12:38:18 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:18 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:18 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-19 12:38:18 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-19 12:38:18 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-19 12:38:18 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-19 12:38:18 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-19 12:38:18 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 5.335947858167976
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 4.8023530723511785
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 4.322117765116061
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 3.8899059886044545
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 3.500915389744009
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 3.150823850769608
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 2.835741465692647
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:19 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:19 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 2.5521673191233827
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 2.2969505872110445
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 2.06725552848994
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.8605299756409461
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.6744769780768516
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.5070292802691665
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.3563263522422497
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.2206937170180248
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 1.0986243453162223
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.9887619107846001
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.88988571970614
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.800897147735526
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.7208074329619734
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.6487266896657761
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.5838540206991985
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.5254686186292786
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.47292175676635073
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.42562958108971566
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.3830666229807441
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.3447599606826697
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:20 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:20 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.3102839646144027
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.27925556815296243
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.2513300113376662
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.22619701020389957
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.2035773091835096
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.18321957826515864
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.16489762043864278
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.1484078583947785
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.13356707255530065
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.12021036529977058
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.10818932876979352
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.09737039589281417
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.08763335630353275
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.07887002067317947
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.07098301860586152
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.06388471674527538
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.05749624507074784
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.05174662056367305
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.04657195850730575
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.04191476265657518
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.03772328639091766
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-19 12:38:21 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-19 12:38:21 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 2.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.0465
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 46
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 46 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 3.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05900000000000001
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 59
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 59 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 4.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.0715
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 71
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 71 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 5.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.08399999999999999
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 83
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 83 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 6.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.0965
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 96
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 96 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 7.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.10899999999999999
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 108
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 108 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:23 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 8.72,  MA: 80.0
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.12150000000000001
+2025-07-19 12:38:23 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 121
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 121 0 and G
+2025-07-19 12:38:23 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 9.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.134
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 134
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -122 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 10.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.14650000000000002
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 146
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -110 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 11.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.159
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 159
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -97 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 12.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1715
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 171
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -85 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 13.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.184
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 184
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -72 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 14.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1965
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 196
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 15.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.209
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 209
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -47 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 16.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.22149999999999997
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 221
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -35 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 17.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.23399999999999999
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 234
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -22 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 18.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.2465
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 246
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -10 0 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 19.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.259
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 259
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 3 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 20.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.27149999999999996
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 271
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 15 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 21.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.284
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 284
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 28 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 22.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.2965
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 296
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 40 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 23.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.309
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 309
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 53 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 24.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3215
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 321
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 65 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 25.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.33399999999999996
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 333
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 77 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 26.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3465
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 346
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 90 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:24 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 27.72,  MA: 80.0
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.359
+2025-07-19 12:38:24 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 359
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 103 1 and G
+2025-07-19 12:38:24 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 28.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3715
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 371
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 115 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 29.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.384
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 384
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -128 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 30.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.39649999999999996
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 396
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -116 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 31.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.409
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 409
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -103 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 32.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.4215
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 421
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -91 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 33.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.434
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 434
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -78 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 34.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.4465
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 446
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -66 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 35.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.45899999999999996
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 458
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -54 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 36.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.4715
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 471
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -41 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 37.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.484
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 484
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -28 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 38.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.4965
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 496
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -16 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 39.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.509
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 509
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -3 1 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 40.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.5215
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 521
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 9 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 41.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.534
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 534
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 22 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 42.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.5465
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 546
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 34 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 43.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.5589999999999999
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 558
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 46 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 44.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.5715
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 571
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 59 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 45.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.584
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 584
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 72 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 46.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.5965
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 596
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 84 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 47.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.609
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 609
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 97 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:25 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 48.72,  MA: 80.0
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.6214999999999999
+2025-07-19 12:38:25 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 621
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 109 2 and G
+2025-07-19 12:38:25 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 49.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.634
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 634
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 122 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 50.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.6465
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 646
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -122 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 51.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.659
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 659
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -109 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 52.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.6715
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 671
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -97 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 53.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.6839999999999999
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 683
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -85 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 54.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.6965
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 696
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -72 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 55.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.709
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 709
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -59 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 56.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.7215
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 721
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -47 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 57.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.734
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 734
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -34 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 58.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.7464999999999999
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 746
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -22 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 59.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.759
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 759
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -9 2 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 60.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.7715
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 771
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 3 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 61.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.784
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 784
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 16 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 62.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.7965
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 796
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 63.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.8089999999999999
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 808
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 64.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 28 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 40 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.8215
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 821
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 65.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.834
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 834
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 53 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 66 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 66.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.8465
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 846
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 78 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:26 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 67.72,  MA: 80.0
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.859
+2025-07-19 12:38:26 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 859
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 91 3 and G
+2025-07-19 12:38:26 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 68.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.8714999999999999
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 871
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 103 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 69.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.884
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 884
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 116 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 70.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.8965
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 896
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -128 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 71.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.909
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 909
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -115 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 72.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.9215
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 921
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -103 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 73.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.9339999999999999
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 933
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -91 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 74.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.9465
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 946
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -78 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 75.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.959
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 959
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -65 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 76.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.9715
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 971
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -53 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 77.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.984
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 984
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -40 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 78.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.9964999999999999
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 996
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -28 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 79.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.009
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1008
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -16 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 80.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.0215
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1021
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -3 3 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 81.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.034
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1034
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 10 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 82.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.0465
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1046
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 22 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 83.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.059
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1059
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 35 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 84.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.0715
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1071
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 47 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 85.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.084
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1084
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 60 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 86.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.0965
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1096
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 72 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 87.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.109
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1109
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 85 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:27 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 88.72,  MA: 80.0
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1215
+2025-07-19 12:38:27 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1121
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 97 4 and G
+2025-07-19 12:38:27 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 89.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.134
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1134
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 90.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1465
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1146
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 122 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 91.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.159
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1159
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -121 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 92.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1715
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1171
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -109 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 93.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.184
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1184
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -96 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 94.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1965
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1196
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -84 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 95.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.209
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1209
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -71 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 96.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.2215
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1221
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -59 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 97.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.234
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1234
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -46 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 98.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.2465
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1246
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -34 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 99.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.259
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1259
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -21 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 100.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.2715
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1271
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -9 4 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 101.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.284
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1284
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 4 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 102.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.2965
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1296
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 16 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 103.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.309
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1309
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 29 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 104.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.3215
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1321
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 41 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 105.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.334
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1334
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 54 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 106.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.3465
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1346
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 66 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:28 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 107.72,  MA: 80.0
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.359
+2025-07-19 12:38:28 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1359
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 79 5 and G
+2025-07-19 12:38:28 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 108.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.3715
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1371
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 91 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 109.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.384
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1384
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 104 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 110.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.3965
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1396
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 116 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 111.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.409
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1409
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -127 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 112.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.4215
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1421
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -115 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 113.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.434
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1434
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -102 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 114.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.4465
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1446
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -90 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 115.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.459
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1459
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -77 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 116.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.4715
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1471
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -65 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 117.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.484
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1484
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -52 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 118.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.4965
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1496
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -40 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 119.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.509
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1509
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -27 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 120.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.5215
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1521
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -15 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 121.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.534
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1534
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -2 5 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 122.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.5465
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1546
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 10 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 123.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.559
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1559
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 23 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 124.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.5715
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1571
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 35 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 125.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.584
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1584
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 48 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 126.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.5965
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1596
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 60 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 127.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.609
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1609
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 73 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:29 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 128.72,  MA: 80.0
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.6215
+2025-07-19 12:38:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1621
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 85 6 and G
+2025-07-19 12:38:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 129.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.634
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1634
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 98 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 130.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.6465
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1646
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 131.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.659
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1659
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 123 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 132.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.6715
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1671
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -121 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 133.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.684
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1684
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -108 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 134.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.6965
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1696
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -96 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 135.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.709
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1709
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -83 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 136.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.7215
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1721
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -71 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 137.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.734
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1734
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -58 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 138.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.7465
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1746
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -46 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 139.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.759
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1759
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -33 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 140.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.7715
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1771
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -21 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 141.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.784
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1784
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -8 6 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 142.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.7965
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1796
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 4 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 143.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.809
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1809
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 17 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 144.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.8215
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1821
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 29 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 145.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.834
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1834
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 42 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 146.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.8465
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1846
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 54 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 147.72,  MA: 80.0
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.859
+2025-07-19 12:38:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1859
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 67 7 and G
+2025-07-19 12:38:30 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 148.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.8715
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1871
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 79 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 149.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.884
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1884
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 92 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 150.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.8965
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1896
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 104 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 151.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.909
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1909
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 117 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 152.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.9215
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1921
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -127 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 153.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.934
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1934
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -114 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 154.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.9465
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1946
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -102 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 155.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.959
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1959
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -89 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 156.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.9715
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1971
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -77 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 157.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.984
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1984
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -64 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 158.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.9965
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1996
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -52 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 159.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.009
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2009
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -39 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 160.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.0215
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2021
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -27 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 161.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.034
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2033
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -15 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 162.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.0465
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2046
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -2 7 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 163.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.059
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2059
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 11 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 164.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.0715
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2071
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 23 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 165.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.084
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2084
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 36 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 166.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.0965
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2096
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 48 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 167.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.109
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2109
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 61 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 168.72,  MA: 80.0
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.1215
+2025-07-19 12:38:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2121
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 73 8 and G
+2025-07-19 12:38:31 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 169.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.134
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2134
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 86 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 170.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.1465
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2146
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 98 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 171.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.159
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2159
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 111 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 172.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.1715
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2171
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 123 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 173.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.184
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2184
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -120 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 174.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.1965
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2196
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -108 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 175.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.209
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2209
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -95 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 176.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.2215
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2221
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -83 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 177.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.234
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2234
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -70 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 178.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.2465
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2246
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -58 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 179.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.259
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2259
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -45 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 180.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.2715
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2271
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -33 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 181.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.284
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2284
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -20 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 182.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.2965
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2296
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -8 8 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 183.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.309
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2309
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 5 9 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 184.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.3215
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2321
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 17 9 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 185.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.334
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2334
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 30 9 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 186.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.3465
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2346
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 42 9 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 187.72,  MA: 80.0
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.359
+2025-07-19 12:38:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2359
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 55 9 and G
+2025-07-19 12:38:32 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 188.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.3715
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2371
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 67 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 189.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.384
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2384
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 80 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 190.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.3965
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2396
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 92 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 191.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.409
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2409
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 105 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 192.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.4215
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2421
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 117 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 193.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.434
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2434
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -126 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 194.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.4465
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2446
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -114 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 195.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.459
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2459
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -101 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 196.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.4715
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2471
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -89 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 197.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.484
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2484
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -76 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 198.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.4965
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2496
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -64 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 199.72,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:33 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 200.0,  MA: 80.0
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:34 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:35 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.5
+2025-07-19 12:38:35 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:35 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:35 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 2.75
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.025
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.3274999999999997
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 3.6602499999999996
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.026274999999999
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.4289024999999995
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 4.871792749999999
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:36 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:36 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - incMs currentMs: 5.358972024999999
+2025-07-19 12:38:37 WARN  c.r.r.m.s.SerialPortManager - ms is already at minimum value.
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 2.5
+2025-07-19 12:38:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 2500
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -60 9 and G
+2025-07-19 12:38:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.

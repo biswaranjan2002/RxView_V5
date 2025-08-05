@@ -1,0 +1,80 @@
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,1, width: 85.0, height: 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,2, width: 85.0, height: 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,1, width: 85.0, height: 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2, width: 85.0, height: 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 41.5, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 41.5, totalWidth 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2, width: 85.0, height: 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 41.5, totalHeight 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 41.5, totalHeight 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,2, width: 85.0, height: 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2,2,1, width: 85.0, height: 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 19.75, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 19.75, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 2, rowHeight 19.75, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 3, cells 1, rowHeight 19.75, totalWidth 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2,3, width: 85.0, height: 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 27.0, totalHeight 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 27.0, totalHeight 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 2, cells 3, columnWidth 27.0, totalHeight 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\3,4, width: 85.0, height: 85.0
+2025-04-01 15:59:51 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\2,3,1, width: 85.0, height: 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 2, rowHeight 27.0, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 3, rowHeight 27.0, totalWidth 85.0
+2025-04-01 15:59:51 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 1, rowHeight 27.0, totalWidth 85.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,1, width: 170.0, height: 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,2, width: 170.0, height: 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,1, width: 170.0, height: 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2, width: 170.0, height: 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 84.0, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 84.0, totalWidth 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2, width: 170.0, height: 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 84.0, totalHeight 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 84.0, totalHeight 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,2, width: 170.0, height: 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2,2,1, width: 170.0, height: 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 41.0, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 41.0, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 2, rowHeight 41.0, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 3, cells 1, rowHeight 41.0, totalWidth 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2,3, width: 170.0, height: 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 55.333333333333336, totalHeight 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 55.333333333333336, totalHeight 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 2, cells 3, columnWidth 55.333333333333336, totalHeight 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\3,4, width: 170.0, height: 170.0
+2025-04-01 15:59:52 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\2,3,1, width: 170.0, height: 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 2, rowHeight 55.333333333333336, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 3, rowHeight 55.333333333333336, totalWidth 170.0
+2025-04-01 15:59:52 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 1, rowHeight 55.333333333333336, totalWidth 170.0
+2025-04-01 16:00:25 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-01 16:00:25 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-01 16:00:25 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-01 16:00:26 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-01 16:00:29 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-01 16:00:34 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-01 16:00:36 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-01 16:00:36 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,1, width: 85.0, height: 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\1,2, width: 85.0, height: 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,1, width: 85.0, height: 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2, width: 85.0, height: 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 41.5, totalWidth 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 41.5, totalWidth 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2, width: 85.0, height: 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 41.5, totalHeight 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 41.5, totalHeight 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\2,2, width: 85.0, height: 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\1,2,2,1, width: 85.0, height: 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 1, rowHeight 19.75, totalWidth 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 2, rowHeight 19.75, totalWidth 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 2, rowHeight 19.75, totalWidth 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 3, cells 1, rowHeight 19.75, totalWidth 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: COL\1,2,3, width: 85.0, height: 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 0, cells 1, columnWidth 27.0, totalHeight 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 1, cells 2, columnWidth 27.0, totalHeight 85.0
+2025-04-01 16:00:36 INFO  c.r.r.s.print.LayoutIconCreator - COL: index 2, cells 3, columnWidth 27.0, totalHeight 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: STANDARD\3,4, width: 85.0, height: 85.0
+2025-04-01 16:00:36 DEBUG c.r.r.s.print.LayoutIconCreator - Creating layout with code: ROW\2,3,1, width: 85.0, height: 85.0
+2025-04-01 16:00:37 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 0, cells 2, rowHeight 27.0, totalWidth 85.0
+2025-04-01 16:00:37 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 1, cells 3, rowHeight 27.0, totalWidth 85.0
+2025-04-01 16:00:37 INFO  c.r.r.s.print.LayoutIconCreator - ROW: index 2, cells 1, rowHeight 27.0, totalWidth 85.0

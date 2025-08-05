@@ -1,0 +1,4 @@
+2025-03-26 12:13:19 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:13:19 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:13:19 INFO  c.r.r.service.print.PrintService - old width760.0 * old height950.0 : 
+2025-03-26 12:13:19 INFO  c.r.r.service.print.PrintService - new width760.0 * new height950.0 : 

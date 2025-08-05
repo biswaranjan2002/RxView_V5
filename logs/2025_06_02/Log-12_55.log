@@ -1,0 +1,30 @@
+2025-06-02 12:55:41 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-02 12:55:41 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-02 12:55:41 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size: 2500x3052, type: CV_16UC4
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 1027.8906210328541, 821.1039455644137, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 930.3940486467272, 1750.571268978825, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:55:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 1674.6178845274972, 1727.8220687553953, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:55:48 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:55:48 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-02 12:55:48 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-02 12:55:48 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-02 12:56:09 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size: 2500x3052, type: CV_16UC4
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 1027.8906210328541, 821.1039455644137, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 930.3940486467272, 1750.571268978825, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - EllipseWrapper: 1674.6178845274972, 1727.8220687553953, 47.7326968973747 , 47.7326968973747
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:58:49 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-02 12:58:49 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-02 12:58:49 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull

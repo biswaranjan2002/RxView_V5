@@ -1,0 +1,42 @@
+2025-03-27 17:50:25 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-27 17:50:26 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-27 17:50:26 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-27 17:50:26 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-27 17:50:30 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-27 17:50:51 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-27 17:50:52 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-27 17:50:52 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-27 17:50:52 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-27 17:50:55 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-27 17:50:57 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\1,2
+2025-03-27 17:50:57 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 1, 2
+2025-03-27 17:50:57 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 1
+2025-03-27 17:50:57 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 1
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\1,1
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 1, 1
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 2560.0 , row : 1
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\1,2
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 1, 2
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 1
+2025-03-27 17:50:59 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 1
+2025-03-27 17:51:00 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\2,1
+2025-03-27 17:51:00 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 2, 1
+2025-03-27 17:51:00 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 2560.0 , row : 2
+2025-03-27 17:51:02 INFO  c.r.r.m.print.PrintLayoutCreator - Input: ROW\1,2
+2025-03-27 17:51:02 INFO  c.r.r.m.print.PrintLayoutCreator - Input: COL\1,2
+2025-03-27 17:51:04 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\2,2
+2025-03-27 17:51:04 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 2, 2
+2025-03-27 17:51:04 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2
+2025-03-27 17:51:04 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2
+2025-03-27 17:51:04 INFO  c.r.r.m.print.PrintLayoutCreator - Input: ROW\1,2,2,1
+2025-03-27 17:51:06 INFO  c.r.r.m.print.PrintLayoutCreator - Input: COL\1,2
+2025-03-27 17:51:07 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\2,2
+2025-03-27 17:51:07 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 2, 2
+2025-03-27 17:51:07 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2
+2025-03-27 17:51:07 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2
+2025-03-27 17:51:17 INFO  c.r.r.m.print.PrintLayoutCreator - Input: ROW\1,2
+2025-03-27 17:51:20 INFO  c.r.r.m.print.PrintLayoutCreator - Input: COL\1,2
+2025-03-27 17:51:21 INFO  c.r.r.m.print.PrintLayoutCreator - Input: STANDARD\2,2
+2025-03-27 17:51:21 INFO  c.r.r.m.print.PrintLayoutCreator - Processing STANDARD layout with values: 2, 2
+2025-03-27 17:51:21 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2
+2025-03-27 17:51:21 INFO  c.r.r.m.print.PrintLayoutCreator - width : 2048.0 , height : 1280.0 , row : 2

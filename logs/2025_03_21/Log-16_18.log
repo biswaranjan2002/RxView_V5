@@ -1,0 +1,118 @@
+2025-03-21 16:18:31 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-21 16:18:31 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-21 16:18:31 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-21 16:18:31 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-21 16:18:34 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:34 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:34 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:34 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:35 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-21 16:18:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-21 16:18:37 INFO  c.r.r.service.study.StudyService - 838.0 1024.0
+2025-03-21 16:18:37 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:38 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-21 16:18:41 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:47 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:47 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:49 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 1 
+2025-03-21 16:18:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 2 
+2025-03-21 16:18:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:18:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:18:53 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:18:55 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:18:55 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:19:05 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:19:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:19:05 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:19:05 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:19:05 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:19:07 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:19:07 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:03 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:06 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:06 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:26:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:26:17 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:26:17 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:26:17 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:26:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:26:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:26:17 INFO  c.r.r.m.I.D.CanvasMainChange - lines 3 , ellipse 6 
+2025-03-21 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - lines 3 , ellipse 6 
+2025-03-21 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:46 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:50 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:26:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:27:49 INFO  c.r.r.m.I.D.CanvasMainChange - lines 1 , ellipse 2 
+2025-03-21 16:27:49 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:27:49 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:27:49 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:27:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:27:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 2 , ellipse 4 
+2025-03-21 16:27:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:27:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:27:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 3 , ellipse 6 
+2025-03-21 16:27:50 INFO  c.r.r.m.I.D.CanvasMainChange - lines 3 , ellipse 6 
+2025-03-21 16:27:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 3 , ellipse 6 
+2025-03-21 16:27:51 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop selected false
+2025-03-21 16:27:51 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - distanceDrawWrapperList [DistanceDrawWrapper{ellipses=[EllipseWrapper{centerX=216.32978723404256, centerY=211.33617021276595, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=226.13404255319148, centerY=653.6170212765958, radiusX=8.0, radiusY=8.0}], lines=LineWrapper{startX=216.32978723404256, startY=211.33617021276595, endX=226.13404255319148, endY=653.6170212765958}, labelWrapper=LabelWrapper{value=186.5466684628185, x=201.23191489361702, y=447.4765957446809}}]
+2025-03-21 16:27:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 4 , ellipse 8 
+2025-03-21 16:27:51 INFO  c.r.r.m.I.D.CanvasMainChange - lines 4 , ellipse 8 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 
+2025-03-21 16:27:52 INFO  c.r.r.m.I.D.CanvasMainChange - lines 0 , ellipse 0 

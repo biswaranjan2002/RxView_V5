@@ -1,0 +1,103 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+#GridPane {
+   -fx-background-color: transparent;
+   -fx-background-radius: 23;
+   -fx-border-radius: 23;
+}
+
+#gridPane2{
+  -fx-background-color: -primary;
+  -fx-background-radius: 23;
+  -fx-border-radius: 23;
+  -fx-border-color:-additional;
+   -fx-border-width:2;
+}
+
+#gridPane3{
+  -fx-background-color: -secondary;
+  -fx-background-radius: 23;
+  -fx-border-radius: 23;
+  -fx-border-color:-additional;
+  -fx-border-width:2;
+}
+
+
+#ActionButton{
+    -fx-background-color: -accent;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+     -fx-focus-traversable:false;
+     -fx-font-size:20;
+     -fx-font-weight:bold;
+}
+
+#selectedButton{
+    -fx-background-color: -accent;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+    -fx-focus-traversable:false;
+     -fx-font-size:20;
+     -fx-font-weight:bold;
+}
+
+#unSelectedButton{
+    -fx-background-color: -additional;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+    -fx-focus-traversable:false;
+     -fx-font-size:20;
+     -fx-font-weight:bold;
+}
+
+#TextField {
+    -fx-background-color: transparent;
+    -fx-border-color: -additional;
+    -fx-border-width: 0 0 1 0;
+    -fx-text-fill: -text;
+}
+
+.progress-bar .bar {
+    -fx-background-color: -accent;
+}
+
+.label{
+    -fx-text-fill:-additional;
+    -fx-font-size:24;
+}
+
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+
+.jfx-radio-button{
+    -fx-font-size:24;
+    -fx-text-fill:-text;
+    -fx-focus-traversable:false;
+    -jfx-selected-color: -accent;
+    -jfx-unselected-color: -additional;
+}
+
+.jfx-radio-button .radio-container:hover{
+    -fx-cursor: hand;
+}
+
+
+.jfx-check-box {
+    -fx-font-size: 24;
+    -fx-text-fill: -additional;
+    -fx-focus-traversable: false;
+}
+
+.jfx-check-box:selected .box .mark {
+    -fx-mark-color: -accent;
+}
+
+.jfx-check-box:selected .box {
+    -fx-background-color: transparent;
+    -fx-border-color: -accent;
+}

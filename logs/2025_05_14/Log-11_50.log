@@ -1,0 +1,21 @@
+2025-05-14 11:51:08 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-14 11:51:09 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-14 11:51:09 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-14 11:51:09 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-14 11:51:12 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-14 11:51:17 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-14 11:51:28 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\1,2,2,1 2048.0 2560.0
+2025-05-14 11:51:29 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.0712890625 
+2025-05-14 11:51:29 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7140045648379874 
+2025-05-14 11:51:33 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.3928464673913044 
+2025-05-14 11:51:33 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.6177450573979592 
+2025-05-14 11:51:34 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 1.96484375 
+2025-05-14 11:51:34 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 1.7804637132879657 
+2025-05-14 11:51:38 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 11:51:38 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7549645512114538 
+2025-05-14 11:51:39 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.3928464673913044 
+2025-05-14 11:51:39 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.6177450573979592 
+2025-05-14 11:51:41 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 11:51:41 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.7549645512114538 
+2025-05-14 11:51:43 INFO  c.r.r.modules.print.Layout.LayoutTab - 1imageToolMultiple 2.98046875 
+2025-05-14 11:51:43 INFO  c.r.r.modules.print.Layout.LayoutTab - imageToolMultiple 0.9951171874999999 

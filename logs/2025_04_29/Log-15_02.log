@@ -1,0 +1,51 @@
+2025-04-29 15:03:04 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-29 15:03:04 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-29 15:03:04 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-29 15:03:04 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-29 15:03:08 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-29 15:03:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 523, 736x637}
+2025-04-29 15:03:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 513, 736x648}
+2025-04-29 15:03:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 505, 740x655}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 444, 952x716}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 401, 1071x759}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 390, 1107x770}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 369, 1154x792}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 358, 1197x802}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 336, 1291x824}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1301x835}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1301x835}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1337x835}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1337x835}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1337x835}
+2025-04-29 15:03:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1337x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1355x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {677, 325, 1366x835}
+2025-04-29 15:03:14 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 2048.0 1771.0
+2025-04-29 15:03:25 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {675, 0, 1187x2095}
+2025-04-29 15:03:25 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 1450.0 2560.0

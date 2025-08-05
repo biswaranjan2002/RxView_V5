@@ -1,0 +1,50 @@
+2025-07-18 16:55:58 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-18 16:56:02 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-18 16:56:02 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-18 16:56:02 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 16:56:04 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 16:56:04 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 16:56:04 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 16:56:04 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 16:56:04 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 16:56:04 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:56:04 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 16:56:04 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 16:56:04 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 16:56:06 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 16:56:06 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 16:56:08 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 16:56:08 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 16:56:10 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 16:56:10 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 16:56:10 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 16:56:10 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 16:56:10 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-18 16:56:10 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 16:56:10 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 16:56:10 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 16:56:14 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-18 16:56:14 INFO  c.r.r.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2//Styles//Images/input//chest/1.raw

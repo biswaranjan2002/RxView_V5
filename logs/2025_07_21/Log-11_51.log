@@ -1,0 +1,102 @@
+2025-07-21 11:51:07 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-21 11:51:12 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-21 11:51:12 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-21 11:51:12 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-21 11:51:12 INFO  c.r.r.service.login.LoginController - IP not found
+2025-07-21 11:51:12 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-07-21 11:51:12 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-21 11:51:12 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-07-21 11:51:12 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-21 11:51:12 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-21 11:51:15 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-21 11:51:15 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-07-21 11:51:21 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-21 11:51:21 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-21 11:51:21 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-21 11:51:21 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-21 11:51:31 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:31 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-21 11:51:32 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" spacing="50.0" stylesheets="@../../../../../Styles/Css/AdminSettings/System/SystemInfo.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.system.SystemSystemInfo">
+   <children>
+      <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="750.0" minHeight="1030.0" minWidth="750.0" prefHeight="1030.0" prefWidth="750.0" spacing="100.0">
+         <children>
+            <VBox id="ShadowEffectBox2" maxHeight="375.0" maxWidth="750.0" minHeight="375.0" minWidth="750.0" prefHeight="375.0" prefWidth="750.0" spacing="5.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                     <children>
+                        <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" styleClass="fontStyle" text="Institution" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                           <font>
+                              <Font name="Century Gothic" size="22.0" />
+                           </font>
+                        </Label>
+                     </children>
+                     <padding>
+                        <Insets left="25.0" top="-60.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Institution Name      :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="institutionNameLabel" maxHeight="50.0" maxWidth="450.0" minHeight="50.0" minWidth="450.0" prefHeight="50.0" prefWidth="450.0" text="Apollo Hospital" />
+                     </children>
+                     <VBox.margin>
+                        <Insets top="-25.0" />
+                     </VBox.margin>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Institution Address   :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="institutionAddressLabel" maxHeight="50.0" maxWidth="450.0" minHeight="50.0" minWidth="450.0" prefHeight="50.0" prefWidth="450.0" text="Film Nagar, Hyderabad, Telangana 500033" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Department Name :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="departmentLabel" maxHeight="50.0" maxWidth="450.0" minHeight="50.0" minWidth="450.0" prefHeight="50.0" prefWidth="450.0" text="Radiology department" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_RIGHT" maxHeight="80.0" maxWidth="750.0" minHeight="80.0" minWidth="750.0" prefHeight="80.0" prefWidth="750.0">
+                     <children>
+                        <JFXButton fx:id="configureDetailsButton" id="ActionButton" maxHeight="60.0" maxWidth="225.0" minHeight="60.0" minWidth="225.0" onAction="#configureDetailsClick" prefHeight="60.0" prefWidth="225.0" text="Edit">
+                           <HBox.margin>
+                              <Insets bottom="5.0" right="15.0" />
+                           </HBox.margin>
+                        </JFXButton>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox id="ShadowEffectBox2" maxHeight="250.0" maxWidth="750.0" minHeight="250.0" minWidth="750.0" prefHeight="250.0" prefWidth="750.0" spacing="5.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="850.0" minHeight="60.0" minWidth="850.0" prefHeight="60.0" prefWidth="850.0">
+                     <children>
+                        <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" styleClass="fontStyle" text="Language" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                           <font>
+                              <Font name="Century Gothic" size="22.0" />
+                           </font>
+                        </Label>
+                     </children>
+                     <padding>
+                        <Insets left="25.0" top="-60.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="15.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Language                 :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <JFXComboBox fx:id="languageComboBox" focusColor="GREY" onAction="#onSelectionChange" prefWidth="400.0" styleClass="fontStyle" unFocusColor="#575656">
+                           <items>
+                              <FXCollections fx:factory="observableArrayList">
+                                 <String fx:value="English" />
+                                 <String fx:value="Hindi" />
+                                 <String fx:value="Japanese" />
+                              </FXCollections>
+                           </items>
+                           <value>
+                              <String fx:value="English" />
+                           </value>
+                        </JFXComboBox>
+                     </children>
+                     <VBox.margin>
+                        <Insets top="25.0" />
+                     </VBox.margin>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+      <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="750.0" minHeight="1030.0" minWidth="750.0" prefHeight="1030.0" prefWidth="750.0">
+         <children>
+            <VBox id="ShadowEffectBox2" alignment="CENTER_LEFT" maxHeight="720.0" maxWidth="750.0" minHeight="720.0" minWidth="750.0" prefHeight="720.0" prefWidth="750.0" spacing="10.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="850.0" minHeight="60.0" minWidth="850.0" prefHeight="60.0" prefWidth="850.0">
+                     <VBox.margin>
+                        <Insets bottom="-50.0" />
+                     </VBox.margin>
+                     <children>
+                        <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" styleClass="fontStyle" text="Equipment" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                           <font>
+                              <Font name="Century Gothic" size="22.0" />
+                           </font>
+                        </Label>
+                     </children>
+                     <padding>
+                        <Insets left="25.0" top="-150.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="850.0" minHeight="75.0" minWidth="850.0" prefHeight="75.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Manufacturer          :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="manufacturerLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="Raymedis Medical Technologies Pvt Ltd" />
+                     </children>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="850.0" minHeight="75.0" minWidth="850.0" prefHeight="75.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Model Name           :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="modelNameLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="RxView_General" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="850.0" minHeight="75.0" minWidth="850.0" prefHeight="75.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Telephone                :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="telephoneLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="+91 9347802518" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="80.0" maxWidth="850.0" minHeight="80.0" minWidth="850.0" prefHeight="80.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="E-mail                        :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="emailLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="varma.k@hotmail.com" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="80.0" maxWidth="850.0" minHeight="80.0" minWidth="850.0" prefHeight="80.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Homepage              :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="homePageLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="https://genrad-x.com/" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="80.0" maxWidth="850.0" minHeight="80.0" minWidth="850.0" prefHeight="80.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Software Version     :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="softwareVersionLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="RxView_1.0" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="80.0" maxWidth="850.0" minHeight="80.0" minWidth="850.0" prefHeight="80.0" prefWidth="850.0">
+                     <children>
+                        <Label contentDisplay="CENTER" maxHeight="100.0" maxWidth="250.0" minHeight="100.0" minWidth="250.0" prefHeight="100.0" prefWidth="250.0" text="Serial Number          :" wrapText="true">
+                           <padding>
+                              <Insets left="25.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="serialNumberLabel" disable="true" maxHeight="50.0" maxWidth="425.0" minHeight="50.0" minWidth="425.0" prefHeight="50.0" prefWidth="425.0" styleClass="text-field2" text="123123" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </children>
+   <styleClass>
+      <String fx:value="GridPane" />
+      <String fx:value="fontStyle" />
+   </styleClass>
+</HBox>

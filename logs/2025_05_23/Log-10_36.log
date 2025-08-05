@@ -1,0 +1,79 @@
+2025-05-23 10:36:46 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 10:36:50 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 10:36:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:36:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:36:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:36:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: x=314, y=0, width=415, height=838
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCropLayout - multiple: 4.934939759036145
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: x=1549, y=0, width=2048, height=4135
+2025-05-23 10:36:54 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.displayImage: 2048.0 1677.0
+2025-05-23 10:36:55 ERROR c.r.r.m.p.i.d.PrintCropLayout - Error creating cropped image
+org.opencv.core.CvException: cv::Exception: OpenCV(4.10.0) C:\GHA-OCV-1\_work\ci-gha-workflow\ci-gha-workflow\opencv\modules\core\src\matrix.cpp:767: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'cv::Mat::Mat'
+
+	at opencv@4100/org.opencv.core.Mat.n_Mat(Native Method)
+	at opencv@4100/org.opencv.core.Mat.<init>(Mat.java:127)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCropLayout.drawLayout(PrintCropLayout.java:128)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool.cropClick(PrintMainDrawTool.java:889)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.print.imageProcessing.PrintImageTools.cropClick(PrintImageTools.java:504)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.service.print.PrintController.cropClick(PrintController.java:343)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.printModule.Print.cropClick(Print.java:130)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at javafx.base@21/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270)
+	at javafx.fxml@21/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@21/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1855)
+	at javafx.fxml@21/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1726)
+	at javafx.base@21/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@21/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at javafx.base@21/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at javafx.base@21/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@21/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@21/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@21/javafx.scene.Node.fireEvent(Node.java:8875)
+	at javafx.controls@21/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@21/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207)
+	at javafx.controls@21/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@21/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@21/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@21/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:232)
+	at javafx.base@21/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:189)
+	at javafx.base@21/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@21/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@21/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@21/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@21/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@21/javafx.scene.Scene$MouseHandler.process(Scene.java:3984)
+	at javafx.graphics@21/javafx.scene.Scene.processMouseEvent(Scene.java:1890)
+	at javafx.graphics@21/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2708)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@21/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@21/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@21/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@21/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

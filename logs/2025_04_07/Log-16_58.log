@@ -1,0 +1,30 @@
+2025-04-07 16:58:52 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-07 16:58:52 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-07 16:58:52 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-07 16:58:52 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-07 16:58:56 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-07 16:59:15 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-07 16:59:17 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-07 16:59:17 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-07 16:59:38 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 16:59:38 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 16:59:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 16:59:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 16:59:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 16:59:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:00:00 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:00:00 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:00:01 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:00:01 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:00:03 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:00:03 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:00:38 INFO  c.r.r.m.print.Layout.LayoutCreator - Chest
+2025-04-07 17:00:39 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:00:39 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:00:47 INFO  c.r.r.m.print.Layout.LayoutCreator - Chest
+2025-04-07 17:00:47 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:00:47 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:01:41 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:01:41 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 
+2025-04-07 17:01:44 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : textone 
+2025-04-07 17:01:44 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - text : texttwo 

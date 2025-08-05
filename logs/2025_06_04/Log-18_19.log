@@ -1,0 +1,130 @@
+2025-06-04 18:19:12 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-04 18:19:12 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-04 18:19:12 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-04 18:19:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-06-04 18:19:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:19:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 955 y 0 width 504 height 3052
+2025-06-04 18:19:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:21:51 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-06-04 18:21:52 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:21:52 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 0 width 2500 height 3052
+2025-06-04 18:21:52 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:23:30 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: hand
+2025-06-04 18:23:30 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-04 18:23:32 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-06-04 18:23:33 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-06-04 18:23:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CropLayout - drawLayout called
+2025-06-04 18:24:44 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-06-04 18:24:50 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-06-04 18:24:51 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:24:51 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-06-04 18:24:51 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-06-04 18:26:29 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: knee
+2025-06-04 18:26:29 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-06-04 18:26:31 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-06-04 18:26:46 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: ankle
+2025-06-04 18:26:46 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-04 18:26:48 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-06-04 18:26:49 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0

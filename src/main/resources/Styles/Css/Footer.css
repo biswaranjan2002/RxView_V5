@@ -1,0 +1,62 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#GridPane{
+    -fx-background-color: -primary;
+    -fx-border-color: -secondary;
+}
+
+.button{
+     -fx-background-color: transparent;
+     -fx-background-radius:10;
+      -fx-focus-traversable:false;
+}
+
+.AdminLabel{
+    -fx-font-size:12;
+    -fx-font-weight: bold;
+}
+
+#RxLabel{
+    -fx-text-fill:-text;
+    -fx-font-size:26;
+}
+
+.SelectedFontIcon {
+    -fx-icon-color: -text;
+}
+
+.fpdSelectedFontIcon{
+    -fx-icon-color:green;
+}
+
+.unSelectedFontIcon {
+    -fx-icon-color: -additional;
+}
+
+.SelectedLabel {
+     -fx-text-fill: -text;
+}
+
+.unSelectedLabel{
+     -fx-text-fill: -additional;
+}
+
+#DevicesLabel{
+     -fx-font-size:18;
+}
+
+#dateTimeLabel{
+     -fx-text-fill: -text;
+      -fx-font-size:14;
+}
+
+#ButtonsFontSize{
+     -fx-font-size:20;
+}
+
+.tooltip {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-size: 8px;
+}

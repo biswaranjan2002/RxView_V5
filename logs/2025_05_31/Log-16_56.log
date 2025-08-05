@@ -1,0 +1,28 @@
+2025-05-31 16:56:40 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-31 16:56:40 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-31 16:56:40 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-31 16:56:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 16:56:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 16:56:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 16:56:52 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 16:56:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 17:01:55 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-05-31 17:01:55 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-31 17:01:57 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-05-31 17:01:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-05-31 17:02:00 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: skull
+2025-05-31 17:02:00 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-31 17:02:02 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-31 17:02:02 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-05-31 17:02:03 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 838 * 1024

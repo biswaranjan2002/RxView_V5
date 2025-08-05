@@ -1,0 +1,7 @@
+2025-04-28 13:31:40 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-28 13:31:40 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-28 13:31:40 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-28 13:31:40 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-28 13:31:44 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-28 13:31:49 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {540, 0, 949x1676} 
+2025-04-28 13:32:31 INFO  c.r.r.service.study.StudyService - rectW rectH 90.0 * 30.0

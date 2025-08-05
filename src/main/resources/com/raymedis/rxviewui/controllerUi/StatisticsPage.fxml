@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane id="GridPane1" alignment="CENTER" maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030.0" prefWidth="1920.0"
+          styleClass="fontStyle" stylesheets="@../../../../Styles/Css/StatisticsPage.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.databaseModule.statistics.StatisticsPage">
+   <children>
+      <VBox maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030.0" prefWidth="1920.0">
+         <children>
+            <HBox id="GridPane1" alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="1920.0" minHeight="75.0" minWidth="1920.0" prefHeight="75.0" prefWidth="1920.0">
+               <children>
+                  <JFXButton fx:id="generalButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#generalClick" prefHeight="60.0" prefWidth="150.0" text="General">
+                     <styleClass>
+                        <String fx:value="selectedButton" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </JFXButton>
+                  <JFXButton fx:id="rejectButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#rejectClick" prefHeight="60.0" prefWidth="150.0" text="Reject">
+                     <styleClass>
+                        <String fx:value="unSelectedButton" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </JFXButton>
+                  <JFXButton fx:id="doseButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#doseClick" prefHeight="60.0" prefWidth="150.0" text="Dose">
+                     <styleClass>
+                        <String fx:value="unSelectedButton" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </JFXButton>
+                  <JFXButton fx:id="personalButton" maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" onAction="#personalClick" prefHeight="60.0" prefWidth="150.0" text="Personal">
+                     <styleClass>
+                        <String fx:value="unSelectedButton" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </JFXButton>
+                  <VBox alignment="CENTER" maxHeight="75.0" maxWidth="150.0" minHeight="75.0" minWidth="150.0" prefHeight="75.0" prefWidth="150.0">
+                     <children>
+                        <Label id="AdminLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="150.0" minHeight="35.0" minWidth="150.0" prefHeight="35.0" prefWidth="150.0" styleClass="fontStyle" text="ID : Admin" />
+                        <Label id="AdminLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="150.0" minHeight="35.0" minWidth="150.0" prefHeight="35.0" prefWidth="150.0" styleClass="fontStyle" text="Name : Admin" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="1135.0" />
+                     </HBox.margin>
+                  </VBox>
+               </children>
+               <padding>
+                  <Insets left="10.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" maxHeight="955.0" maxWidth="1920.0" minHeight="955.0" minWidth="1920.0" prefHeight="955.0" prefWidth="1920.0" spacing="10.0">
+               <children>
+                  <GridPane fx:id="contentNode" maxHeight="950.0" maxWidth="1585.0" minHeight="950.0" minWidth="1585.0" prefHeight="950.0" prefWidth="1585.0">
+<!--                     <fx:include source="StatisticsGeneral.fxml"/>-->
+                  </GridPane>
+                  <VBox id="ShadowEffectBox2" alignment="CENTER" maxHeight="930.0" maxWidth="315.0" minHeight="930.0" minWidth="315.0" prefHeight="930.0" prefWidth="315.0" spacing="20.0">
+                     <children>
+                        <DatePicker maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="From" />
+                        <DatePicker maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="To" />
+                        <HBox alignment="CENTER" maxHeight="60.0" maxWidth="300.0" minHeight="60.0" minWidth="300.0" prefHeight="60.0" prefWidth="300.0" spacing="6.0">
+                           <children>
+                              <JFXButton id="ActionButton2" maxHeight="50.0" maxWidth="95.0" minHeight="50.0" minWidth="95.0" prefHeight="50.0" prefWidth="95.0" text="Today" />
+                              <JFXButton id="ActionButton2" maxHeight="50.0" maxWidth="95.0" minHeight="50.0" minWidth="95.0" prefHeight="50.0" prefWidth="95.0" text="Week" />
+                              <JFXButton id="ActionButton2" maxHeight="50.0" maxWidth="95.0" minHeight="50.0" minWidth="95.0" prefHeight="50.0" prefWidth="95.0" text="Month" />
+                           </children>
+                        </HBox>
+                        <JFXComboBox focusColor="GREY" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="Choose Body Part" unFocusColor="GREY" />
+                        <JFXComboBox focusColor="GREY" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="Admin" unFocusColor="GREY" />
+                        <TextField id="SearchField" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="Any Patient ID" />
+                        <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Search" />
+                        <JFXButton id="ActionButton" contentDisplay="RIGHT" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Save As Excel">
+                           <graphic>
+                              <FontIcon id="fontIcon" iconLiteral="mdi2f-file-excel" iconSize="26" wrappingWidth="26.0" />
+                           </graphic>
+                        </JFXButton>
+                        <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="RIGHT" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Save As Image">
+                           <graphic>
+                              <FontIcon id="fontIcon" iconLiteral="mdi2i-image" iconSize="26" wrappingWidth="26.0" />
+                           </graphic>
+                        </JFXButton>
+                        <JFXComboBox focusColor="GREY" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="A4" unFocusColor="GREY" />
+                        <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="RIGHT" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Print">
+                           <graphic>
+                              <FontIcon id="fontIcon" iconLiteral="mdi2p-printer" iconSize="26" wrappingWidth="26.0" />
+                           </graphic>
+                        </JFXButton>
+                        <JFXCheckBox maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Print Preview" />
+                        <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" onAction="#statsExitClick" prefHeight="50.0" prefWidth="300.0" text="Close" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

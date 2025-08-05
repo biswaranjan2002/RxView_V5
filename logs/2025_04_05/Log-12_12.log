@@ -1,0 +1,212 @@
+2025-04-05 12:12:46 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-05 12:12:47 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-05 12:12:47 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-05 12:12:47 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-05 12:12:50 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-05 12:12:51 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-05 12:12:52 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-05 12:12:52 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-05 12:13:04 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:04 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:04 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:04 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:06 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:07 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:07 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:07 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:07 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:08 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:08 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:08 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:08 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:09 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:10 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:10 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:10 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:10 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:13:11 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:13:11 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:13:11 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:13:11 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:31 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:31 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:31 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:31 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:32 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:32 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:32 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:32 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:33 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:34 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:35 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:35 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:35 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:35 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:36 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:37 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:38 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:38 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:38 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:38 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:39 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:40 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:40 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:40 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:40 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:41 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:42 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:42 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:42 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:42 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:43 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:44 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:44 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:44 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:44 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:45 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:46 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:46 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:46 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:46 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:47 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:47 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:47 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:47 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:48 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:49 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:17:50 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:17:50 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:17:50 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:17:50 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:20 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:21 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:21 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:21 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:21 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:22 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:22 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:22 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:22 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:23 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:24 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:24 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:24 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:24 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:25 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:26 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:26 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:26 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:26 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:28 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:28 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:28 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:28 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT
+2025-04-05 12:18:29 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Sex : male : TOP_LEFT
+2025-04-05 12:18:29 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Name : Apollo Hospital : BOTTOM_RIGHT
+2025-04-05 12:18:29 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Institutional Adress : Film Nagar, Hyderabad, Telangana 500033 : BOTTOM_RIGHT
+2025-04-05 12:18:29 INFO  c.r.r.m.print.LayoutTab.LayoutTab - Modality : DX : BOTTOM_LEFT

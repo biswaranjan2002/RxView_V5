@@ -1,0 +1,19 @@
+2025-04-29 10:42:06 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-29 10:42:07 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-29 10:42:07 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-29 10:42:07 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-29 10:42:10 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectX() 270.16170212765957 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectY() 0.0 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectWidth() 474.96170212765935 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectHeight() 838.0 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.0 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropRect {540, 0, 949x1676} 
+2025-04-29 10:42:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImageW * displayImageH : 2048.0 1677.0 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectX() 0.0 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectY() 441.5 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectWidth() 608.1617021276594 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - patientPrintImageData.getRectHeight() 564.3999999999999 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.0 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropRect {0, 883, 1216x1128} 
+2025-04-29 10:42:26 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImageW * displayImageH : 2048.0 1677.0 

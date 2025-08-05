@@ -1,0 +1,5 @@
+2025-06-04 18:11:03 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-04 18:11:03 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-04 18:11:03 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-04 18:12:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-06-04 18:12:19 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052

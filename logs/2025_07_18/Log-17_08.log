@@ -1,0 +1,563 @@
+2025-07-18 17:08:24 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-18 17:08:28 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-18 17:08:28 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-18 17:08:28 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:08:29 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:08:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:08:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:08:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:08:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:08:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:08:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:08:29 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 17:08:29 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 17:08:30 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-18 17:08:30 INFO  c.r.r.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2src\main\resources\Styles\Images\input\chest\1.raw
+2025-07-18 17:08:31 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 17:08:31 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 17:08:33 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 17:08:33 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 17:08:35 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 17:08:35 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 17:08:35 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:08:35 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:08:35 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-18 17:08:35 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 17:08:35 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 17:08:35 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 17:08:56 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-18 17:09:00 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-18 17:09:00 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-18 17:09:00 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:09:01 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 17:09:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 17:09:03 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 17:09:03 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 17:09:05 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 17:09:05 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 17:09:06 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-18 17:09:06 INFO  com.raymedis.rxviewui.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2\src\main\resources\Styles\Images\input\chest\1.raw
+2025-07-18 17:09:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-18 17:09:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-18 17:09:07 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 17:09:07 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 17:09:07 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:07 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:07 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Interlock failed.
+2025-07-18 17:09:07 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 17:09:07 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 17:09:07 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:10 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:19 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Skull
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 75.0, ma: 100, mas: 16.0
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 75.0, ma1: 100.0
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 188
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 100.0
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.7
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.7
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.49
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 75.0
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.7
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.7
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 212
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -44
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.16
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 160
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -44
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: -96 0 and G
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 17:09:20 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart skull AP
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2\src\main\resources\Styles\Images\input\skull\1.raw
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: skull
+2025-07-18 17:09:20 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-18 17:09:22 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 17:09:22 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:22 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:24 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 17:09:24 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 17:09:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 17:09:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 17:09:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:26 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Interlock failed.
+2025-07-18 17:09:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 17:09:26 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 17:09:26 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:09:53 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 17:09:53 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 17:09:54 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-18 17:09:54 INFO  com.raymedis.rxviewui.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2\src\main\resources\Styles\Images\input\chest\1.raw
+2025-07-18 17:09:54 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-18 17:09:54 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-18 17:09:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 17:09:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 17:09:56 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-18 17:09:56 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:57 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 17:09:57 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:57 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:09:58 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:09:59 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 17:09:59 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 17:09:59 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:59 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:09:59 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Interlock failed.
+2025-07-18 17:09:59 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 17:09:59 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 17:09:59 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:20:48 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 17:20:48 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 17:20:50 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 17:20:50 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 17:20:50 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-18 17:20:50 INFO  com.raymedis.rxviewui.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2\src\main\resources\Styles\Images\input\chest\1.raw
+2025-07-18 17:20:50 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-18 17:20:50 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:20:52 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Failed to connect to RX panel.
+2025-07-18 17:20:52 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:20:54 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 17:20:54 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 17:20:54 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:20:54 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 17:20:54 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortCommunicationService - Interlock failed.
+2025-07-18 17:20:54 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 17:20:54 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 17:20:54 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:20:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:20:59 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - x: 175
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Current Sent: 80.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - KV Sent : 70.0
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.32
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.29
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Calibration Val: 8.49
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In short sending KV: 208
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - In byte sending KV: -48
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - setExposureTime 0.05
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.modules.serialPortCom.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 17:21:04 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Failed to connect to RX panel.
+2025-07-18 17:21:04 INFO  com.raymedis.rxviewui.service.study.StudyMainController - done
+2025-07-18 17:21:05 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-18 17:21:05 INFO  com.raymedis.rxviewui.service.study.StudyService - input path : D:\Work\RxView\RxView_Nellore_V2\src\main\resources\Styles\Images\input\chest\1.raw
+2025-07-18 17:21:05 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-18 17:21:05 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:07 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:08 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-18 17:21:11 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0

@@ -1,0 +1,12 @@
+2025-05-23 14:43:25 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 14:43:26 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 14:43:26 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-23 14:43:26 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-23 14:43:29 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-23 14:43:30 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 14:43:35 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 14:43:35 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 14:43:35 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 14:43:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: null
+2025-05-23 14:43:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: null
+2025-05-23 14:43:43 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: null

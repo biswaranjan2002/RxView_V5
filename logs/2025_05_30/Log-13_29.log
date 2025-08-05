@@ -1,0 +1,45 @@
+2025-05-30 13:29:31 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-30 13:29:31 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-30 13:29:31 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-30 13:29:33 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-05-30 13:29:33 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 13:29:35 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-05-30 13:29:36 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-05-30 13:29:43 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: abdomen
+2025-05-30 13:29:43 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Starting Abdomen Image Processing...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Starting process16BitImages...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Setting preprocessing parameters for 16-bit images...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Normalizing input image...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Normalization done.
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Applying CLAHE...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - CLAHE applied successfully.
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Applying Mean filter...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Mean filter applied successfully.
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Applying Inversion...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Inversion applied successfully.
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Applying CLAHE second time with new clip and grid sizes...
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Second CLAHE applied successfully.
+2025-05-30 13:29:43 INFO  com.ramedis.zioxa.Main - Applying Dehaze...
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Dehaze applied successfully.
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Applying Detail Enhancement...
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Detail Enhancement applied successfully.
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Applying Brightness & Contrast adjustment...
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Brightness & Contrast adjustment applied successfully.
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Applying Pixel Normalization...
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Pixel Normalization applied successfully.
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - process16BitImages completed.
+2025-05-30 13:29:45 INFO  com.ramedis.zioxa.Main - Completed Abdomen Image Processing...
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: R
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-05-30 13:29:46 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 2.0

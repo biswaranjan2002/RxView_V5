@@ -1,0 +1,90 @@
+2025-03-21 15:10:47 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-21 15:10:47 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-21 15:10:47 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-21 15:10:48 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-21 15:10:51 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,0.0 
+2025-03-21 15:10:51 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,0.0 
+2025-03-21 15:10:51 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,0.0 
+2025-03-21 15:10:51 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,0.0 
+2025-03-21 15:10:51 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-21 15:10:53 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-21 15:10:54 INFO  c.r.r.service.study.StudyService - 838.0 1024.0
+2025-03-21 15:10:54 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-21 15:10:54 INFO  c.r.r.service.study.StudyService - mat lent838 * width 1024
+2025-03-21 15:10:54 INFO  c.r.r.service.study.StudyService - display image lent838.0 * width 1024.0
+2025-03-21 15:10:54 INFO  c.r.r.m.I.D.CanvasMainChange - display image lent838.0 * width 1024.0
+2025-03-21 15:10:54 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:54 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:54 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:54 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:54 INFO  c.r.r.service.study.StudyService - mat lent838 * width 1024
+2025-03-21 15:10:55 INFO  c.r.r.service.study.StudyService - display image lent838.0 * width 1024.0
+2025-03-21 15:10:55 INFO  c.r.r.m.I.D.CanvasMainChange - display image lent838.0 * width 1024.0
+2025-03-21 15:10:55 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:55 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:55 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:55 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-21 15:10:58 INFO  c.r.r.s.study.StudyMainController - Saving for Pacs...
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - Status : Uploading Begins
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - Creating DICOM File/s...
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - shouldUseOriginalImage
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.service.study.StudyService - mat lent838 * width 1024
+2025-03-21 15:10:58 INFO  c.r.r.service.study.StudyService - display image lent838.0 * width 1024.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - display image lent838.0 * width 1024.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - CanvasMainChange.displayImage 2500.0 3052.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - display image lent2500.0 * width 3052.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - CanvasMainChange.displayImage 2500.0 3052.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - CanvasMainChange.displayImage 2500.0 3052.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - CanvasMainChange.displayImage 2500.0 3052.0
+2025-03-21 15:10:58 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:58 ERROR c.r.r.modules.dicom.DicomService - DICOM File creation failed: {}
+java.lang.IllegalStateException: Not on FX application thread; currentThread = Thread-7
+	at javafx.graphics@21/com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:294)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:475)
+	at javafx.graphics@21/javafx.scene.Node.snapshot(Node.java:2182)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.ExportStudy.applyCropAndImagingParams(ExportStudy.java:235)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService.createObjects(DicomService.java:205)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService.processBodyParts(DicomService.java:153)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService$1.call(DicomService.java:113)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService$1.call(DicomService.java:105)
+	at javafx.graphics@21/javafx.concurrent.Task$TaskCallable.call(Task.java:1399)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - Uploading to server...
+2025-03-21 15:10:58 ERROR c.r.r.modules.dicom.DicomService - Failed to create dicom File {}
+java.lang.IllegalStateException: Not on FX application thread; currentThread = Thread-7
+	at javafx.graphics@21/com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:294)
+	at javafx.graphics@21/com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:475)
+	at javafx.graphics@21/javafx.scene.Node.snapshot(Node.java:2182)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.ExportStudy.applyCropAndImagingParams(ExportStudy.java:235)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService.createObjects(DicomService.java:205)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService.processBodyParts(DicomService.java:153)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService$1.call(DicomService.java:113)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.modules.dicom.DicomService$1.call(DicomService.java:105)
+	at javafx.graphics@21/javafx.concurrent.Task$TaskCallable.call(Task.java:1399)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - Status : Upload Failed
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-03-21 15:10:58 INFO  c.r.r.modules.dicom.DicomService - Upload completed successfully!
+2025-03-21 15:10:59 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:59 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:59 INFO  c.r.r.service.study.StudyService - mat lent838 * width 1024
+2025-03-21 15:10:59 INFO  c.r.r.service.study.StudyService - display image lent838.0 * width 1024.0
+2025-03-21 15:10:59 INFO  c.r.r.m.I.D.CanvasMainChange - display image lent838.0 * width 1024.0
+2025-03-21 15:10:59 INFO  c.r.r.m.I.D.CanvasMainChange - crop 1 0.0, 0.0 ,1.0 
+2025-03-21 15:10:59 INFO  c.r.r.m.I.D.CanvasMainChange - CanvasMainChange.displayImage 838.0 1024.0

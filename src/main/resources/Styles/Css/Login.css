@@ -1,0 +1,60 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#GridPane1 {
+    -fx-background-color: -primary;
+}
+
+#GridPane2 {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 15;
+}
+
+.button{
+    -fx-background-color: -accent;
+}
+
+#TextField{
+    -fx-background-color: Transparent;
+    -fx-border-color: -accent;
+    -fx-border-width: 0 0 2 0;
+     -fx-focus-traversable: false;
+     -fx-text-fill: -text;
+     -fx-font-size:30;
+}
+
+
+#LoginButton {
+    -fx-background-color: transparent;
+    -fx-background-radius: 25;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 7, 0, 0, 0);
+    -fx-border-color: -accent;
+    -fx-border-radius: 25;
+    -fx-border-width: 3;
+    -fx-focus-traversable: false;
+    -fx-font-size: 32;
+    -fx-text-fill: -text;
+}
+
+#LoginButton:hover {
+    -fx-background-color: -accent;
+    -fx-border-color: -accent;
+}
+
+#HeaderLogo{
+    -fx-background-color: -accent;
+    -fx-background-radius:15;
+    -fx-border-width:2;
+    -fx-font-size:34;
+    -fx-font-weight: bold;
+}
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+.label{
+    -fx-text-fill:-text;
+    -fx-font-size:22;
+}
+

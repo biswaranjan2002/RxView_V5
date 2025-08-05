@@ -1,0 +1,52 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+.button{
+     -fx-background-color: transparent;
+      -fx-focus-traversable:false;
+}
+
+
+#GridPane{
+    -fx-background-color: transparent;
+}
+
+.label{
+    -fx-font-size:18;
+    -fx-font-weight: bold;
+     -fx-text-fill:-text;
+}
+
+.scroll-pane {
+    -fx-background: -primary;
+    -fx-background-color: -primary;
+    -fx-control-inner-background: -primary;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: -primary;
+    -fx-background-radius: 25;
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}

@@ -1,0 +1,25 @@
+2025-04-29 11:29:22 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-29 11:29:22 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-29 11:29:22 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-29 11:29:22 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-29 11:29:25 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-29 11:29:28 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 949.9234042553187
+2025-04-29 11:29:28 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:29:31 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 949.9234042553187
+2025-04-29 11:29:31 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:29:39 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 949.9234042553187
+2025-04-29 11:29:39 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:36 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 949.9234042553187
+2025-04-29 11:35:36 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:53 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:55 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:55 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0
+2025-04-29 11:35:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectWidth: 1518.7234042553187
+2025-04-29 11:35:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rectHeight: 1676.0

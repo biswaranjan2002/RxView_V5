@@ -1,0 +1,16 @@
+2025-03-20 16:08:10 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-20 16:08:15 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-20 16:08:16 INFO  c.r.r.service.study.StudyService - 838.0 1024.0
+2025-03-20 16:08:16 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-20 16:08:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {0, 0, 838x1024} and multiple is 1024.0 838.0
+2025-03-20 16:08:17 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-20 16:08:33 INFO  c.r.r.s.study.StudyMainController - Saving for Pacs...
+2025-03-20 16:08:34 INFO  c.r.r.modules.dicom.DicomService - Status : Uploading Begins
+2025-03-20 16:08:34 INFO  c.r.r.modules.dicom.DicomService - Creating DICOM File/s...
+2025-03-20 16:08:34 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {211, 0, 419x1024} and multiple is 3052.0 2500.0
+2025-03-20 16:08:35 INFO  c.r.r.modules.dicom.DicomService - Uploading to server...
+2025-03-20 16:08:35 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-03-20 16:08:35 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {211, 0, 419x1024} and multiple is 1024.0 838.0
+2025-03-20 16:08:35 INFO  c.r.r.modules.dicom.DicomService - Upload completed successfully!
+2025-03-20 16:08:35 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {211, 0, 419x1024} and multiple is 1024.0 838.0

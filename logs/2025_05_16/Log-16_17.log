@@ -1,0 +1,578 @@
+2025-05-16 16:18:13 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-16 16:18:14 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-16 16:18:14 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-16 16:18:14 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-16 16:18:17 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:18:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:18 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:18 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-16 16:18:18 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:20 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:25 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:25 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:25 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:25 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:25 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:26 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:27 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:27 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:27 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:28 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:29 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:29 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:29 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:29 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:35 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:35 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-16 16:18:35 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:39 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:50 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:18:50 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:13 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:13 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-16 16:24:14 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:14 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:16 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:16 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:17 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:24:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:25:40 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:25:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:01 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:04 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-16 16:26:05 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-16 16:26:05 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:26:05 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:05 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-16 16:26:07 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:16 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:18 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:19 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:20 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:20 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:20 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:20 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:21 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:22 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:34 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:35 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-16 16:26:35 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:35 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:36 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:37 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:38 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:26:39 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:26:39 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 2.98046875 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:48 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:26:48 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 738.5872340425532 y 105.96170212765958 end x 676.4936170212766 y 248.668085106383
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 676.4936170212766 y 248.668085106383 end x 813.7531914893617 y 251.93617021276594
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 371.4723404255319 y 16.634042553191488 end x 392.17021276595744 y 197.46808510638297
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 738.5872340425532 y 105.96170212765958 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 676.4936170212766 y 248.668085106383 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 813.7531914893617 y 251.93617021276594 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 371.4723404255319 y 16.634042553191488 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 392.17021276595744 y 197.46808510638297 
+2025-05-16 16:27:17 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - DynamicCanvasElementsResize.getMultiple() 1.0 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 22.759574468085106 y 542.5021276595745 end x 180.71702127659574 y 776.7148936170213
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 180.71702127659574 y 776.7148936170213 end x 187.2531914893617 y 901.9914893617022
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - line start x 131.69574468085105 y 271.25106382978726 end x 155.66170212765957 y 498.92765957446807
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 22.759574468085106 y 542.5021276595745 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.71702127659574 y 776.7148936170213 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 187.2531914893617 y 901.9914893617022 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.69574468085105 y 271.25106382978726 
+2025-05-16 16:27:17 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 155.66170212765957 y 498.92765957446807 

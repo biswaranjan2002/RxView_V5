@@ -1,0 +1,70 @@
+2025-07-11 15:14:47 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-11 15:14:48 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-11 15:14:48 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-11 15:14:59 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:01 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:01 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:01 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:09 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-07-11 15:15:09 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:09 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:09 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:11 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,1 2048.0 2560.0
+2025-07-11 15:15:11 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:11 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:11 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:13 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:13 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:13 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:13 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:15 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-07-11 15:15:15 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:15 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:15 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-07-11 15:15:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:17 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:18 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:18 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:18 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:18 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:20 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-07-11 15:15:20 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:20 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:20 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-07-11 15:15:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:21 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:24 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: ROW\2,3,1 2048.0 2560.0
+2025-07-11 15:15:24 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:24 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:24 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:25 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\3,4 2048.0 2560.0
+2025-07-11 15:15:25 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:25 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:25 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:27 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-07-11 15:15:27 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:27 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:27 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:28 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:28 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:28 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:28 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:32 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-07-11 15:15:32 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:32 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:32 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:34 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:34 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:34 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:34 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:36 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-07-11 15:15:37 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:37 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:37 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:53 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052
+2025-07-11 15:15:53 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - rect x 0 y 903 width 2500 height 1322
+2025-07-11 15:15:53 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutTab - org width 2500 height 3052

@@ -1,0 +1,314 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+#GridPane1 {
+    -fx-background-color: -primary;
+}
+
+#GridPane2 {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 20;
+}
+
+.SelectedRadioButton{
+    -fx-background-color: Transparent;
+    -fx-focus-traversable:false;
+    -fx-border-radius: 15;
+    -fx-border-color:-accent;
+    -fx-border-width:3;
+}
+
+.unSelectedRadioButton{
+    -fx-background-color: Transparent;
+     -fx-focus-traversable:false;
+}
+
+
+#TextField{
+    -fx-background-color: Transparent;
+    -fx-border-color: -accent;
+    -fx-border-width: 0 0 2 0;
+     -fx-focus-traversable: false;
+}
+
+
+
+#InputLabel{
+    -fx-background-color:Transparent;
+    -fx-border-color:-secondary;
+    -fx-border-width: 0 0 2 0;
+    -fx-text-fill: -additional;
+    -fx-focus-traversable:false;
+    -fx-prompt-text-fill: -additional;
+    -fx-font-size:20;
+}
+
+#Button{
+    -fx-background-color: -accent;
+     -fx-background-radius: 10;
+     -fx-focus-traversable:false;
+}
+
+#DeleteButton{
+    -fx-background-color:Transparent;
+    -fx-focus-traversable:false;
+    -fx-background-radius: 10;
+}
+
+.label{
+    -fx-text-fill:-text;
+}
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+
+.scroll-pane {
+    -fx-background: -primary;
+    -fx-background-color: -primary;
+    -fx-control-inner-background: -primary;
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+
+
+.scroll-pane2 {
+    -fx-background: -secondary;
+    -fx-background-color: -secondary;
+    -fx-control-inner-background: -secondary;
+}
+
+.scroll-bar2:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar2:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar2:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar2:vertical .track {
+    -fx-background-color: -additional;
+}
+
+
+
+.date-picker {
+       -fx-text-fill: -text;
+       -fx-font-size: 16px;
+       -fx-background-radius:15;
+       -fx-background-color:-accent;
+}
+
+.date-picker,
+.date-picker:focused,
+.date-picker:focused:editable {
+    -fx-background-color: -accent;
+    -fx-text-fill: -additional;
+}
+
+
+.date-picker .text-field {
+    -fx-background-color: -primary;
+    -fx-text-fill: -text;
+    -fx-background-radius:15;
+    -fx-font-size: 20px;
+    -fx-prompt-text-fill: -additional;
+}
+
+
+.date-picker .text-field:hover {
+    -fx-background-color: -primary;
+-fx-background-radius:15;
+
+
+}
+
+
+.date-picker .text-field:focused {
+    -fx-background-color: -primary;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 5, 0.0, 0, 0);
+    -fx-background-radius:15;
+}
+
+
+.date-picker .arrow-button {
+   -fx-background-color: -accent;
+   -fx-background-radius: 0;
+-fx-background-radius:15;
+
+
+}
+
+.date-picker .arrow-button:hover {
+   -fx-background-color: -accent;
+-fx-background-radius:15;
+
+}
+
+.date-picker .arrow-button .arrow {
+   -fx-background-color: -text;
+-fx-background-radius:15;
+-fx-padding: 8px;
+}
+
+.date-picker .cell {
+   -fx-background-color: -primary;
+   -fx-text-fill: -text;
+
+   -fx-border-color:-primary;
+}
+
+.date-picker .cell:hover {
+   -fx-background-color:-secondary;
+}
+
+.date-picker .cell:focused {
+   -fx-background-color: -accent;
+}
+
+
+.date-picker-popup {
+   -fx-border-color: -secondary;
+   -fx-background-color: transparent;
+}
+
+.date-picker-popup .month-year-pane {
+   -fx-background-color: -primary;
+}
+
+.date-picker-popup .month-year-pane .label {
+   -fx-text-fill: -text;
+}
+
+
+
+
+/* Style for the week day labels */
+.date-picker-popup .day-name-cell {
+   -fx-background-color: -accent;
+   -fx-border-color: -accent;
+}
+
+.date-picker-popup .day-name-cell .label {
+   -fx-text-fill: -text;
+}
+
+.date-picker-popup .day-name-cell:hover {
+   -fx-background-color: -accent;
+   -fx-border-color: -accent;
+}
+
+
+.date-picker-popup .week-number-cell {
+   -fx-background-color: -accent;
+}
+
+.date-picker-popup .week-number-cell .label {
+   -fx-text-fill: -text;
+}
+
+.date-picker-popup .week-number-cell:hover {
+   -fx-background-color: -accent;
+}
+
+
+.date-picker-popup .spinner .button .left-arrow,
+.date-picker-popup .spinner .button .right-arrow {
+   -fx-background-color: -text;
+}
+
+.date-picker-popup .spinner .button:hover,
+.date-picker-popup .spinner .button:hover {
+   -fx-background-color: -accent;
+}
+
+.date-picker-popup .spinner .button:active,
+.date-picker-popup .spinner .button:active {
+   -fx-background-color: -accent;
+}
+
+.date-picker-popup .spinner .button:focused,
+.date-picker-popup .spinner .button:focused {
+   -fx-background-color: -accent;
+}
+
+
+#selectedBodyPartButton{
+    -fx-background-color:-additional;
+    -fx-background-radius:15;
+    -fx-font-size:16;
+    -fx-text-fill:-text;
+}
+
+#unSelectedBodyPartButton{
+    -fx-background-color:transparent;
+    -fx-background-radius:15;
+    -fx-font-size:16;
+    -fx-text-fill:-text;
+}
+
+.button{
+     -fx-background-color: transparent;
+      -fx-focus-traversable:false;
+      -fx-font-size:18;
+      -fx-text-fill:-text;
+}
+
+#procedureLabel{
+    -fx-background-color:transparent;
+    -fx-font-size:18;
+    -fx-text-fill:-additional;
+}
+
+.jfx-combo-box {
+    -fx-font-size : 16;
+    -fx-prompt-text-fill:-additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+}
+
+.jfx-combo-box-popup .list-view {
+    -fx-background-color: -primary;
+    -fx-font-size : 18;
+}
+
+.jfx-combo-box .list-cell {
+    -fx-background-color: -primary;
+    -fx-text-fill: -additional;
+}
+

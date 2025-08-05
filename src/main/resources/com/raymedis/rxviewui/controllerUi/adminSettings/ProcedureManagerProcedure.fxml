@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<VBox alignment="CENTER" maxHeight="970.0" maxWidth="1620.0" minHeight="970.0" minWidth="1620.0" prefHeight="970.0" prefWidth="1620.0" stylesheets="@../../../../../Styles/Css/AdminSettings/ProcedureManager.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.procedureManager.ProcedureManagerProcedure">
+   <styleClass>
+      <String fx:value="GridPane" />
+      <String fx:value="fontStyle" />
+   </styleClass>
+   <VBox id="ShadowEffectBox2" maxHeight="875.0" maxWidth="1575.0" minHeight="875.0" minWidth="1575.0" prefHeight="875.0" prefWidth="1575.0">
+      <children>
+         <HBox maxHeight="60.0" maxWidth="1575.0" minHeight="60.0" minWidth="1575.0" prefHeight="60.0" prefWidth="1575.0">
+            <children>
+               <Label id="HeaderLabel2" alignment="CENTER" contentDisplay="CENTER" maxHeight="60.0" maxWidth="450.0" minHeight="60.0" minWidth="450.0" prefHeight="60.0" prefWidth="450.0" text="Procedure-Step Mapping" />
+            </children>
+            <VBox.margin>
+               <Insets left="50.0" top="-30.0" />
+            </VBox.margin>
+         </HBox>
+         <HBox alignment="CENTER" maxHeight="825.0" maxWidth="1575.0" minHeight="825.0" minWidth="1575.0" prefHeight="825.0" prefWidth="1575.0" spacing="15.0">
+            <VBox alignment="TOP_CENTER" maxHeight="800.0" maxWidth="650.0" minHeight="800.0" minWidth="650.0" prefHeight="800.0" prefWidth="650.0" spacing="10.0">
+               <HBox alignment="CENTER" maxHeight="700.0" maxWidth="650.0" minHeight="700.0" minWidth="650.0" prefHeight="700.0" prefWidth="650.0">
+                  <VBox.margin>
+                     <Insets top="25.0" />
+                  </VBox.margin>
+                  <ScrollPane id="TableScrollPane" hbarPolicy="NEVER" maxHeight="700.0" maxWidth="650.0" minHeight="700.0" minWidth="650.0" prefHeight="700.0" prefWidth="650.0" vbarPolicy="NEVER">
+                     <content>
+                        <TableView fx:id="procedureTable" editable="true" focusTraversable="false" maxHeight="700.0" maxWidth="650.0" minHeight="700.0" minWidth="650.0" prefHeight="700.0" prefWidth="650.0">
+                           <placeholder>
+                              <Pane />
+                           </placeholder>
+                           <columns>
+                              <TableColumn fx:id="procedureIdColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="100.0" text="Id" />
+                              <TableColumn fx:id="procedureCodeColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="200.0" text="Procedure Code" />
+                              <TableColumn fx:id="procedureNameColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="300.0" text="Procedure Name" />
+                              <TableColumn fx:id="procedureDescriptionColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="250.0" text="Description" />
+                           </columns>
+                           <columnResizePolicy>
+                              <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                           </columnResizePolicy>
+                        </TableView>
+                     </content>
+                  </ScrollPane>
+               </HBox>
+               <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="650.0" minHeight="75.0" minWidth="650.0" prefHeight="75.0" prefWidth="650.0" spacing="10.0">
+                  <padding>
+                     <Insets right="10.0" />
+                  </padding>
+                  <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#procedureAddClick" prefHeight="50.0" prefWidth="150.0" text="Add" />
+                  <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#procedureDeleteClick" prefHeight="50.0" prefWidth="150.0" text="Delete" />
+               </HBox>
+            </VBox>
+            <VBox alignment="TOP_CENTER" maxHeight="800.0" maxWidth="300.0" minHeight="800.0" minWidth="300.0" prefHeight="800.0" prefWidth="300.0" spacing="10.0">
+               <children>
+                  <HBox alignment="CENTER" maxHeight="700.0" maxWidth="300.0" minHeight="700.0" minWidth="300.0" prefHeight="700.0" prefWidth="300.0">
+                     <children>
+                        <ScrollPane id="TableScrollPane" hbarPolicy="NEVER" maxHeight="700.0" maxWidth="300.0" minHeight="700.0" minWidth="300.0" prefHeight="700.0" prefWidth="300.0" vbarPolicy="NEVER">
+                           <content>
+                              <TableView fx:id="ProcedureStepsTable" focusTraversable="false" maxHeight="700.0" maxWidth="300.0" minHeight="700.0" minWidth="300.0" prefHeight="700.0" prefWidth="300.0">
+                                 <placeholder>
+                                    <Pane />
+                                 </placeholder>
+                                 <columns>
+                                    <TableColumn fx:id="procedureStepNameColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="300.0" text="Procedure Step Name" />
+                                 </columns>
+                                 <columnResizePolicy>
+                                    <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                 </columnResizePolicy>
+                              </TableView>
+                           </content>
+                        </ScrollPane>
+                     </children>
+                     <VBox.margin>
+                        <Insets top="25.0" />
+                     </VBox.margin>
+                  </HBox>
+                  <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="300.0" minHeight="75.0" minWidth="300.0" prefHeight="75.0" prefWidth="300.0" spacing="10.0">
+                     <children>
+                        <JFXButton id="ActionButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#stepDeleteClick" prefHeight="50.0" prefWidth="150.0" text="Remove" />
+                     </children>
+                     <padding>
+                        <Insets right="10.0" />
+                     </padding>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" maxHeight="800.0" maxWidth="75.0" minHeight="800.0" minWidth="75.0" prefHeight="800.0" prefWidth="75.0">
+               <children>
+                  <JFXButton id="ActionButton" alignment="CENTER_RIGHT" contentDisplay="RIGHT" maxHeight="60.0" maxWidth="60.0" minHeight="60.0" minWidth="60.0" onAction="#stepAddClick" prefHeight="60.0" prefWidth="60.0" text=" ">
+                     <graphic>
+                        <FontIcon id="fontIcon" iconLiteral="mdi2l-less-than" iconSize="40" wrappingWidth="40.0" />
+                     </graphic>
+                  </JFXButton>
+               </children>
+            </VBox>
+            <VBox alignment="TOP_CENTER" maxHeight="800.0" maxWidth="450.0" minHeight="800.0" minWidth="450.0" prefHeight="800.0" prefWidth="450.0" spacing="10.0">
+               <children>
+                  <HBox alignment="CENTER" maxHeight="700.0" maxWidth="450.0" minHeight="700.0" minWidth="450.0" prefHeight="700.0" prefWidth="450.0" spacing="10.0">
+                     <children>
+                        <ScrollPane id="TableScrollPane" maxHeight="700.0" maxWidth="225.0" minHeight="700.0" minWidth="225.0" prefHeight="700.0" prefWidth="225.0" vbarPolicy="NEVER">
+                           <content>
+                              <TableView fx:id="bodyPartsTable" focusTraversable="false" maxHeight="700.0" maxWidth="225.0" minHeight="700.0" minWidth="225.0" prefHeight="700.0" prefWidth="225.0">
+                                 <placeholder>
+                                    <Pane />
+                                 </placeholder>
+                                 <columns>
+                                    <TableColumn fx:id="bodyPartsNameColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="225.0" text="BodyParts" />
+                                 </columns>
+                                 <columnResizePolicy>
+                                    <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                 </columnResizePolicy>
+                              </TableView>
+                           </content>
+                        </ScrollPane>
+                        <VBox maxHeight="700.0" maxWidth="225.0" minHeight="700.0" minWidth="225.0" prefHeight="700.0" prefWidth="225.0" spacing="25.0">
+                           <children>
+                              <ScrollPane id="TableScrollPane" hbarPolicy="NEVER" maxHeight="225.0" maxWidth="225.0" minHeight="225.0" minWidth="225.0" prefHeight="225.0" prefWidth="225.0" vbarPolicy="NEVER">
+                                 <content>
+                                    <TableView fx:id="patientSizeTable" focusTraversable="false" maxHeight="225.0" maxWidth="225.0" minHeight="225.0" minWidth="225.0" prefHeight="225.0" prefWidth="225.0">
+                                       <placeholder>
+                                          <Pane />
+                                       </placeholder>
+                                       <columns>
+                                          <TableColumn fx:id="patientSizeColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="225.0" text="Patient Size" />
+                                       </columns>
+                                       <columnResizePolicy>
+                                          <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                       </columnResizePolicy>
+                                    </TableView>
+                                 </content>
+                              </ScrollPane>
+                              <ScrollPane id="TableScrollPane" maxHeight="450.0" maxWidth="225.0" minHeight="450.0" minWidth="225.0" prefHeight="450.0" prefWidth="225.0" vbarPolicy="NEVER">
+                                 <content>
+                                    <TableView fx:id="stepTable" focusTraversable="false" maxHeight="450.0" maxWidth="225.0" minHeight="450.0" minWidth="225.0" prefHeight="450.0" prefWidth="225.0">
+                                       <placeholder>
+                                          <Pane />
+                                       </placeholder>
+                                       <columns>
+                                          <TableColumn fx:id="stepNameColumn" maxWidth="1.7976931348623157E308" minWidth="-1.0" prefWidth="225.0" text="Step Name" />
+                                       </columns>
+                                       <columnResizePolicy>
+                                          <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                       </columnResizePolicy>
+                                    </TableView>
+                                 </content>
+                              </ScrollPane>
+                           </children>
+                        </VBox>
+                     </children>
+                     <VBox.margin>
+                        <Insets top="25.0" />
+                     </VBox.margin>
+                  </HBox>
+               </children>
+            </VBox>
+         </HBox>
+      </children>
+   </VBox>
+</VBox>

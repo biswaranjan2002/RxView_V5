@@ -1,0 +1,21 @@
+2025-04-03 16:01:52 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-03 16:01:52 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-03 16:01:52 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-03 16:01:52 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-03 16:01:56 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-03 16:01:57 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-03 16:01:58 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-03 16:01:58 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:02:10 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:02:14 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-03 16:02:15 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-03 16:02:16 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:02:38 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:02:45 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:02:58 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:03:02 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-03 16:03:03 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-03 16:03:03 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-03 16:03:26 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-03 16:03:28 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-03 16:03:28 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

@@ -1,0 +1,32 @@
+2025-04-08 13:21:29 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-08 13:21:29 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-08 13:21:29 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-08 13:21:29 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-08 13:21:33 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-08 13:21:37 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-08 13:21:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-08 13:21:39 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-08 13:21:50 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 0, 838x1024}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 0, 838x1024}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 2, 838x1021}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 11, 838x1012}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 18, 838x1005}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 33, 838x990}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 40, 838x983}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 54, 838x969}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 68, 838x955}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 72, 838x951}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 84, 838x939}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 88, 838x935}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 104, 838x919}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 116, 838x907}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 118, 838x905}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 125, 838x898}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 133, 838x890}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 144, 838x879}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 153, 838x870}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 156, 838x867}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 159, 838x864}
+2025-04-08 13:21:52 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 162, 838x861}
+2025-04-08 13:22:17 INFO  c.r.r.m.I.D.CanvasMainChange - Canvas cropRect : {0, 162, 838x861}
+2025-04-08 13:22:17 INFO  c.r.r.m.I.D.CanvasMainChange - Canvas cropRect : {0, 162, 838x861}

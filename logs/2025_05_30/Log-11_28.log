@@ -1,0 +1,13 @@
+2025-05-30 11:28:42 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-30 11:28:42 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-30 11:28:42 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-30 11:28:43 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:46 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:46 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:47 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:47 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:48 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:48 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:48 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:49 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized
+2025-05-30 11:28:49 INFO  com.raymedis.rxviewui.service.study.StudyService - fpd not initialized

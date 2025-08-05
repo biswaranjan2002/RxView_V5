@@ -1,0 +1,50 @@
+2025-05-20 14:57:09 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-20 14:57:10 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-20 14:57:10 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-20 14:57:10 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-20 14:57:13 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-20 14:57:16 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-20 14:57:17 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-20 14:57:17 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-20 14:58:05 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-20 14:58:06 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-20 14:58:06 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-20 14:58:26 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-20 14:58:26 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-20 14:58:27 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-20 14:59:46 INFO  c.r.r.service.study.StudyService - org mat size 3052 * 2500
+2025-05-20 14:59:52 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:59:56 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:59:59 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:00:03 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:00:07 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:00:12 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:00:15 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:00:17 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:22 INFO  c.r.r.service.print.PrintService - Type or Depth Issue : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:22 INFO  c.r.r.service.print.PrintService - Type or Depth Issue : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:23 INFO  c.r.r.service.print.PrintService - Type or Depth Issue : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:23 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - Type or Depth Issue For AnnotationsMat : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - outputMat type: CV_16UC3
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - path exits
+2025-05-20 15:02:25 INFO  c.r.r.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/111.dcm
+2025-05-20 15:02:25 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:27 INFO  c.r.r.service.print.PrintService - Type or Depth Issue For AnnotationsMat : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:27 INFO  c.r.r.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-20 15:02:28 INFO  c.r.r.service.print.PrintService - outputMat type: CV_16UC3
+2025-05-20 15:02:28 INFO  c.r.r.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-20 15:02:28 INFO  c.r.r.service.print.PrintService - path exits
+2025-05-20 15:02:28 INFO  c.r.r.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/211.dcm
+2025-05-20 15:02:28 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:30 INFO  c.r.r.service.print.PrintService - Type or Depth Issue For AnnotationsMat : CV_16UC4 : CV_8UC4
+2025-05-20 15:02:30 INFO  c.r.r.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-20 15:02:30 INFO  c.r.r.service.print.PrintService - outputMat type: CV_16UC3
+2025-05-20 15:02:31 INFO  c.r.r.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-20 15:02:31 INFO  c.r.r.service.print.PrintService - path exits
+2025-05-20 15:02:31 INFO  c.r.r.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/311.dcm
+2025-05-20 15:02:31 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:32 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 15:02:34 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

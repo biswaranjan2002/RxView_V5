@@ -1,0 +1,98 @@
+2025-06-05 12:24:27 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-05 12:24:27 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-05 12:24:27 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop X: 0.0, Crop Y: 0.0
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - annotationMat size 504x3052 , type CV_16UC4 
+2025-06-05 12:24:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org Mat size 504x3052 , type CV_16UC1 
+2025-06-05 12:24:32 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size 504x3052 , type CV_16UC4 
+2025-06-05 12:24:32 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-06-05 12:24:32 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:32 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-05 12:24:32 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-05 12:24:32 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop X: 320.2723404255319, Crop Y: 0.0
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - annotationMat size 2500x3052 , type CV_16UC4 
+2025-06-05 12:24:43 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org Mat size 2500x3052 , type CV_16UC1 
+2025-06-05 12:24:44 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size 2500x3052 , type CV_16UC4 
+2025-06-05 12:24:44 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-06-05 12:24:45 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:45 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-05 12:24:45 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-05 12:24:45 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop X: 320.2723404255319, Crop Y: 0.0
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - annotationMat size 2500x3052 , type CV_16UC4 
+2025-06-05 12:24:50 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org Mat size 2500x3052 , type CV_16UC1 
+2025-06-05 12:24:51 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size 2500x3052 , type CV_16UC4 
+2025-06-05 12:24:51 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-06-05 12:24:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:24:52 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-05 12:24:52 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-05 12:24:52 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=-73.37446808510637, offsetY=-57.84680851063828, text='RIGHT'} 
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {320, 0, 169x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {320, 0, 169x1024}
+2025-06-05 12:24:55 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {954, 0, 504x3052}
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop X: 0.0, Crop Y: 0.0
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {320, 0, 169x1024}
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - annotationMat size 504x3052 , type CV_16UC4 
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org Mat size 504x3052 , type CV_16UC1 
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size 504x3052 , type CV_16UC4 
+2025-06-05 12:27:53 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-06-05 12:27:54 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-05 12:27:54 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-05 12:27:54 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-05 12:27:54 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=-73.37446808510637, offsetY=-57.84680851063828, text='RIGHT'} 
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {320, 0, 169x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - cropRect : {320, 0, 169x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - after cropRect : {320, 0, 169x1024}
+2025-06-05 12:28:21 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.CanvasMainChange - displayImage : 838.0x1024.0

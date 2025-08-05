@@ -1,0 +1,41 @@
+2025-03-19 12:57:40 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-19 12:57:41 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-19 12:57:41 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-19 12:57:41 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-19 12:57:44 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-19 12:57:47 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-19 12:57:48 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-19 12:57:49 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 12:57:49 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-19 12:57:52 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 12:57:53 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 12:57:55 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 12:58:06 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 12:58:07 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 12:58:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 12:58:12 INFO  c.r.rxviewui.controller.DicomPage - path exits
+2025-03-19 12:58:12 INFO  c.r.rxviewui.controller.DicomPage - D:\Work\RxView_Java\RxView\27_RxView_Study_Export/dcmOutput/11.dcm
+2025-03-19 12:58:12 ERROR c.r.rxviewui.controller.DicomPage - DICOM File creation failed
+java.lang.UnsupportedOperationException: null
+	at java.base/java.util.AbstractList.set(AbstractList.java:138)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.createDicomFile(DicomPage.java:514)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.createObjects(DicomPage.java:396)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.processBodyParts(DicomPage.java:366)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage$1.call(DicomPage.java:267)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage$1.call(DicomPage.java:259)
+	at javafx.graphics@21/javafx.concurrent.Task$TaskCallable.call(Task.java:1399)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-03-19 12:58:12 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-03-19 12:58:12 ERROR c.r.rxviewui.controller.DicomPage - Failed to create dicom File {}
+java.lang.UnsupportedOperationException: null
+	at java.base/java.util.AbstractList.set(AbstractList.java:138)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.createDicomFile(DicomPage.java:514)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.createObjects(DicomPage.java:396)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage.processBodyParts(DicomPage.java:366)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage$1.call(DicomPage.java:267)
+	at com.raymedis.rxviewui/com.raymedis.rxviewui.controller.DicomPage$1.call(DicomPage.java:259)
+	at javafx.graphics@21/javafx.concurrent.Task$TaskCallable.call(Task.java:1399)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

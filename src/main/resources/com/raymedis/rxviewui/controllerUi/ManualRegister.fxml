@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane id="GridPane1" alignment="CENTER" maxHeight="970.0" maxWidth="1920" minHeight="970.0" minWidth="1920" prefHeight="970.0" prefWidth="1920.0" styleClass="fontStyle" stylesheets="@../../../../Styles/Css/ManualRegisterPage.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.registrationModule.ManualRegister">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <HBox maxHeight="970.0" maxWidth="1920.0" minHeight="970.0" minWidth="1920.0" prefHeight="970.0" prefWidth="1920.0">
+         <children>
+            <HBox maxHeight="970.0" maxWidth="1056.0" minHeight="970.0" minWidth="1056.0" prefHeight="970.0" prefWidth="1056.0">
+               <children>
+                  <VBox alignment="TOP_CENTER" maxHeight="970.0" maxWidth="375.0" minHeight="970.0" minWidth="375.0" prefHeight="970.0" prefWidth="375.0">
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                     <children>
+                        <VBox alignment="CENTER_LEFT" maxHeight="100.0" maxWidth="325.0" minHeight="100.0" minWidth="325.0" prefHeight="100.0" prefWidth="325.0">
+                           <children>
+                              <Label maxHeight="40.0" maxWidth="50.0" minHeight="40.0" minWidth="50.0" prefHeight="40.0" prefWidth="50.0" styleClass="fontStyle" text="Sex" textFill="WHITE">
+                                 <font>
+                                    <Font name="Century Gothic" size="24.0" />
+                                 </font>
+                              </Label>
+                              <HBox alignment="CENTER" maxHeight="50.0" maxWidth="225.0" minHeight="50.0" minWidth="225.0" prefHeight="50.0" prefWidth="225.0" spacing="15.0">
+                                 <children>
+                                    <Button id="SelectedRadioButton" fx:id="maleButton" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#maleBtn_Click" prefHeight="50" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2g-gender-male" iconSize="30" wrappingWidth="30.0" />
+                                       </graphic>
+                                    </Button>
+                                    <Button fx:id="femaleButton" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#femaleBtn_Click" prefHeight="50" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2g-gender-female" iconSize="30" wrappingWidth="30.0" />
+                                       </graphic>
+                                    </Button>
+                                    <Button fx:id="nonBinaryButton" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#otherBtn_Click" prefHeight="50.0" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2g-gender-non-binary" iconSize="30" wrappingWidth="30.0" />
+                                       </graphic>
+                                    </Button>
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets left="50.0" />
+                                 </VBox.margin>
+                              </HBox>
+                           </children>
+                        </VBox>
+                        <ScrollPane hbarPolicy="NEVER" maxHeight="850.0" maxWidth="325.0" minHeight="850.0" minWidth="325.0" prefHeight="850.0" prefWidth="325.0">
+                           <content>
+                              <VBox maxWidth="315.0" minWidth="315.0" prefWidth="315.0">
+                                 <children>
+                                    <TextField id="InputLabel" fx:id="patientId" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="* PatientId" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientName" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="* Patient Name" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientFirstName" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="First Name" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientMiddleName" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Middle Name" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientLastName" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Last Name" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="age" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Age" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <DatePicker fx:id="birthDate" editable="false" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="Birth Date" styleClass="fontStyle">
+                                       <VBox.margin>
+                                          <Insets bottom="-10.0" top="25.0" />
+                                       </VBox.margin></DatePicker>
+                                    <TextField id="InputLabel" fx:id="weight" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Weight" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="height" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Height" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="accessionNumber" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Accession Number" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="studyDescription" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Study Description" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="referringPhysician" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Reffering Physician" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="performingPhysician" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Performing Physician" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="readingPhysician" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Reading Physician" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="institution" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Instution" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientInstituteResidence" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Patient Institue Residence" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="additionalPatientHistory" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Additional Patient History" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="admittingDiagnosisDescription" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Admitting Diagnosis Description" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="patientComments" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Patient Comments" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <TextField id="InputLabel" fx:id="requestProcedurePriority" alignment="BOTTOM_LEFT" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70" prefWidth="300.0" promptText="Request Procedure Priority" styleClass="fontStyle">
+                                       <font>
+                                          <Font name="Century Gothic" size="20.0" />
+                                       </font>
+                                    </TextField>
+                                    <DatePicker fx:id="scheduledDateTime" editable="false" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" promptText="Scheduled Date Time" styleClass="fontStyle">
+                                       <VBox.margin>
+                                          <Insets top="25.0" />
+                                       </VBox.margin></DatePicker>
+                                    <HBox fx:id="procedureSelection" alignment="CENTER" maxHeight="70.0" maxWidth="300.0" minHeight="70.0" minWidth="300.0" prefHeight="70.0" prefWidth="300.0">
+                                       <children>
+                                          <Label id="procedureLabel" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Procedure">
+                                             <font>
+                                                <Font name="Century Gothic" size="24.0" />
+                                             </font>
+                                          </Label>
+                                          <JFXComboBox fx:id="procedureComboBox" maxHeight="50.0" maxWidth="200.0" minHeight="50.0" minWidth="200.0" onAction="#procedureSelectionClick" prefHeight="50.0" prefWidth="200.0" />
+                                       </children>
+                                    </HBox>
+                                 </children>
+                              </VBox>
+                           </content>
+                        </ScrollPane>
+                     </children>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                  </VBox>
+                  <VBox maxHeight="960.0" maxWidth="680.0" minHeight="960.0" minWidth="680.0" prefHeight="960.0" prefWidth="680.0">
+                     <children>
+                        <VBox maxHeight="100.0" maxWidth="680.0" minHeight="100.0" minWidth="680.0" prefHeight="100.0" prefWidth="680.0">
+                           <children>
+                              <Label maxHeight="40.0" maxWidth="150.0" minHeight="40.0" minWidth="150.0" prefHeight="40.0" prefWidth="150.0" styleClass="fontStyle" text="Patient Size" textFill="WHITE">
+                                 <font>
+                                    <Font name="Century Gothic" size="24.0" />
+                                 </font>
+                                 <VBox.margin>
+                                    <Insets left="50.0" />
+                                 </VBox.margin>
+                              </Label>
+                              <HBox alignment="CENTER" maxHeight="50.0" maxWidth="300.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" spacing="15.0">
+                                 <children>
+                                    <Button fx:id="smallMan" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#smallManBtn_Click" prefHeight="50" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-child" iconSize="20" wrappingWidth="20.0" />
+                                       </graphic>
+                                    </Button>
+                                    <Button fx:id="mediumMan" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#mediumMan_Click" prefHeight="50" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="26" wrappingWidth="26.0" />
+                                       </graphic>
+                                    </Button>
+                                    <Button fx:id="largeMan" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#largeManBtn_Click" prefHeight="50.0" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="32" wrappingWidth="32.0" />
+                                       </graphic>
+                                    </Button>
+                                    <Button fx:id="extraLargeMan" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" onAction="#extraLargeBtn_Click" prefHeight="50.0" prefWidth="60.0" styleClass="unSelectedRadioButton">
+                                       <graphic>
+                                          <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="40" wrappingWidth="40.0" />
+                                       </graphic>
+                                    </Button>
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets left="200.0" top="5.0" />
+                                 </VBox.margin>
+                              </HBox>
+                           </children>
+                        </VBox>
+                        <GridPane fx:id="patientBodyContainer" alignment="CENTER" maxHeight="800.0" maxWidth="680.0" minHeight="800.0" minWidth="680.0" prefHeight="800.0" prefWidth="680.0" />
+                     </children>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <padding>
+                        <Insets top="10.0" />
+                     </padding>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox maxHeight="970.0" maxWidth="864.0" minHeight="970.0" minWidth="864.0" prefHeight="970.0" prefWidth="864.0" spacing="10.0">
+               <children>
+                  <VBox id="GridPane2" maxHeight="925.0" maxWidth="590.0" minHeight="925.0" minWidth="590.0" prefHeight="925.0" prefWidth="590.0">
+                     <children>
+                        <ScrollPane hbarPolicy="NEVER" maxHeight="800.0" maxWidth="590.0" minHeight="800.0" minWidth="590.0" prefHeight="800.0" prefWidth="590.0" styleClass="scroll-pane2">
+                           <content>
+                              <VBox fx:id="bodyPartPositionContainer" alignment="CENTER" maxWidth="590.0" minWidth="590.0" prefWidth="590.0" spacing="15">
+                                 <padding>
+                                    <Insets left="5.0" />
+                                 </padding>
+                              </VBox>
+                           </content>
+                           <VBox.margin>
+                              <Insets bottom="25.0" top="25.0" />
+                           </VBox.margin>
+                        </ScrollPane>
+                        <HBox alignment="CENTER" maxHeight="60.0" maxWidth="590.0" minHeight="60.0" minWidth="590.0" prefHeight="60.0" prefWidth="590.0" spacing="465.0">
+                           <children>
+                              <JFXButton id="Button" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#saveToWorkListClick" prefHeight="50.0" prefWidth="50.0" text=" ">
+                                 <graphic>
+                                    <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2c-content-save" iconSize="35" wrappingWidth="35.0" />
+                                 </graphic>
+                                 <HBox.margin>
+                                    <Insets left="15.0" />
+                                 </HBox.margin>
+                              </JFXButton>
+                              <JFXButton id="Button" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#studyNextClick" prefHeight="50.0" prefWidth="50.0" text=" ">
+                                 <graphic>
+                                    <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2r-radioactive" iconSize="35" wrappingWidth="35.0" />
+                                 </graphic>
+                                 <HBox.margin>
+                                    <Insets right="10.0" />
+                                 </HBox.margin>
+                              </JFXButton>
+                           </children>
+                        </HBox>
+                     </children>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </VBox>
+                  <VBox id="GridPane2" alignment="CENTER" maxHeight="925.0" maxWidth="250.0" minHeight="925.0" minWidth="250.0" prefHeight="925.0" prefWidth="250.0">
+                     <children>
+                        <JFXButton id="DeleteButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#deleteSelectedBodyPosition" prefHeight="50.0" prefWidth="50.0" text=" ">
+                           <graphic>
+                              <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2d-delete" iconSize="40" wrappingWidth="40.0" />
+                           </graphic>
+                           <VBox.margin>
+                              <Insets bottom="15.0" top="5.0" />
+                           </VBox.margin>
+                        </JFXButton>
+                        <StackPane maxHeight="825.0" maxWidth="250.0" minHeight="825.0" minWidth="250.0" prefHeight="825.0" prefWidth="250.0">
+                           <children>
+                              <ScrollPane hbarPolicy="NEVER" maxHeight="825.0" maxWidth="250.0" minHeight="825.0" minWidth="250.0" prefHeight="825.0" prefWidth="250.0">
+                                 <content>
+                                    <VBox fx:id="selectedPositionsContainer" alignment="CENTER" maxWidth="245.0" minWidth="245.0" prefWidth="245.0" spacing="15.0">
+                                    </VBox>
+                                 </content>
+                                 <styleClass>
+                                    <String fx:value="scroll-pane2" />
+                                    <String fx:value="scroll-bar2" />
+                                 </styleClass>
+                              </ScrollPane>
+                           </children>
+                        </StackPane>
+                     </children>
+                  </VBox>
+               </children>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+               <padding>
+                  <Insets top="30.0" />
+               </padding>
+            </HBox>
+         </children>
+      </HBox>
+   </children>
+
+</GridPane>

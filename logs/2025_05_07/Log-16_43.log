@@ -1,0 +1,7 @@
+2025-05-07 16:43:22 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-07 16:43:23 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-07 16:43:23 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-07 16:43:23 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-07 16:43:27 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-07 16:43:30 INFO  c.r.r.modules.print.Layout.LayoutTab - layoutTab handleDragDropped
+2025-05-07 16:43:34 INFO  c.r.r.service.print.PrintService - service layoutForPage false true

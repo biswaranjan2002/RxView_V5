@@ -1,0 +1,4 @@
+2025-04-14 18:28:45 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-14 18:28:47 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-14 18:28:48 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-14 18:28:49 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

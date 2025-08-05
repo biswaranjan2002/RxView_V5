@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXRadioButton?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" maxHeight="1030.0" maxWidth="1600.0" minHeight="1030.0" minWidth="1600.0" prefHeight="1030.0" prefWidth="1600.0"
+      stylesheets="@../../../../../Styles/Css/AdminSettings/Registration/General.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.raymedis.rxviewui.controller.adminSettings.registration.general.RegistrationGeneral">
+   <children>
+       <HBox alignment="CENTER" maxHeight="1030.0" maxWidth="1600.0" minHeight="1030.0" minWidth="1600.0" prefHeight="1030.0" prefWidth="1600.0" spacing="50.0">
+           <children>
+               <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="750.0" minHeight="1030.0" minWidth="750.0"
+                     prefHeight="1030.0" prefWidth="750.0" spacing="100.0">
+                   <VBox id="ShadowEffectBox2" maxHeight="250.0" maxWidth="750.0" minHeight="250.0" minWidth="750.0"
+                         prefHeight="250.0" prefWidth="750.0" spacing="5.0">
+                       <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="850.0" minHeight="60.0"
+                             minWidth="850.0" prefHeight="60.0" prefWidth="850.0">
+                           <children>
+                               <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0"
+                                      minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0"
+                                      styleClass="fontStyle" text="Default Tab" textAlignment="CENTER"
+                                      textFill="WHITE" wrapText="true">
+                                   <font>
+                                       <Font name="Century Gothic" size="22.0"/>
+                                   </font>
+                               </Label>
+                           </children>
+                           <padding>
+                               <Insets left="25.0" top="-60.0"/>
+                           </padding>
+                       </HBox>
+                       <HBox alignment="CENTER" maxHeight="100.0" maxWidth="750.0" minHeight="100.0"
+                             minWidth="750.0" prefHeight="100.0" prefWidth="750.0" spacing="75.0">
+                           <children>
+                               <JFXRadioButton fx:id="manualRadioButton" maxHeight="25.0" maxWidth="150.0"
+                                               minHeight="30.0" minWidth="150.0" prefHeight="30.0" prefWidth="150.0"
+                                               selected="true" text="Manual">
+                                   <toggleGroup>
+                                       <ToggleGroup fx:id="radioGroup"/>
+                                   </toggleGroup>
+                               </JFXRadioButton>
+                               <JFXRadioButton fx:id="workListRadioButton" maxHeight="30.0" maxWidth="150.0"
+                                               minHeight="30.0" minWidth="150.0" prefHeight="30.0" prefWidth="150.0"
+                                               text="WorkList" toggleGroup="$radioGroup"/>
+                               <JFXRadioButton fx:id="localListRadioButton" maxHeight="30.0" maxWidth="150.0"
+                                               minHeight="30.0" minWidth="150.0" prefHeight="30.0" prefWidth="150.0"
+                                               text="LocalList" toggleGroup="$radioGroup"/>
+                           </children>
+                           <padding>
+                               <Insets left="-10.0"/>
+                           </padding>
+                       </HBox>
+                       <HBox alignment="TOP_RIGHT" maxHeight="80.0" maxWidth="750.0" minHeight="80.0"
+                             minWidth="750.0" prefHeight="80.0" prefWidth="750.0">
+                           <JFXButton id="ActionButton" maxHeight="60.0" maxWidth="225.0" minHeight="60.0"
+                                      minWidth="225.0" onAction="#defaultTabSaveClick" prefHeight="60.0"
+                                      prefWidth="225.0" text="Save">
+                               <HBox.margin>
+                                   <Insets bottom="5.0" right="15.0"/>
+                               </HBox.margin>
+                           </JFXButton>
+                       </HBox>
+                   </VBox>
+               </VBox>
+           </children>
+       </HBox>
+   </children>
+   <styleClass>
+      <String fx:value="GridPane" />
+      <String fx:value="fontStyle" />
+   </styleClass>
+</VBox>

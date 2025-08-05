@@ -1,0 +1,85 @@
+@import url('../../ThemeColor.css');
+@import url('../../Fonts.css');
+
+.GridPane{
+    -fx-background-color:-primary;
+}
+
+#ShadowEffectBox2{
+    -fx-background-color:-primary;
+    -fx-background-radius:15;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.8), 8, 0, 0, 0);
+    -fx-border-width: 2;
+    -fx-border-color:-additional;
+    -fx-border-radius:13;
+}
+
+
+#HeaderLabel2{
+      -fx-background-color:-primary;
+      -fx-background-radius:15;
+      -fx-font-size:30;
+      -fx-text-fill:-additional;
+      -fx-border-color:-accent;
+      -fx-border-radius:13;
+      -fx-border-width:2;
+}
+
+.label{
+      -fx-font-size:22;
+      -fx-text-fill:-text;
+}
+
+.text-field{
+    -fx-font-size:20;
+    -fx-text-fill:-text;
+    -fx-prompt-text-fill:-additional;
+    -fx-background-color:-primary;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color:-additional;
+}
+
+.text-field2{
+    -fx-font-size:20;
+    -fx-text-fill:-text;
+    -fx-prompt-text-fill:-additional;
+    -fx-background-color:-primary;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color:-additional;
+}
+
+#ActionButton{
+      -fx-font-size:22;
+      -fx-text-fill:-text;
+      -fx-background-color:-accent;
+      -fx-background-radius:15;
+      -fx-font-weight:bold;
+}
+
+
+.jfx-combo-box {
+    -fx-font-size : 20;
+    -fx-prompt-text-fill:-additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+    -fx-pref-width: 400;
+}
+
+
+.jfx-combo-box-popup .list-view {
+    -fx-background-color: -primary;
+    -fx-font-size : 18;
+}
+
+.jfx-combo-box .list-cell {
+    -fx-background-color: -primary;
+    -fx-text-fill: -additional;
+}
+
+
+
+.radio-button{
+    -fx-font-size:22;
+    -fx-text-fill:-text;
+}

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXToggleButton?>
+<?import com.raymedis.rxviewui.ViewBox?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane id="GridPane" maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030" prefWidth="1920" styleClass="fontStyle" stylesheets="@../../../../Styles/Css/StudyMain.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.studyModule.StudyMain">
+   <GridPane id="GridPane" maxHeight="1030.0" maxWidth="600.0" minHeight="1030.0" minWidth="600.0" prefHeight="600.0" prefWidth="600.0" GridPane.columnIndex="0">
+      <columnConstraints>
+         <ColumnConstraints />
+      </columnConstraints>
+      <rowConstraints>
+         <RowConstraints />
+      </rowConstraints>
+      <children>
+         <VBox maxHeight="1030.0" maxWidth="600.0" minHeight="1030.0" minWidth="600.0" prefHeight="1030.0" prefWidth="600.0">
+            <children>
+               <HBox alignment="CENTER" maxHeight="100.0" maxWidth="600.0" minHeight="100.0" minWidth="600.0" prefHeight="100.0" prefWidth="600.0" spacing="15.0">
+                  <children>
+                     <JFXButton fx:id="bodyButton" alignment="CENTER" maxHeight="75.0" maxWidth="250.0" minHeight="75.0" minWidth="250.0" onAction="#bodyClick" prefHeight="75.0" prefWidth="250.0" styleClass="unSelectedToolsButton" text="Body" textFill="WHITE">
+                        <font>
+                           <Font name="Century Gothic" size="30.0" />
+                        </font>
+                     </JFXButton>
+                     <JFXButton fx:id="toolsButton" alignment="CENTER" maxHeight="75.0" maxWidth="250.0" minHeight="75.0" minWidth="250.0" onAction="#toolsClick" prefHeight="75.0" prefWidth="250.0" styleClass="selectedToolsButton" text="Tools" textFill="WHITE">
+                        <font>
+                           <Font name="Century Gothic" size="30.0" />
+                        </font>
+                     </JFXButton>
+                  </children>
+                  <VBox.margin>
+                     <Insets top="5.0" />
+                  </VBox.margin>
+               </HBox>
+               <HBox maxHeight="930.0" maxWidth="600.0" minHeight="930.0" minWidth="600.0" prefHeight="930.0" prefWidth="600.0">
+                  <children>
+                     <VBox maxHeight="930.0" maxWidth="145.0" minHeight="930.0" minWidth="145.0" prefHeight="930.0" prefWidth="145.0">
+                        <children>
+                           <ScrollPane hbarPolicy="NEVER" maxHeight="830.0" maxWidth="145.0" minHeight="830.0" minWidth="145.0" prefHeight="830.0" prefWidth="145.0">
+                              <content>
+                                 <VBox fx:id="bodyPartTabPane" alignment="CENTER" maxWidth="125.0" minWidth="125.0" prefWidth="125.0" spacing="10.0" styleClass="fontStyle">
+
+                                    <padding>
+                                       <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    </padding>
+                                 </VBox>
+                              </content>
+                              <VBox.margin>
+                                 <Insets />
+                              </VBox.margin>
+                           </ScrollPane>
+                           <HBox alignment="CENTER" maxHeight="90.0" maxWidth="145.0" minHeight="90.0" minWidth="145.0" prefHeight="90.0" prefWidth="145.0">
+                              <children>
+                                 <JFXButton id="BodyPartDeleteButton" fx:id="editProjection" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#editSelectedBodyPart" prefHeight="50.0" prefWidth="50.0" text=" ">
+                                    <graphic>
+                                       <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2i-image-edit" iconSize="38" wrappingWidth="38.0" />
+                                    </graphic>
+                                 </JFXButton>
+                                 <JFXButton id="BodyPartDeleteButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#deleteSelectedBodyPart" prefHeight="50.0" prefWidth="50.0" text=" ">
+                                    <graphic>
+                                       <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2d-delete" iconSize="38" wrappingWidth="38.0" />
+                                    </graphic>
+                                 </JFXButton>
+                              </children>
+                              <VBox.margin>
+                                 <Insets />
+                              </VBox.margin>
+                              <padding>
+                                 <Insets bottom="5.0" right="20.0" />
+                              </padding>
+                           </HBox>
+                        </children>
+                        <HBox.margin>
+                           <Insets />
+                        </HBox.margin>
+                        <padding>
+                           <Insets top="5.0" />
+                        </padding>
+                     </VBox>
+                     <VBox fx:id="BodyToolsContainer" maxHeight="900.0" maxWidth="400.0" minHeight="900.0" minWidth="400.0" prefHeight="900.0" prefWidth="400.0" />
+
+                     <VBox fx:id="toolsBox" alignment="CENTER" maxHeight="930.0" maxWidth="55.0" minHeight="930.0" minWidth="55.0" prefHeight="930.0" prefWidth="55.0" spacing="3.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1">
+                        <children>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="selectButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#selectClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-arrow-top-left-thick" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="zoomButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#zoomClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2m-magnify-plus" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="panButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#panClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-pan" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="brightnessButton" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#brightnessClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2b-brightness-6" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="contrastButton" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#contrastClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-contrast-circle" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="cropButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#cropClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-crop" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="flipButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#flipClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2f-flip-horizontal" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="inversionButton" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#windowLevelClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2v-view-split-vertical" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="cwButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#cwClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2r-rotate-right" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="ccwButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#ccwClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2r-rotate-left" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="fitButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#fitClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2f-fit-to-page" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="distanceButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#distanceClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-arrow-expand-horizontal" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="angleButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#angleClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-angle-acute" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="rightLabelButton" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#rightLabelClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-alpha-r-box-outline" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="leftLabelButton" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#leftLabelClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-alpha-l-box-outline" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="hideButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#hideClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2e-eye-off" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="deleteButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#deleteClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2d-delete" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="textButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#textClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2f-format-text" iconSize="38" />
+                              </graphic>
+                           </JFXButton>
+                           <JFXButton id="unSelectedImageToolsButton" fx:id="resetButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="45" maxWidth="50" minHeight="45" minWidth="50" onAction="#resetClick" prefHeight="45" prefWidth="50" text=" ">
+                              <graphic>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2r-reload" iconSize="38" wrappingWidth="38.0" />
+                              </graphic>
+                           </JFXButton>
+                        </children>
+                     </VBox>
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+      </children>
+
+   </GridPane>
+
+   <GridPane id="GridPane" maxHeight="1030.0" maxWidth="1320.0" minHeight="1030.0" minWidth="1320.0" prefHeight="1030" prefWidth="1320.0" GridPane.columnIndex="1">
+      <columnConstraints>
+         <ColumnConstraints />
+      </columnConstraints>
+      <rowConstraints>
+         <RowConstraints />
+      </rowConstraints>
+      <children>
+         <HBox id="GridPane" maxHeight="1030.0" maxWidth="1320.0" minHeight="1030.0" minWidth="1320.0" prefHeight="1030.0" prefWidth="1320.0">
+            <children>
+               <VBox maxHeight="1030.0" maxWidth="1230.0" minHeight="1030.0" minWidth="1230.0" prefHeight="1030.0" prefWidth="1230.0">
+                  <children>
+                     <HBox id="HBox" alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="1225.0" minHeight="75.0" minWidth="1225.0" prefHeight="75.0" prefWidth="1225.0">
+                        <VBox.margin>
+                           <Insets bottom="5.0" top="5.0" />
+                        </VBox.margin>
+                        <children>
+                           <JFXButton id="aedUnselectedReadyButton" fx:id="aedReadyButton" maxHeight="75.0" maxWidth="75.0" minHeight="75.0" minWidth="75.0" prefHeight="75.0" prefWidth="75.0" text=" ">
+                              <graphic>
+                                 <FontIcon id="aedUnselectedReadyIcon" fx:id="aedReadyLabel" iconLiteral="mdi2c-camera" iconSize="60" wrappingWidth="60.0" />
+                              </graphic>
+                           </JFXButton>
+                           <HBox fx:id="tabPane" alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="1150.0" minHeight="75.0" minWidth="1150.0" prefHeight="75.0" prefWidth="1150.0" />
+                        </children>
+                     </HBox>
+                     <HBox maxHeight="930.0" maxWidth="1320.0" minHeight="930.0" minWidth="1320.0" prefHeight="930.0" prefWidth="1320.0">
+                        <children>
+                           <StackPane fx:id="canvasStackPane" maxHeight="940.0" maxWidth="940.0" minHeight="940.0" minWidth="940.0" prefHeight="940.0" prefWidth="940.0">
+                              <children>
+                                 <GridPane id="ImageDisplayGrid" alignment="CENTER" maxHeight="940.0" maxWidth="940.0" minHeight="940.0" minWidth="940.0" prefHeight="940.0" prefWidth="940.0">
+                                    <ViewBox id="Imageviewbox" fx:id="canvasViewBox" maxHeight="2500.0" maxWidth="3052.0" minHeight="2500.0" minWidth="3052.0" prefHeight="2500.0" prefWidth="3052.0">
+                                       <Pane fx:id="canvasPane" maxHeight="2500.0" maxWidth="3052.0" minHeight="2500.0" minWidth="3052.0" prefHeight="2500.0" prefWidth="3052.0">
+                                          <Pane fx:id="textPane" maxHeight="2500" maxWidth="3052" />
+                                          <Canvas fx:id="drawingCanvas" height="2500" width="3052">
+                                             <StackPane.margin>
+                                                <Insets right="5.0" />
+                                             </StackPane.margin>
+                                          </Canvas>
+
+                                       </Pane>
+<!--
+                                       <Pane fx:id="textPane" maxHeight="2500" maxWidth="3052" />-->
+                                    </ViewBox>
+                                    <columnConstraints>
+                                       <ColumnConstraints />
+                                    </columnConstraints>
+                                    <rowConstraints>
+                                       <RowConstraints />
+                                    </rowConstraints>
+                                 </GridPane>
+                                 <GridPane fx:id="overlayGridPane" alignment="CENTER" maxHeight="940.0" maxWidth="940.0" minHeight="940.0" minWidth="940.0" prefHeight="940.0" prefWidth="940.0">
+                                    <children>
+                                       <ViewBox fx:id="overlayViewBox" alignment="CENTER" maxHeight="3052.0" maxWidth="3052.0" minHeight="3052.0" minWidth="3052.0" prefHeight="3052.0" prefWidth="3052.0">
+                                          <children>
+                                             <VBox maxHeight="3052.0" maxWidth="3052.0" minHeight="3052.0" minWidth="3052.0" prefHeight="3052.0" prefWidth="3052.0">
+                                                <children>
+                                                   <HBox maxHeight="1526.0" maxWidth="3052.0" minHeight="1526.0" minWidth="3052.0" prefHeight="1526.0" prefWidth="3052.0">
+                                                      <children>
+                                                         <VBox fx:id="topLeftOverlayBox" maxHeight="1526.0" maxWidth="1526.0" minHeight="1526.0" minWidth="1526.0" prefHeight="1526.0" prefWidth="1526.0">
+                                                            <padding>
+                                                               <Insets left="15.0" top="15.0" />
+                                                            </padding></VBox>
+                                                         <VBox fx:id="topRightOverlayBox" alignment="TOP_RIGHT" maxHeight="1526.0" maxWidth="1526.0" minHeight="1526.0" minWidth="1526.0" prefHeight="1526.0" prefWidth="1526.0">
+                                                            <padding>
+                                                               <Insets right="15.0" top="15.0" />
+                                                            </padding></VBox>
+                                                      </children>
+                                                   </HBox>
+                                                   <HBox layoutX="10.0" layoutY="10.0" maxHeight="1526.0" maxWidth="3052.0" minHeight="1526.0" minWidth="3052.0" prefHeight="1526.0" prefWidth="3052.0">
+                                                      <children>
+                                                         <VBox fx:id="bottomLeftOverlayBox" alignment="BOTTOM_LEFT" maxHeight="1526.0" maxWidth="1526.0" minHeight="1526.0" minWidth="1526.0" prefHeight="1526.0" prefWidth="1526.0">
+                                                            <padding>
+                                                               <Insets bottom="15.0" left="15.0" />
+                                                            </padding></VBox>
+                                                         <VBox fx:id="bottomRightOverlayBox" alignment="BOTTOM_RIGHT" maxHeight="1526.0" maxWidth="1526.0" minHeight="1526.0" minWidth="1526.0" prefHeight="1526.0" prefWidth="1526.0">
+                                                            <padding>
+                                                               <Insets bottom="15.0" right="15.0" />
+                                                            </padding></VBox>
+                                                      </children>
+                                                   </HBox>
+                                                </children>
+                                             </VBox>
+                                          </children>
+                                       </ViewBox>
+                                    </children>
+                                    <columnConstraints>
+                                       <ColumnConstraints />
+                                    </columnConstraints>
+                                    <rowConstraints>
+                                       <RowConstraints />
+                                    </rowConstraints>
+                                 </GridPane>
+                              </children>
+                           </StackPane>
+                           <VBox maxHeight="930.0" maxWidth="290.0" minHeight="930.0" minWidth="290.0" prefHeight="930.0" prefWidth="290.0">
+                              <children>
+                                 <HBox alignment="CENTER" maxHeight="100.0" maxWidth="290.0" minHeight="100.0" minWidth="290.0" prefHeight="100.0" prefWidth="290.0" spacing="75.0">
+                                    <children>
+                                       <JFXButton id="ActionButton" fx:id="consoleOnButton" maxHeight="75.0" maxWidth="75.0" minHeight="75.0" minWidth="75.0" onAction="#consoleOnClick" prefHeight="75.0" prefWidth="75.0" styleClass="fontStyle" text="ON" textFill="WHITE">
+                                          <font>
+                                             <Font name="Century Gothic Bold" size="20.0" />
+                                          </font>
+                                       </JFXButton>
+                                       <JFXButton id="ActionButton" fx:id="consoleOffButton" disable="true" maxHeight="75.0" maxWidth="75.0" minHeight="75.0" minWidth="75.0" onAction="#consoleOffClick" prefHeight="75.0" prefWidth="75.0" styleClass="fontStyle" text="OFF" textFill="WHITE">
+                                          <font>
+                                             <Font name="Century Gothic Bold" size="20.0" />
+                                          </font>
+                                       </JFXButton>
+                                    </children>
+                                 </HBox>
+                                 <VBox fx:id="consoleToolBox" disable="true" maxHeight="830.0" maxWidth="290.0" minHeight="830.0" minWidth="290.0" prefHeight="830.0" prefWidth="290.0">
+                                    <children>
+                                       <VBox disable="true" maxHeight="200.0" maxWidth="290.0" minHeight="200.0" minWidth="290.0" prefHeight="200.0" prefWidth="290.0">
+                                          <children>
+                                             <Label alignment="CENTER" maxHeight=".0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" styleClass="BigLabel" text="AEC" textFill="WHITE">
+                                                <font>
+                                                   <Font name="Century Gothic" size="24.0" />
+                                                </font>
+                                             </Label>
+                                             <VBox alignment="CENTER" disable="true" prefHeight="200.0" prefWidth="100.0" spacing="15.0">
+                                                <children>
+                                                   <HBox alignment="CENTER" spacing="25.0">
+                                                      <children>
+                                                         <JFXButton fx:id="aec1Button" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#aec1Click" prefHeight="50.0" prefWidth="50.0" styleClass="unSelectedAecButtons" text=" " textFill="WHITE" />
+                                                         <JFXButton fx:id="aec2Button" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#aec2Click" prefHeight="50.0" prefWidth="50.0" styleClass="unSelectedAecButtons" text=" " textFill="WHITE" />
+                                                      </children>
+                                                   </HBox>
+                                                   <JFXButton fx:id="aec3Button" alignment="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#aec3Click" prefHeight="50.0" prefWidth="50.0" styleClass="unSelectedAecButtons" text=" " textFill="WHITE" />
+                                                </children>
+                                             </VBox>
+                                          </children>
+                                       </VBox>
+                                       <VBox spacing="25.0">
+                                          <children>
+                                             <HBox alignment="CENTER" maxHeight="100.0" maxWidth="290.0" minHeight="100.0" minWidth="290.0" prefHeight="100.0" prefWidth="290.0" spacing="45.0">
+                                                <children>
+                                                   <VBox alignment="CENTER">
+                                                      <children>
+                                                         <JFXToggleButton fx:id="toggleLbd" onAction="#toggleLbdClick" text="  " toggleColor="WHITE" />
+                                                         <Label text="LBD" textFill="WHITE">
+                                                            <font>
+                                                               <Font name="Century Gothic" size="18.0" />
+                                                            </font>
+                                                         </Label>
+                                                      </children>
+                                                   </VBox>
+                                                   <VBox alignment="CENTER">
+                                                      <children>
+                                                         <JFXToggleButton fx:id="toggleMas" text="  " toggleColor="#ec641c" />
+                                                         <Label text="mAs" textFill="WHITE">
+                                                            <font>
+                                                               <Font name="Century Gothic" size="18.0" />
+                                                            </font>
+                                                         </Label>
+                                                      </children>
+                                                   </VBox>
+                                                </children>
+                                             </HBox>
+                                             <HBox alignment="CENTER" maxHeight="50.0" maxWidth="290.0" minHeight="50.0" minWidth="290.0" prefHeight="50.0" prefWidth="290.0" spacing="10.0">
+                                                <children>
+                                                   <JFXButton id="ConsoleButtons" fx:id="kvDecButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#kvDecreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2m-minus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                   <Label fx:id="kvValueLabel" maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0" styleClass="BigLabel" text="10.00" textFill="WHITE">
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <Label maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" styleClass="BigLabel" text="kV" textFill="WHITE">
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <JFXButton id="ConsoleButtons" fx:id="kvIncButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#kvIncreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-plus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                </children>
+                                             </HBox>
+                                             <HBox alignment="CENTER" maxHeight="50.0" maxWidth="290.0" minHeight="50.0" minWidth="290.0" prefHeight="50.0" prefWidth="290.0" spacing="10.0">
+                                                <children>
+                                                   <JFXButton id="ConsoleButtons" fx:id="maDecButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#maDecreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2m-minus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                   <Label fx:id="maValueLabel" maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0" styleClass="BigLabel" text="10.00" textFill="WHITE">
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <Label maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" styleClass="BigLabel" text="mA" textFill="WHITE">
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <JFXButton id="ConsoleButtons" fx:id="maIncButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#maIncreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-plus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                </children>
+                                             </HBox>
+                                             <HBox alignment="CENTER" maxHeight="50.0" maxWidth="290.0" minHeight="50.0" minWidth="290.0" prefHeight="50.0" prefWidth="290.0" spacing="10.0">
+                                                <children>
+                                                   <JFXButton id="ConsoleButtons" fx:id="masDecButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#masDecreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2m-minus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                   <Label fx:id="masValueLabel" maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0" styleClass="BigLabel" text="10.00" textFill="WHITE">
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <Label maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" styleClass="BigLabel" text="mAs" textFill="WHITE">
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <JFXButton id="ConsoleButtons" fx:id="masIncButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#masIncreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-plus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                </children>
+                                             </HBox>
+                                             <HBox alignment="CENTER" maxHeight="50.0" maxWidth="290.0" minHeight="50.0" minWidth="290.0" prefHeight="50.0" prefWidth="290.0" spacing="10.0">
+                                                <children>
+                                                   <JFXButton id="ConsoleButtons" fx:id="msDecButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#secDecreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2m-minus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                   <Label fx:id="secValueLabel" maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0" styleClass="BigLabel" text="10.00" textFill="WHITE">
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <Label maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" styleClass="BigLabel" text="sec" textFill="WHITE">
+                                                      <font>
+                                                         <Font name="Century Gothic" size="24.0" />
+                                                      </font>
+                                                   </Label>
+                                                   <JFXButton id="ConsoleButtons" fx:id="msIncButton" contentDisplay="CENTER" maxHeight="55.0" maxWidth="55.0" minHeight="55.0" minWidth="55.0" onAction="#secIncreaseClick" prefHeight="55.0" prefWidth="55.0" text=" " textAlignment="CENTER" textFill="WHITE">
+                                                      <graphic>
+                                                         <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-plus" iconSize="38" wrappingWidth="38.0" />
+                                                      </graphic>
+                                                      <HBox.margin>
+                                                         <Insets />
+                                                      </HBox.margin>
+                                                   </JFXButton>
+                                                </children>
+                                             </HBox>
+                                          </children>
+                                       </VBox>
+                                       <HBox alignment="BASELINE_CENTER" maxHeight="150.0" maxWidth="290.0" minHeight="150.0" minWidth="290.0" prefHeight="150.0" prefWidth="290.0">
+                                          <children>
+                                             <JFXButton fx:id="exposeButton" disable="true" maxHeight="100.0" maxWidth="275.0" minHeight="100.0" minWidth="275.0" onAction="#exposeClick" prefHeight="100.0" prefWidth="275.0" styleClass="selectedExposeButton" text="Expose" textFill="WHITE">
+                                                <font>
+                                                   <Font name="Century Gothic Bold" size="30.0" />
+                                                </font>
+                                                <styleClass>
+                                                   <String fx:value="ExposeLabel" />
+                                                   <String fx:value="unselectedExposeButton" />
+                                                </styleClass>
+                                             </JFXButton>
+                                          </children>
+                                          <padding>
+                                             <Insets top="40.0" />
+                                          </padding>
+                                       </HBox>
+                                       <HBox alignment="CENTER" maxHeight="60.0" maxWidth="290.0" minHeight="60.0" minWidth="290.0" prefHeight="60.0" prefWidth="290.0">
+                                          <children>
+                                             <FontIcon id="noFaultIcon" fx:id="faultIcon" iconColor="WHITE" iconLiteral="mdi2r-record" iconSize="38" wrappingWidth="38.0" />
+                                             <Label text="Fault" textFill="WHITE">
+                                                <font>
+                                                   <Font name="Century Gothic" size="24.0" />
+                                                </font>
+                                             </Label>
+                                          </children>
+                                          <padding>
+                                             <Insets left="145.0" top="-35.0" />
+                                          </padding>
+                                       </HBox>
+                                    </children>
+                                 </VBox>
+                              </children>
+                              <HBox.margin>
+                                 <Insets />
+                              </HBox.margin>
+                           </VBox>
+                        </children>
+                        <VBox.margin>
+                           <Insets top="2.0" />
+                        </VBox.margin>
+                     </HBox>
+                  </children>
+               </VBox>
+               <VBox id="ToolsPanel" alignment="CENTER" maxHeight="1030.0" maxWidth="90.0" minHeight="1030.0" minWidth="90.0" prefHeight="1030.0" prefWidth="90.0" spacing="10.0">
+                  <children>
+                     <JFXButton id="ToolsPanel" fx:id="pacsServerButton" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#pacsServerClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-cloud-upload" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="PACS" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" fx:id="exportButton" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#exportClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2e-export" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Export" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" fx:id="printButton" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#printClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2p-printer" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Print" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" fx:id="editButton" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#editClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2a-account-edit" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Edit" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" fx:id="emailButton" disable="true" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#emailClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2e-email" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Email" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" fx:id="rejectStudyButton" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#rejectStudyClick" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-close" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Reject" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#saveCurrentStudy" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-check" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Save" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="16.0" />
+                                    </font>
+                                    <VBox.margin>
+                                       <Insets />
+                                    </VBox.margin>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                     </JFXButton>
+                     <JFXButton id="ToolsPanel" maxHeight="90.0" maxWidth="90.0" minHeight="90.0" minWidth="90.0" onAction="#saveAllStudies" prefHeight="90.0" prefWidth="90.0" text=" ">
+                        <graphic>
+                           <VBox maxHeight="80.0" maxWidth="80.0" minHeight="80.0" minWidth="80.0" prefHeight="80.0" prefWidth="80.0">
+                              <children>
+                                 <FontIcon id="fontIcon" iconColor="WHITE" iconLiteral="mdi2c-check-all" iconSize="38" wrappingWidth="38.0">
+                                    <VBox.margin>
+                                       <Insets left="20.0" />
+                                    </VBox.margin>
+                                 </FontIcon>
+                                 <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="80.0" minHeight="20.0" minWidth="80.0" prefHeight="20.0" prefWidth="80.0" text="Save All" textFill="WHITE">
+                                    <font>
+                                       <Font name="Century Gothic" size="18.0" />
+                                    </font>
+                                 </Label>
+                              </children>
+                           </VBox>
+                        </graphic>
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                     </JFXButton>
+                  </children>
+                  <HBox.margin>
+                     <Insets />
+                  </HBox.margin>
+               </VBox>
+            </children>
+         </HBox>
+      </children>
+
+   </GridPane>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+
+
+
+</GridPane>

@@ -1,0 +1,255 @@
+2025-07-16 17:19:56 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-16 17:19:59 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-16 17:19:59 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-16 17:19:59 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-16 17:20:00 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-16 17:20:00 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-16 17:20:00 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-16 17:20:00 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-16 17:20:00 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:20:00 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-16 17:20:00 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-16 17:20:03 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-16 17:20:03 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-16 17:20:03 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-16 17:20:06 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-16 17:20:07 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-07-16 17:20:07 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-16 17:20:07 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-16 17:20:07 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-16 17:20:07 INFO  c.r.r.m.I.D.MainDrawTool - StepEntity is null, no params to apply
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 3.13
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 3.4
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 3.8
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 4.33
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 4.99
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 7.65
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.12
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.45
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.37
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.63
+2025-07-16 17:20:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.9
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:12 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.0
+2025-07-16 17:20:12 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:12 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:12 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.13
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.8
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 16.33
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 17.79
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 21.25
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 22.58
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 26.83
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.23
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.5
+2025-07-16 17:20:13 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.0
+2025-07-16 17:20:14 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:14 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:14 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.13
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.27
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 29.26
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 33.65
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 40.16
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 42.42
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 42.56
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 42.69
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 42.82
+2025-07-16 17:20:15 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 43.0
+2025-07-16 17:20:17 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:17 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:17 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 42.47
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 37.02
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 14.01
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 12.42
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 12.15
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 11.89
+2025-07-16 17:20:18 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 11.0
+2025-07-16 17:20:19 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:19 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:19 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.87
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.73
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.47
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.8
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 8.87
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 7.94
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 7.14
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.48
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.95
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.55
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.28
+2025-07-16 17:20:20 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.15
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:20 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:21 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.0
+2025-07-16 17:20:21 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:21 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:21 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.13
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.8
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.46
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 7.79
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.52
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 22.29
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 23.75
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:22 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 26.14
+2025-07-16 17:20:22 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.0
+2025-07-16 17:20:23 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:23 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:23 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.13
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 28.73
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 34.45
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 39.76
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 40.83
+2025-07-16 17:20:24 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 41.0
+2025-07-16 17:20:26 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:26 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:26 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:27 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 41.13
+2025-07-16 17:20:27 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.7
+2025-07-16 17:20:28 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 18.93
+2025-07-16 17:20:28 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 19.0
+2025-07-16 17:20:28 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:28 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:28 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:29 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 18.87
+2025-07-16 17:20:29 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 16.74
+2025-07-16 17:20:29 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.81
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 14.75
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 12.48
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 11.55
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.76
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.36
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.09
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.69
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.56
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.43
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:30 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.0
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:30 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.27
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 9.8
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 10.86
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 12.19
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 13.65
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.65
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 20.3
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 22.56
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 31.74
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 32.4
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 32.93
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 33.73
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 37.32
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 38.52
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 39.98
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 50.62
+2025-07-16 17:20:32 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 51.0
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 36.91
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 35.84
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 33.45
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 32.92
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 29.06
+2025-07-16 17:20:34 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 29.0
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 28.87
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 28.73
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 28.47
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 28.2
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 27.67
+2025-07-16 17:20:35 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:35 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:35 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 15.04
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 14.24
+2025-07-16 17:20:35 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 14.11
+2025-07-16 17:20:36 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.8
+2025-07-16 17:20:36 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 7.0
+2025-07-16 17:20:36 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:36 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:36 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.87
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.6
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.47
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 6.2
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.94
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.4
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 5.01
+2025-07-16 17:20:37 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 4.87
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:37 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:38 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 3.81
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:38 INFO  c.r.r.s.study.ProcessingToolsService - Processing Denoise Slider with value: 3.0
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-16 17:20:38 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0

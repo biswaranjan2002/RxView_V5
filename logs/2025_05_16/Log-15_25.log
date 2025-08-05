@@ -1,0 +1,53 @@
+2025-05-16 15:29:33 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-16 15:29:34 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-16 15:29:34 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-16 15:29:34 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-16 15:29:37 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-16 15:29:40 INFO  c.r.r.service.study.StudyService - rectW rectH 90.0 * 30.0
+2025-05-16 15:29:40 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:40 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {0, 0, 1024x838} and W * H is 838.0 1024.0
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:45 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:45 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-16 15:29:45 INFO  c.r.r.service.study.StudyService - rectW rectH 90.0 * 30.0
+2025-05-16 15:29:45 INFO  c.r.r.service.study.StudyService - multiple 1.0
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:45 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {0, 0, 1024x838} and W * H is 838.0 1024.0
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 1024.0 838.0
+2025-05-16 15:29:50 INFO  c.r.rxviewui.controller.ExportStudy - patientBodyPart.getImageMat() 3052x2500
+2025-05-16 15:29:50 INFO  c.r.r.service.study.StudyService - rectW rectH 268.2421875 * 89.4140625
+2025-05-16 15:29:50 INFO  c.r.r.service.study.StudyService - multiple 2.98046875
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 3052.0 2500.0
+2025-05-16 15:29:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {0, 0, 1024x838} and W * H is 2500.0 3052.0
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 1024x838} 
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 1024x838
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 3052.0 2500.0
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - redraw Rectangle: {0, 0, 3052x2497} 
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - drawingCanvas 3052x2497
+2025-05-16 15:29:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage 3052.0 2500.0

@@ -1,0 +1,21 @@
+2025-07-22 13:06:55 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: accession number
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: age
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: height
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: institution
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: patient id
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: patient name
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: performing physician
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: procedure
+2025-07-22 13:06:55 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: study description
+2025-07-22 13:06:58 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-22 13:06:58 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-22 13:06:58 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-22 13:06:58 INFO  c.r.r.service.login.LoginController - IP not found
+2025-07-22 13:06:58 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-07-22 13:06:58 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-22 13:06:58 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-07-22 13:06:58 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-22 13:06:58 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-22 13:07:01 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-22 13:07:01 INFO  c.r.r.service.login.LoginController - No devices found!!!

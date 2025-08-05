@@ -1,0 +1,44 @@
+2025-07-15 16:39:50 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,1
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,2
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,1
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,2
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2,2,1
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2,3
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\3,4
+2025-07-15 16:39:50 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\2,3,1
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,1
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,2
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,1
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,2
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2,2,1
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2,3
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\3,4
+2025-07-15 16:39:51 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\2,3,1
+2025-07-15 16:39:54 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-15 16:39:54 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-15 16:39:54 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,1
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,2
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,1
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,2
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2,2,1
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2,3
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\3,4
+2025-07-15 16:39:55 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\2,3,1
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,1
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\1,2
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,1
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\2,2
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\1,2,2,1
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: COL\\1,2,3
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: STANDARD\\3,4
+2025-07-15 16:39:58 WARN  com.raymedis.rxviewui.modules.print.Layout.LayoutIconCreator - Invalid layout format: ROW\\2,3,1

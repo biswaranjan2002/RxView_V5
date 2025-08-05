@@ -1,0 +1,13 @@
+[
+  {
+    "status": "FAILURE",
+    "printSCPHostAddress": "172.16.1.30",
+    "printPort": "17238",
+    "calledAE": "DRYPIX",
+    "callingAE": "",
+    "layout": "STANDARD\\1,1",
+    "orientation": "PORTRAIT",
+    "filmsize": "8INX10IN",
+    "dicomFilePath": "D:\\Work\\RxView\\RxView_Nellore_V3/dcmOutput/fa5edb94-b468-4ce4-bd81-86820cbd6abc.dcm"
+  }
+]

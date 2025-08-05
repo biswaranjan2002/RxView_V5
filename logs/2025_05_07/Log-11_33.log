@@ -1,0 +1,13 @@
+2025-05-07 11:33:14 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-07 11:33:14 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-07 11:33:14 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-07 11:33:14 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-07 11:33:18 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteWidth : 1019.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteHeight : 1280.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteWidth : 2043.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteHeight : 1280.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteWidth : 1019.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteHeight : 2560.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteWidth : 2043.0
+2025-05-07 11:33:30 INFO  c.r.r.m.p.p.PrintPageToImageCordData - absoluteHeight : 2560.0

@@ -1,0 +1,3 @@
+2025-07-01 15:08:19 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-01 15:08:20 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-01 15:08:20 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.

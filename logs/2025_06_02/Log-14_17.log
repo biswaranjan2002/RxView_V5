@@ -1,0 +1,5 @@
+2025-06-02 14:17:29 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-02 14:17:29 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-02 14:17:29 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-02 14:18:21 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size Mat [ 3052*2500*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x24a12210330, dataAddr=0x24a1830a080 ]
+2025-06-02 14:18:21 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052

@@ -1,0 +1,72 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#GridPane1 {
+    -fx-background-color: -primary;
+}
+
+#GridPane2 {
+    -fx-background-color: -secondary;
+}
+
+.unSelectedButton{
+    -fx-background-color: Transparent;
+    -fx-focus-traversable:false;
+    -fx-text-fill: -additional;
+    -fx-background-radius: 10;
+
+}
+
+.selectedButton{
+    -fx-background-color: Transparent;
+    -fx-focus-traversable:false;
+    -fx-text-fill: -text;
+    -fx-background-radius: 10;
+}
+
+.unSelectedFontIcon {
+    -fx-icon-color: -additional;
+}
+
+.selectedFontIcon {
+    -fx-icon-color: -text;
+}
+
+
+#TextField{
+    -fx-background-color: Transparent;
+    -fx-border-color: -accent;
+    -fx-border-width: 0 0 2 0;
+     -fx-focus-traversable: false;
+}
+
+
+#EmergencyButton{
+    -fx-background-color:Transparent;
+    -fx-border-color: -accent;
+    -fx-background-radius:20;
+     -fx-border-radius:20;
+     -fx-border-width:2;
+     -fx-focus-traversable: false;
+}
+
+#EmergencyButtonLabel{
+     -fx-font-size:18;
+     -fx-font-weight: bold;
+}
+
+.SelectedLabel {
+     -fx-text-fill: -text;
+}
+
+.unSelectedLabel{
+     -fx-text-fill: -additional;
+}
+
+#whiteLabel{
+    -fx-icon-color: -text;
+}
+
+#ButtonsFontSize{
+     -fx-font-size:24;
+}

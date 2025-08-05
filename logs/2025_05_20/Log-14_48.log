@@ -1,0 +1,17 @@
+2025-05-20 14:48:36 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-20 14:48:37 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-20 14:48:37 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-20 14:48:37 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-20 14:48:40 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-20 14:49:06 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-20 14:49:07 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-20 14:49:07 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-20 14:49:31 INFO  c.r.r.service.study.StudyService - org mat size 3052 * 2500
+2025-05-20 14:49:47 INFO  c.r.r.service.study.StudyService - org mat size 3052 * 2500
+2025-05-20 14:49:55 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:50:02 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:50:08 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:50:37 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:51:52 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 14:52:14 INFO  c.r.r.service.study.StudyService - org mat size 3052 * 2500
+2025-05-20 14:52:22 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

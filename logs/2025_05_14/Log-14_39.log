@@ -1,0 +1,8 @@
+2025-05-14 14:40:05 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-14 14:40:06 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-14 14:40:06 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-14 14:40:06 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-14 14:40:09 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-14 14:40:12 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-14 14:40:30 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\1,2,2,1 2048.0 2560.0
+2025-05-14 14:40:44 INFO  c.r.r.service.print.PrintService - Type or Depth Issue : CV_16UC3 : CV_8UC4

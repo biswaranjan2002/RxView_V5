@@ -1,0 +1,20 @@
+2025-05-28 11:52:11 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-28 11:54:11 INFO  com.raymedis.rxviewui.service.study.StudyMainController - saving for export...
+2025-05-28 11:54:15 INFO  com.raymedis.rxviewui.controller.ExportStudy - before last redraw 2.98046875 
+
+2025-05-28 11:54:15 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-28 11:54:15 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last annotation
+
+2025-05-28 11:54:27 INFO  com.raymedis.rxviewui.controller.ExportStudy - before last redraw 2.98046875 
+
+2025-05-28 11:54:27 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-28 11:54:27 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last annotation
+
+2025-05-28 11:54:29 INFO  com.raymedis.rxviewui.controller.ExportStudy - before last redraw 2.98046875 
+
+2025-05-28 11:54:29 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-28 11:54:29 INFO  com.raymedis.rxviewui.controller.ExportStudy - after last annotation
+

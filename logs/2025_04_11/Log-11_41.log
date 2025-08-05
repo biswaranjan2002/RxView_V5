@@ -1,0 +1,71 @@
+2025-04-11 11:41:49 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-11 11:41:49 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-11 11:41:49 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-11 11:41:50 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-11 11:41:53 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-11 11:41:53 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-11 11:41:54 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1132.00390625, height:68.66015625, depth:0.0, maxX:1132.00390625, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:358.44921875, height:68.66015625, depth:0.0, maxX:358.44921875, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:276.0625, height:68.66015625, depth:0.0, maxX:276.0625, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:824.9609375, height:68.66015625, depth:0.0, maxX:824.9609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:938.24609375, height:68.66015625, depth:0.0, maxX:938.24609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1699.6875, height:68.66015625, depth:0.0, maxX:1699.6875, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1302.24609375, height:68.66015625, depth:0.0, maxX:1302.24609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1132.00390625, height:68.66015625, depth:0.0, maxX:1132.00390625, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:358.44921875, height:68.66015625, depth:0.0, maxX:358.44921875, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:276.0625, height:68.66015625, depth:0.0, maxX:276.0625, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:824.9609375, height:68.66015625, depth:0.0, maxX:824.9609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:938.24609375, height:68.66015625, depth:0.0, maxX:938.24609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1699.6875, height:68.66015625, depth:0.0, maxX:1699.6875, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-56.328125, minZ:0.0, width:1302.24609375, height:68.66015625, depth:0.0, maxX:1302.24609375, maxY:12.33203125, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:1132.00390625, height:74.0, depth:0.0, maxX:1132.00390625, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:358.44921875, height:74.0, depth:0.0, maxX:358.44921875, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:276.0625, height:74.0, depth:0.0, maxX:276.0625, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:824.9609375, height:74.0, depth:0.0, maxX:824.9609375, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:938.24609375, height:74.0, depth:0.0, maxX:938.24609375, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:1699.6875, height:74.0, depth:0.0, maxX:1699.6875, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Font Size: 56.0
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Label Bounds: BoundingBox [minX:0.0, minY:0.0, minZ:0.0, width:0.0, height:0.0, depth:0.0, maxX:0.0, maxY:0.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.s.study.StudyMainController - Text Bounds: BoundingBox [minX:0.0, minY:-57.0, minZ:0.0, width:1302.24609375, height:74.0, depth:0.0, maxX:1302.24609375, maxY:17.0, maxZ:0.0]
+2025-04-11 11:41:55 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

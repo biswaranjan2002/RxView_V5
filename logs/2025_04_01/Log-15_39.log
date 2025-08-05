@@ -1,0 +1,50 @@
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 41.5 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 41.5 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 44.0 , totalHeight 85.0 , columnsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 44.0 , totalHeight 85.0 , columnsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 3 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 3 ,spacing 2.0 
+2025-04-01 15:39:33 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 83.3 , rowsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 83.3 , rowsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 83.3 , totalHeight 170.0 , columnsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 83.3 , totalHeight 170.0 , columnsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 39.95 , rowsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 39.95 , rowsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 39.95 , rowsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 39.95 , rowsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 54.4 , totalHeight 170.0 , columnsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 54.4 , totalHeight 170.0 , columnsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 54.4 , totalHeight 170.0 , columnsConfig 3 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 54.4 , rowsConfig 2 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 54.4 , rowsConfig 3 ,spacing 3.4 
+2025-04-01 15:39:34 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 170.0 , totalHeight 54.4 , rowsConfig 1 ,spacing 3.4 
+2025-04-01 15:39:38 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-01 15:39:39 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-01 15:39:39 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-01 15:39:39 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-01 15:39:43 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-01 15:39:46 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-01 15:39:48 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-01 15:39:48 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 41.5 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 41.5 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 44.0 , totalHeight 85.0 , columnsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 44.0 , totalHeight 85.0 , columnsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 19.75 , rowsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 1 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - columnWidth 28.666666666666668 , totalHeight 85.0 , columnsConfig 3 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 2 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 3 ,spacing 2.0 
+2025-04-01 15:39:49 INFO  c.r.r.s.print.LayoutIconCreator - totalWidth 90.0 , totalHeight 27.0 , rowsConfig 1 ,spacing 2.0 

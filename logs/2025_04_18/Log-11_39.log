@@ -1,0 +1,16 @@
+2025-04-18 11:39:32 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-18 11:39:33 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-18 11:39:33 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-18 11:39:33 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-18 11:39:37 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-18 11:39:48 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 441.5 , imageLeft : 0.0 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:39:57 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:02 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:08 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:12 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:45 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:45 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 220.5 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:46 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 77.7804255319149 , contrast : 3.1130675744680847 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 220.5 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 77.7804255319149 , contrast : 3.1130675744680847 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 863.0 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 0.0 , contrast : 1.0 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 220.5 , imageLeft : 0.5 , isVFlip : false , isHFlip : false , isInvert : false
+2025-04-18 11:40:55 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - brightness : 77.7804255319149 , contrast : 3.1130675744680847 , zoomFactor : 0.0 , angleFactor : 0.0 , imageTop : 441.5 , imageLeft : 0.0 , isVFlip : false , isHFlip : false , isInvert : false

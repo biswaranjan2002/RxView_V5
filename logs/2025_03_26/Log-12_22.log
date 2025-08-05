@@ -1,0 +1,27 @@
+2025-03-26 12:22:13 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:22:13 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:22:17 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-26 12:22:17 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-26 12:22:17 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-26 12:22:18 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-26 12:22:21 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-26 12:22:24 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:22:24 INFO  c.r.r.service.print.PrintController - mul : 55.88235294117647 newWidth : 782.3529411764706 newHeight : 950.0 
+2025-03-26 12:22:32 INFO  c.r.r.service.print.PrintController - oldWidth : 782.3529411764706 oldHeight : 950.0 
+2025-03-26 12:22:32 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:22:39 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:22:39 INFO  c.r.r.service.print.PrintController - mul : 55.88235294117647 newWidth : 782.3529411764706 newHeight : 950.0 
+2025-03-26 12:23:22 INFO  c.r.r.service.print.PrintController - oldWidth : 782.3529411764706 oldHeight : 950.0 
+2025-03-26 12:23:22 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:23:31 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:23:31 INFO  c.r.r.service.print.PrintController - mul : 55.88235294117647 newWidth : 782.3529411764706 newHeight : 950.0 
+2025-03-26 12:23:36 INFO  c.r.r.service.print.PrintController - oldWidth : 782.3529411764706 oldHeight : 950.0 
+2025-03-26 12:23:36 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:23:39 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:23:39 INFO  c.r.r.service.print.PrintController - mul : 55.88235294117647 newWidth : 782.3529411764706 newHeight : 950.0 
+2025-03-26 12:24:25 INFO  c.r.r.service.print.PrintController - oldWidth : 782.3529411764706 oldHeight : 950.0 
+2025-03-26 12:24:25 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 12:24:31 INFO  c.r.r.service.print.PrintController - oldWidth : 760.0 oldHeight : 950.0 
+2025-03-26 12:24:31 INFO  c.r.r.service.print.PrintController - mul : 55.88235294117647 newWidth : 782.3529411764706 newHeight : 950.0 
+2025-03-26 12:25:09 INFO  c.r.r.service.print.PrintController - oldWidth : 782.3529411764706 oldHeight : 950.0 
+2025-03-26 12:25:09 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 

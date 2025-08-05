@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.raymedis.rxviewui.ViewBox?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<VBox id="StudyBodyPart" alignment="TOP_CENTER" maxHeight="905.0" maxWidth="400.0" minHeight="905.0" minWidth="400.0" prefHeight="905.0" prefWidth="400.0" spacing="5.0" stylesheets="@../../../../Styles/Css/StudyBodyParts.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.studyModule.StudyBodyParts">
+   <children>
+      <HBox alignment="CENTER" maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0">
+         <children>
+            <HBox id="DetectorSelectionBox" alignment="CENTER" maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0" spacing="30.0">
+               <children>
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" onAction="#detector1Click" prefHeight="35.0" prefWidth="35.0" styleClass="unSelectedDetector" text=" " textAlignment="CENTER">
+                     <graphic>
+                        <FontIcon fx:id="detector1" iconColor="GREY" iconLiteral="mdi2d-dots-grid" iconSize="35" styleClass="unSelectedDetector" wrappingWidth="35.0" />
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" onAction="#detector2Click" prefHeight="35.0" prefWidth="35.0" styleClass="unSelectedDetector" text=" " textAlignment="CENTER">
+                     <graphic>
+                        <FontIcon fx:id="detector2" iconColor="GREY" iconLiteral="mdi2d-dots-grid" iconSize="35" styleClass="selectedDetector" wrappingWidth="35.0" />
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" onAction="#detector3Click" prefHeight="35.0" prefWidth="35.0" styleClass="unSelectedDetector" text=" " textAlignment="CENTER">
+                     <graphic>
+                        <FontIcon fx:id="detector3" iconColor="GREY" iconLiteral="mdi2d-dots-grid" iconSize="35" styleClass="unSelectedDetector" wrappingWidth="35.0" />
+                     </graphic>
+                  </JFXButton>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+       <HBox alignment="CENTER" maxHeight="40.0" maxWidth="400.0" minHeight="40.0" minWidth="400.0" prefHeight="40.0" prefWidth="400.0" spacing="25.0">
+           <children>
+               <Button fx:id="smallMan" maxHeight="40.0" maxWidth="40.0" minHeight="40.0" minWidth="40.0" onAction="#smallManBtn_Click" prefHeight="40.0" prefWidth="40.0" styleClass="SelectedRadioButton">
+                   <graphic>
+                       <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-child" iconSize="16" wrappingWidth="16.0" />
+                   </graphic>
+               </Button>
+               <Button fx:id="mediumMan" maxHeight="40.0" maxWidth="40.0" minHeight="40.0" minWidth="40.0" onAction="#mediumMan_Click" prefHeight="40.0" prefWidth="40.0" styleClass="unSelectedRadioButton">
+                   <graphic>
+                       <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="22" wrappingWidth="22.0" />
+                   </graphic>
+               </Button>
+               <Button fx:id="largeMan" maxHeight="40.0" maxWidth="40.0" minHeight="40.0" minWidth="40.0" onAction="#largeManBtn_Click" prefHeight="40.0" prefWidth="40.0" styleClass="unSelectedRadioButton">
+                   <graphic>
+                       <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="28" wrappingWidth="28.0" />
+                   </graphic>
+               </Button>
+               <Button fx:id="extraLargeMan" maxHeight="40.0" maxWidth="40.0" minHeight="40.0" minWidth="40.0" onAction="#extraLargeBtn_Click" prefHeight="40.0" prefWidth="40.0" styleClass="unSelectedRadioButton">
+                   <graphic>
+                       <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2h-human-male" iconSize="34" wrappingWidth="34.0" />
+                   </graphic>
+               </Button>
+           </children>
+           <VBox.margin>
+               <Insets top="5.0" />
+           </VBox.margin>
+       </HBox>
+       <VBox alignment="CENTER" maxHeight="625.0" maxWidth="400.0" minHeight="625.0" minWidth="400.0" prefHeight="625.0" prefWidth="400.0">
+         <children>
+             <ViewBox alignment="CENTER" maxHeight="615.0" maxWidth="600.0" minHeight="615.0" minWidth="600.0" prefHeight="615.0" prefWidth="600.0">
+                 <GridPane fx:id="patientBodyContainer" alignment="CENTER" maxHeight="615.0" maxWidth="525.0" minHeight="615.0" minWidth="525.0" prefHeight="615.0" prefWidth="525.0" />
+             </ViewBox>
+         </children>
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+      </VBox>
+      <VBox alignment="CENTER" maxHeight="165.0" maxWidth="390.0" minHeight="165.0" minWidth="390.0" prefHeight="165.0" prefWidth="390.0">
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+         <children>
+            <ViewBox alignment="CENTER" maxHeight="242.0" maxWidth="590.0" minHeight="242.0" minWidth="590.0" prefHeight="242.0" prefWidth="590.0">
+               <children>
+                  <ScrollPane fx:id="studyBodyPartsPositionScrollBar" hbarPolicy="NEVER" maxHeight="242.0" maxWidth="590.0" minHeight="242.0" minWidth="590.0" prefHeight="242.0" prefWidth="590.0">
+                     <content>
+                        <GridPane fx:id="studyBodyPartPositionContainer" alignment="CENTER" maxHeight="825.0" maxWidth="590.0" minHeight="825.0" minWidth="590.0" prefHeight="825.0" prefWidth="590.0" />
+                     </content>
+                  </ScrollPane>
+               </children>
+            </ViewBox>
+         </children>
+      </VBox>
+   </children>
+</VBox>

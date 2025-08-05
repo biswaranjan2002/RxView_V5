@@ -1,0 +1,28 @@
+2025-05-31 15:45:17 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-31 15:45:17 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-31 15:45:17 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-31 15:45:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:45:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:45:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:45:24 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:45:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:52:37 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-31 15:52:37 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-31 15:52:37 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-31 15:52:46 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:52:46 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:52:46 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:52:46 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:52:46 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:53:01 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:53:01 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Abdomen
+2025-05-31 15:53:01 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Ankle
+2025-05-31 15:53:01 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:53:02 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: CSpine
+2025-05-31 15:53:02 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Hand
+2025-05-31 15:53:02 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Knee
+2025-05-31 15:53:02 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: LSpine
+2025-05-31 15:53:02 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Pelvis
+2025-05-31 15:53:03 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Shoulder
+2025-05-31 15:53:03 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:53:03 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: TSpine

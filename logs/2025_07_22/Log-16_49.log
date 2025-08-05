@@ -1,0 +1,17 @@
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: accession number
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: age
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: height
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: institution
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: patient id
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: patient name
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: performing physician
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: procedure
+2025-07-22 16:49:13 INFO  com.raymedis.rxviewui.service.database.DatabaseController - Setting visibility for field: study description
+2025-07-22 16:49:18 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-22 16:49:18 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-22 16:49:18 INFO  com.raymedis.rxviewui.service.login.LoginController - ip matched 192.168.12.10
+2025-07-22 16:49:18 INFO  com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-22 16:49:18 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-07-22 16:49:22 ERROR com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - No devices found
+2025-07-22 16:49:22 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!

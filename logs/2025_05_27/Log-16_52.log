@@ -1,0 +1,2 @@
+2025-05-27 16:53:14 INFO  com.raymedis.rxviewui.service.login.LoginController - Error: RaymedisConfig list is null or empty.
+2025-05-27 16:53:14 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In

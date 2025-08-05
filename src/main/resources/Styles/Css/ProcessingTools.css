@@ -1,0 +1,101 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#GridPane{
+    -fx-background-color:-primary;
+     -fx-background-radius:10;
+}
+
+.selectedProcessingTools{
+    -fx-focus-traversable:false;
+    -fx-background-color: -additional;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+    -fx-font-size:18;
+}
+
+.unSelectedProcessingTools{
+    -fx-focus-traversable:false;
+    -fx-background-color: -primary;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+    -fx-font-size:18;
+}
+
+.label{
+    -fx-text-fill:-text;
+    -fx-font-size:16;
+}
+
+#ProcessingValue{
+    -fx-border-color:-accent;
+    -fx-border-width: 0 0 2 0;
+    -fx-font-size:16;
+}
+
+#InputLabel {
+    -fx-background-color: transparent;
+    -fx-border-color: -accent;
+    -fx-border-width: 0 0 2 0;
+    -fx-text-fill: -text;
+    -fx-prompt-text-fill: -text;
+    -fx-font-size: 16;
+    -fx-padding: 0;
+    -fx-alignment: center;
+}
+
+
+
+
+.jfx-slider {
+    -jfx-default-thumb:-accent;
+    -jfx-default-track:-accent;
+}
+
+.jfx-slider .thumb {
+    -fx-scale-x: 1.3;
+    -fx-scale-y: 1.3;
+}
+
+.jfx-slider:min .thumb,
+.jfx-slider:min:focused .thumb {
+    -fx-background-color: -jfx-default-thumb;
+    -fx-background-radius: 20;
+    -fx-background-insets: 0;
+}
+
+
+.jfx-slider .animated-thumb{
+     -fx-pref-width: 35px;
+     -fx-pref-height: 35px;
+     -fx-background-color: -jfx-default-thumb;
+     -fx-background-radius: 50% 50% 50% 0%;
+     -fx-background-insets: 0;
+}
+
+.jfx-combo-box {
+    -fx-font-size : 20;
+    -fx-prompt-text-fill:-additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+}
+
+.jfx-combo-box-popup .list-view {
+    -fx-background-color: -primary;
+    -fx-font-size : 18;
+}
+
+.jfx-combo-box .list-cell {
+    -fx-background-color: -primary;
+    -fx-text-fill: -additional;
+}
+
+
+#ProcessingGraphBox{
+    -fx-border-color:-additional;
+    -fx-border-width:2;
+    -fx-border-radius:5;
+}
+
+

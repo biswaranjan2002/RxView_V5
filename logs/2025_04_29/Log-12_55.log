@@ -1,0 +1,56 @@
+2025-04-29 12:56:02 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-29 12:56:03 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-29 12:56:03 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-29 12:56:03 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-29 12:56:06 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-29 12:56:08 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:08 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:08 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:27 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:27 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:27 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:28 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:28 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:28 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:30 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:30 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:30 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:38 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:38 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:38 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.5
+2025-04-29 12:56:40 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:40 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:40 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:42 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:42 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:42 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.5
+2025-04-29 12:56:48 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:48 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:48 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:56:50 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:56:50 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:56:50 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.4443359375
+2025-04-29 12:57:11 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:11 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:11 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:57:18 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:18 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:18 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.4443359375
+2025-04-29 12:57:28 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:28 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:28 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:57:30 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:30 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:30 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.4443359375
+2025-04-29 12:57:36 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:36 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:36 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:57:37 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:37 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:37 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.4443359375
+2025-04-29 12:57:39 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:39 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:39 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.0
+2025-04-29 12:57:40 INFO  c.r.r.modules.print.Layout.LayoutTab - patientPrintImageData.getEditedMat().size() 1024x838
+2025-04-29 12:57:40 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-29 12:57:40 INFO  c.r.r.modules.print.Layout.LayoutTab - dynamicExportValues multiple 2.4443359375

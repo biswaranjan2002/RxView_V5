@@ -1,0 +1,9 @@
+2025-05-26 16:23:09 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 16:23:09 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 16:23:09 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 16:23:09 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 16:23:13 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 16:23:16 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received
+2025-05-26 16:23:17 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-26 16:23:18 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-26 16:23:19 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 3052 * 2500

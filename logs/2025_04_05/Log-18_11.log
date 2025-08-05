@@ -1,0 +1,17 @@
+2025-04-05 18:11:17 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-05 18:11:18 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-05 18:11:18 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-05 18:11:18 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-05 18:11:21 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-05 18:11:22 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-05 18:11:24 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-05 18:11:25 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-05 18:11:29 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-05 18:11:30 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-05 18:11:31 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-05 18:11:43 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Skull
+2025-04-05 18:11:44 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Chest
+2025-04-05 18:11:45 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Chest
+2025-04-05 18:11:50 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Chest
+2025-04-05 18:11:51 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Chest
+2025-04-05 18:11:53 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - Chest

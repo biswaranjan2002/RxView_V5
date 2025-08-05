@@ -1,0 +1,26 @@
+2025-08-01 15:25:01 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-08-01 15:25:09 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-08-01 15:25:09 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-08-01 15:25:09 INFO  c.r.r.service.login.LoginController - ip mismatched 10.204.22.235 and 192.168.12.10
+2025-08-01 15:25:09 INFO  c.r.r.service.login.LoginController - IP not found
+2025-08-01 15:25:09 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-08-01 15:25:09 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-08-01 15:25:10 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-08-01 15:25:10 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-08-01 15:25:10 INFO  c.r.r.service.login.LoginController - initialized
+2025-08-01 15:25:13 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-08-01 15:25:13 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-08-01 15:25:25 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-08-01 15:25:25 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-08-01 15:25:25 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-08-01 15:25:33 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-08-01 15:25:33 INFO  c.r.r.service.study.StudyService - mat size 838 * 1024
+2025-08-01 15:25:34 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-08-01 15:25:34 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-08-01 15:25:34 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-08-01 15:26:24 INFO  c.r.r.m.I.D.MainDrawTool - resetCalled

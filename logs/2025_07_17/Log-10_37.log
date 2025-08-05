@@ -1,0 +1,5 @@
+2025-07-17 10:37:10 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-17 10:37:13 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-17 10:37:13 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-17 10:37:13 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 10:37:58 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON

@@ -1,0 +1,30 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#Box{
+     -fx-background-color: -primary;
+     -fx-background-radius:10;
+}
+
+.selectedToolsButton{
+  -fx-border-color: Transparent;
+    -fx-border-width: 2;
+    -fx-border-radius: 8;
+    -fx-background-color: -additional;
+    -fx-text-fill:-text;
+    -fx-background-radius:10;
+    -fx-focus-traversable:false;
+    -fx-font-size:24;
+}
+
+
+.unSelectedToolsButton{
+   -fx-border-color: Transparent;
+   -fx-border-width: 0;
+   -fx-border-radius: 0;
+    -fx-background-color: Transparent;
+   -fx-text-fill:-text;
+   -fx-background-radius:10;
+   -fx-focus-traversable:false;
+   -fx-font-size:24;
+}

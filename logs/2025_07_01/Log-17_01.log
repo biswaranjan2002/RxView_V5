@@ -1,0 +1,13 @@
+2025-07-01 17:01:44 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-01 17:01:44 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-01 17:01:44 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-01 17:01:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-01 17:01:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-01 17:01:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Available COM ports:
+2025-07-01 17:01:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-01 17:01:55 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Connected to RX panel.
+2025-07-01 17:01:57 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-01 17:01:59 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-01 17:02:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-01 17:02:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.ReceiveCommandRxOld - No faults detected. System is healthy.
+2025-07-01 17:02:01 INFO  com.raymedis.serialPortCommunication.rxview_consolecom_old.RxPanelInitializationOld - Failed to retrieve interlocks.

@@ -1,0 +1,26 @@
+2025-03-29 12:48:27 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-29 12:48:28 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-29 12:48:28 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-29 12:48:28 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-29 12:48:31 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-29 12:48:33 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:48:34 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:48:35 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:38 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:40 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:42 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:48:43 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:48:44 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:46 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:48:47 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:48:48 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:50 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:48:51 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:48:52 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:55 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:48:57 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:48:58 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:49:00 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-29 12:49:01 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-29 12:49:02 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-29 12:49:05 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

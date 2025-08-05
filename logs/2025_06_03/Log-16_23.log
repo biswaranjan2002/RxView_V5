@@ -1,0 +1,6 @@
+2025-06-03 16:23:36 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-03 16:23:36 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-03 16:23:36 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-03 16:23:53 INFO  com.raymedis.rxviewui.service.study.StudyService - DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-03 16:23:53 INFO  com.raymedis.rxviewui.service.study.StudyService - Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-03 16:23:53 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052

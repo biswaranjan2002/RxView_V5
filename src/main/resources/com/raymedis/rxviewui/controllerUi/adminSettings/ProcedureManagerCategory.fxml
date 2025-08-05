@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<VBox alignment="CENTER" maxHeight="970.0" maxWidth="1600.0" minHeight="970.0" minWidth="1600.0" prefHeight="970.0" prefWidth="1600.0" stylesheets="@../../../../../Styles/Css/AdminSettings/ProcedureManager.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.procedureManager.ProcedureManagerCategory">
+   <styleClass>
+      <String fx:value="GridPane" />
+      <String fx:value="fontStyle" />
+   </styleClass>
+   <children>
+      <VBox id="ShadowEffectBox2" maxHeight="900.0" maxWidth="1590.0" minHeight="900.0" minWidth="1590.0" prefHeight="900.0" prefWidth="1590.0">
+         <children>
+            <HBox maxHeight="60.0" maxWidth="1600.0" minHeight="60.0" minWidth="1600.0" prefHeight="60.0" prefWidth="1600.0">
+               <children>
+                  <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" text="Shortcut Setting" />
+               </children>
+               <VBox.margin>
+                  <Insets left="50.0" top="-30.0" />
+               </VBox.margin>
+            </HBox>
+            <HBox alignment="CENTER" maxHeight="50.0" maxWidth="600.0" minHeight="50.0" minWidth="600.0" prefHeight="50.0" prefWidth="600.0" spacing="75.0">
+               <children>
+                  <JFXButton id="BodyChangeButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#backwardSelection" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <graphic>
+                        <FontIcon id="fontIcon" iconLiteral="mdi2s-skip-previous" iconSize="35" wrappingWidth="35.0" />
+                     </graphic>
+                  </JFXButton>
+                  <Label fx:id="anatomyNameLabel" alignment="CENTER" maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" text="Male" />
+                  <JFXButton id="BodyChangeButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#forwardSelection" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <graphic>
+                        <FontIcon id="fontIcon" iconLiteral="mdi2s-skip-next" iconSize="35" wrappingWidth="35.0" />
+                     </graphic>
+                  </JFXButton>
+               </children>
+               <VBox.margin>
+                  <Insets bottom="5.0" left="100.0" />
+               </VBox.margin>
+            </HBox>
+            <HBox alignment="CENTER" maxHeight="800.0" maxWidth="1600.0" minHeight="800.0" minWidth="1600.0" prefHeight="800.0" prefWidth="1600.0" spacing="40.0">
+               <children>
+                  <VBox id="AnatomyBox" alignment="CENTER" maxHeight="800.0" maxWidth="680.0" minHeight="800.0" minWidth="680.0" prefHeight="800.0" prefWidth="680.0">
+                     <children>
+                        <StackPane fx:id="anatomyBox" alignment="TOP_LEFT" maxHeight="800.0" maxWidth="680.0" minHeight="800.0" minWidth="680.0" prefHeight="800.0" prefWidth="680.0">
+                           <children>
+                              <ImageView fx:id="anatomyImageBox" fitHeight="800.0" fitWidth="680.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../../../../../Styles/Images/Assets/Anatomy-Man.png" />
+                                 </image>
+                                 <StackPane.margin>
+                                    <Insets left="95.0" />
+                                 </StackPane.margin>
+                              </ImageView>
+                           </children>
+                        </StackPane>
+                     </children>
+                  </VBox>
+                  <VBox fx:id="outerBodyPartsBox" id="BodyPartsBox" alignment="TOP_CENTER" maxHeight="800.0" maxWidth="750.0" minHeight="800.0" minWidth="750.0" prefHeight="800.0" prefWidth="750.0">
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <children>
+                        <ScrollPane hbarPolicy="NEVER" maxHeight="700.0" maxWidth="730.0" minHeight="700.0" minWidth="730.0" prefHeight="700.0" prefWidth="730.0" vbarPolicy="NEVER">
+                           <content>
+                              <VBox fx:id="bodyPartsBox" alignment="CENTER" maxWidth="725.0" minWidth="725.0" prefWidth="725.0">
+                                 <padding>
+                                    <Insets top="75.0" />
+                                 </padding>
+                              </VBox>
+                           </content>
+                           <VBox.margin>
+                              <Insets />
+                           </VBox.margin>
+                        </ScrollPane>
+                        <HBox alignment="CENTER" maxHeight="100.0" maxWidth="730.0" minHeight="100.0" minWidth="730.0" prefHeight="100.0" prefWidth="730.0" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+         <VBox.margin>
+            <Insets right="5.0" top="30.0" />
+         </VBox.margin>
+      </VBox>
+   </children>
+</VBox>

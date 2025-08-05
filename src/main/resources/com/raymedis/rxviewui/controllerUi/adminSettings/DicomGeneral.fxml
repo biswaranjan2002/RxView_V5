@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXRadioButton?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="1030.0" prefWidth="1620.0" stylesheets="@../../../../../Styles/Css/AdminSettings/Registration/General.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.dicom.DicomGeneral">
+      <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" spacing="100.0">
+          <children>
+              <VBox id="ShadowEffectBox2" fx:id="settingsBox" maxHeight="400.0" maxWidth="750.0" minHeight="400.0" minWidth="750.0" prefHeight="400.0" prefWidth="750.0" spacing="5.0">
+                  <children>
+                      <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                          <children>
+                              <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" styleClass="fontStyle" text="System Settings" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                  <font>
+                                      <Font name="Century Gothic" size="22.0" />
+                                  </font>
+                              </Label>
+                          </children>
+                          <padding>
+                              <Insets left="25.0" top="-60.0" />
+                          </padding>
+                      </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="25.0">
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0" text="Send Urgent Patient Automatically" />
+                     <JFXRadioButton fx:id="group1No" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" selected="true" text="No">
+                        <toggleGroup>
+                           <ToggleGroup fx:id="radioGroup1" />
+                        </toggleGroup></JFXRadioButton>
+                     <JFXRadioButton fx:id="group1Yes" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Yes" toggleGroup="$radioGroup1" />
+                  </children>
+                  <VBox.margin>
+                     <Insets left="25.0" />
+                  </VBox.margin>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="25.0">
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0" text="Valid Study Instance UID" />
+                     <JFXRadioButton fx:id="group2No" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" selected="true" text="No">
+                        <toggleGroup>
+                           <ToggleGroup fx:id="radioGroup2" />
+                        </toggleGroup></JFXRadioButton>
+                     <JFXRadioButton fx:id="group2Yes" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Yes" toggleGroup="$radioGroup2" />
+                  </children>
+                  <VBox.margin>
+                     <Insets left="25.0" />
+                  </VBox.margin>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="25.0">
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0" text="Allow Long Accession Number" />
+                     <JFXRadioButton fx:id="group3No" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" selected="true" text="No">
+                        <toggleGroup>
+                           <ToggleGroup fx:id="radioGroup3" />
+                        </toggleGroup></JFXRadioButton>
+                     <JFXRadioButton fx:id="group3Yes" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Yes" toggleGroup="$radioGroup3" />
+                  </children>
+                  <VBox.margin>
+                     <Insets left="25.0" />
+                  </VBox.margin>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="25.0">
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="400.0" minHeight="50.0" minWidth="400.0" prefHeight="50.0" prefWidth="400.0" text="Save All DICOM Log Files" />
+                     <JFXRadioButton fx:id="group4No" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" selected="true" text="No">
+                        <toggleGroup>
+                           <ToggleGroup fx:id="radioGroup4" />
+                        </toggleGroup>
+                     </JFXRadioButton>
+                     <JFXRadioButton fx:id="group4Yes" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Yes" toggleGroup="$radioGroup4">
+                     </JFXRadioButton>
+                  </children>
+                  <VBox.margin>
+                     <Insets left="25.0" />
+                  </VBox.margin>
+               </HBox>
+                  </children>
+              </VBox>
+              <VBox id="ShadowEffectBox2" maxHeight="375.0" maxWidth="750.0" minHeight="375.0" minWidth="750.0" prefHeight="375.0" prefWidth="750.0" spacing="5.0">
+                  <children>
+                      <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                          <children>
+                              <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Station System" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                  <font>
+                                      <Font name="Century Gothic" size="22.0" />
+                                  </font>
+                              </Label>
+                          </children>
+                          <padding>
+                              <Insets left="25.0" top="-60.0" />
+                          </padding>
+                      </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                  <children>
+                     <Label alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Station Name          :" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                     <TextField fx:id="stationNameInput" maxHeight="50.0" maxWidth="325.0" minHeight="50.0" minWidth="325.0" prefHeight="50.0" prefWidth="325.0" />
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                  <children>
+                     <Label alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Station AE Title         :" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                     <TextField fx:id="stationAeTitleInput" maxHeight="50.0" maxWidth="325.0" minHeight="50.0" minWidth="325.0" prefHeight="50.0" prefWidth="325.0" />
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="750.0" minHeight="60.0" minWidth="750.0" prefHeight="60.0" prefWidth="750.0">
+                  <children>
+                     <Label alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Station Port               :" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                     <TextField fx:id="stationPortInput" maxHeight="50.0" maxWidth="325.0" minHeight="50.0" minWidth="325.0" prefHeight="50.0" prefWidth="325.0" />
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="750.0" minHeight="75.0" minWidth="750.0" prefHeight="75.0" prefWidth="750.0" spacing="25.0">
+                  <VBox.margin>
+                     <Insets top="25.0" />
+                  </VBox.margin>
+                  <children>
+                     <JFXButton fx:id="editDetailsButton" onAction="#editDetailsClick" id="ActionButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Edit" />
+                     <JFXButton fx:id="saveDetailsButton" onAction="#saveDetailsClick" id="ActionButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Save" />
+                  </children>
+                  <padding>
+                     <Insets right="75.0" />
+                  </padding>
+               </HBox>
+                  </children>
+              </VBox>
+          </children>
+      </VBox>
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <styleClass>
+        <String fx:value="GridPane" />
+        <String fx:value="fontStyle" />
+    </styleClass>
+</GridPane>

@@ -1,0 +1,72 @@
+2025-03-19 15:35:48 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-19 15:35:48 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-19 15:35:48 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-19 15:35:49 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-19 15:35:52 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-03-19 15:35:57 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-19 15:35:58 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-19 15:35:59 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:35:59 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-19 15:36:00 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:36:00 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:36:01 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:36:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - before calling dicom
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - while calling dicom
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - inside createDicomFile
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - images ready
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - meta data is ready
+2025-03-19 15:36:10 INFO  c.r.r.modules.dicom.DicomCreator - inside dicom creator
+2025-03-19 15:36:10 INFO  c.r.r.modules.dicom.DicomCreator - inside generateDICOMPixelModuleFromMatList
+2025-03-19 15:36:10 INFO  c.r.rxviewui.controller.ExportWindow - dicom file ready
+2025-03-19 15:37:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:38:02 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:38:06 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:38:17 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:38:20 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:38:30 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:38:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:28 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:29 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:39:29 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:45 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:46 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:39:46 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:39:46 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:49 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:39:50 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:39:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:40:43 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:40:50 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:51:28 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:51:29 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:01 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:01 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:53:02 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:53:02 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:07 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:08 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:53:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:11 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:53:11 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:53:11 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:24 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:25 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:53:25 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:53:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:31 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:53:41 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:54:07 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:54:08 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:54:25 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:54:40 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 15:54:40 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 15:54:40 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:54:54 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:57:40 INFO  c.r.r.s.study.StudyMainController - saving2...
+2025-03-19 15:57:40 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 15:57:57 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null
+2025-03-19 16:00:03 INFO  c.r.r.s.study.StudyMainController - saving...
+2025-03-19 16:00:03 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-03-19 16:00:04 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - crop layout is null

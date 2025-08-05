@@ -1,0 +1,32 @@
+<configuration>
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Note: Removing the <file> element allows the rolling policy to govern the active file name -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!--
+                This pattern does the following:
+                - "logs/" is the base directory.
+                - "%d{yyyy-MM-dd}" creates a subfolder for today’s date.
+                - "Log-%d{HH_mm}.log" creates a log file whose name is based on the current time (hour and minute).
+            -->
+            <fileNamePattern>logs/%d{yyyy_MM_dd}/Log-%d{HH_mm}.log</fileNamePattern>
+            <maxHistory>180</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+    <!-- Example of a package-specific logger -->
+    <logger name="com.raymedis" level="DEBUG"/>
+</configuration>

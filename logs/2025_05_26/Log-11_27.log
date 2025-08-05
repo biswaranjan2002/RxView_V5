@@ -1,0 +1,7 @@
+2025-05-26 11:28:06 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 11:28:06 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 11:28:06 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 11:28:06 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 11:28:09 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 11:28:10 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 11:29:32 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

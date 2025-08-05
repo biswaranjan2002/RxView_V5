@@ -1,0 +1,5 @@
+2025-04-24 17:05:10 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-24 17:05:16 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-04-24 17:05:24 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2560.0 2048.0
+2025-04-24 17:05:45 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-04-24 17:05:53 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2560.0 2048.0

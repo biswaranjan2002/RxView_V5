@@ -1,0 +1,39 @@
+2025-04-05 13:17:58 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:17:58 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:18:05 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-05 13:18:05 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-05 13:18:05 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-05 13:18:05 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-05 13:18:09 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-05 13:18:10 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-05 13:18:12 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-05 13:18:12 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-05 13:18:14 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:29 INFO  c.r.r.service.print.PrintService - landScapeClick new width * new height : 2560.0 * 2048.0
+2025-04-05 13:18:29 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2560.0 * 2048.0 
+2025-04-05 13:18:30 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:18:30 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:33 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:18:33 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:33 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 
+2025-04-05 13:18:35 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2108.2352941176473 * 2560.0
+2025-04-05 13:18:35 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 
+2025-04-05 13:18:35 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:37 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:18:37 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:37 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 
+2025-04-05 13:18:38 INFO  c.r.r.service.print.PrintService - landScapeClick new width * new height : 2560.0 * 2108.2352941176473
+2025-04-05 13:18:38 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2560.0 * 2108.2352941176473 
+2025-04-05 13:18:40 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2108.2352941176473 * 2560.0
+2025-04-05 13:18:40 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 
+2025-04-05 13:18:40 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:42 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:44 INFO  c.r.r.service.print.PrintService - landScapeClick new width * new height : 2560.0 * 2048.0
+2025-04-05 13:18:44 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2560.0 * 2048.0 
+2025-04-05 13:18:46 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2048.0 * 2560.0
+2025-04-05 13:18:46 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2048.0 * 2560.0 
+2025-04-05 13:18:46 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 
+2025-04-05 13:18:48 INFO  c.r.r.service.print.PrintService - landScapeClick new width * new height : 2560.0 * 2108.2352941176473
+2025-04-05 13:18:48 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2560.0 * 2108.2352941176473 
+2025-04-05 13:19:32 INFO  c.r.r.service.print.PrintService - portraitClick new width * new height : 2108.2352941176473 * 2560.0
+2025-04-05 13:19:32 INFO  c.r.r.m.p.LayoutTab.LayoutCreator - 2108.2352941176473 * 2560.0 

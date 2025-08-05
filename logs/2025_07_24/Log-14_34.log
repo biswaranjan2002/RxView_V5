@@ -1,0 +1,59 @@
+2025-07-24 14:34:25 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.json.WifiSettings - 192.168.12.10
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.json.WifiSettings - Running batch file as admin...
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-24 14:34:54 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-07-24 14:34:57 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest AP
+2025-07-24 14:34:57 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 14:34:57 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 14:34:57 ERROR com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - No devices found
+2025-07-24 14:34:57 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size 838 * 1024
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-24 14:35:00 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-24 14:35:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 14:35:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 14:35:26 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 14:35:27 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size 838 * 1024
+2025-07-24 14:35:27 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 14:35:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 14:35:27 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 14:42:03 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size 838 * 1024
+2025-07-24 14:42:03 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 14:42:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 14:42:03 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=838.0, rectHeight=1024.0} and multiple is 1.0
+2025-07-24 14:42:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-24 14:42:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - ========================================================================
+2025-07-24 14:42:05 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest PA
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.study.StudyService - current bodyPart chest PA
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-07-24 14:42:06 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size 838 * 1024
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 14:42:09 WARN  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - Display image is null, cannot apply drawing tools.
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - mat size 838 * 1024
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-24 14:42:09 INFO  com.raymedis.rxviewui.modules.ImageProcessing.imageToolsWrapper.ImageDrawWrapperHandling - crop rect before CropLayoutWrapper{rectX=0.0, rectY=0.0, rectWidth=0.0, rectHeight=0.0} and multiple is 1.0

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXSlider?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" stylesheets="@../../../../../Styles/Css/AdminSettings/Study/StudyDelete.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.study.StudyStudyDelete">
+    <VBox alignment="CENTER" maxHeight="1030.0" maxWidth="1620.0" minHeight="1030.0" minWidth="1620.0" prefHeight="1030.0" prefWidth="1620.0" spacing="100.0">
+        <children>
+            <VBox id="ShadowEffectBox2" maxHeight="400.0" maxWidth="1250.0" minHeight="400.0" minWidth="1250.0" prefHeight="400.0" prefWidth="1250.0">
+                <children>
+                    <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="1250.0" minHeight="60.0" minWidth="1250.0" prefHeight="60.0" prefWidth="1250.0">
+                        <children>
+                            <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" prefHeight="60.0" prefWidth="250.0" styleClass="fontStyle" text="Auto Delete" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                                <font>
+                                    <Font name="Century Gothic" size="22.0" />
+                                </font>
+                            </Label>
+                        </children>
+                        <padding>
+                            <Insets left="25.0" top="-60.0" />
+                        </padding>
+                    </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="1250.0" minHeight="60.0" minWidth="1250.0" prefHeight="60.0" prefWidth="1250.0">
+                  <children>
+                     <JFXCheckBox fx:id="enableAutoDelete" text="Enable Auto Delete" />
+                  </children>
+                  <VBox.margin>
+                     <Insets />
+                  </VBox.margin>
+                  <padding>
+                     <Insets left="50.0" />
+                  </padding>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="1250.0" minHeight="75.0" minWidth="1250.0" prefHeight="75.0" prefWidth="1250.0">
+                  <children>
+                     <Label maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" prefHeight="60.0" prefWidth="150.0" styleClass="fontStyle" text="Type        :" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets left="50.0" />
+                        </HBox.margin>
+                     </Label>
+                     <JFXCheckBox fx:id="enableTimeLimit" maxHeight="50.0" maxWidth="175.0" minHeight="50.0" minWidth="175.0" prefHeight="50.0" prefWidth="175.0" text="Time (Over)">
+                        <HBox.margin>
+                           <Insets right="50.0" />
+                        </HBox.margin>
+                     </JFXCheckBox>
+                     <JFXComboBox fx:id="weekComboBox" focusColor="#ec641c" maxHeight="40.0" maxWidth="100.0" minHeight="40.0" minWidth="100.0" prefHeight="40.0" prefWidth="100.0" styleClass="jfx-combo-box" value="12">
+                        <items>
+                           <FXCollections fx:factory="observableArrayList">
+                              <String fx:value="4" />
+                              <String fx:value="8" />
+                              <String fx:value="12" />
+                              <String fx:value="24" />
+                              <String fx:value="48" />
+                           </FXCollections>
+                        </items>
+                        <value>
+                           <String fx:value="12" />
+                        </value>
+                     </JFXComboBox>
+                     <Label alignment="CENTER" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" styleClass="fontStyle" text="Week" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                     <JFXCheckBox fx:id="enableStorageLimit" maxHeight="50.0" maxWidth="175.0" minHeight="50.0" minWidth="175.0" prefHeight="50.0" prefWidth="175.0" text="HDD (Lower)">
+                        <HBox.margin>
+                           <Insets left="100.0" right="50.0" />
+                        </HBox.margin>
+                     </JFXCheckBox>
+                     <JFXComboBox fx:id="storageSizeComboBox" focusColor="#ec641c" maxHeight="40.0" maxWidth="115.0" minHeight="40.0" minWidth="115.0" prefHeight="40.0" prefWidth="115.0" value="500">
+                        <items>
+                           <FXCollections fx:factory="observableArrayList">
+                              <String fx:value="50" />
+                              <String fx:value="100" />
+                              <String fx:value="250" />
+                              <String fx:value="500" />
+                              <String fx:value="1000" />
+                           </FXCollections>
+                        </items>
+                        <value>
+                           <String fx:value="500" />
+                        </value>
+                     </JFXComboBox>
+                     <Label alignment="CENTER" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" styleClass="fontStyle" text="GB" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="75.0" maxWidth="1250.0" minHeight="75.0" minWidth="1250.0" prefHeight="75.0" prefWidth="1250.0">
+                  <children>
+                     <Label maxHeight="60.0" maxWidth="150.0" minHeight="60.0" minWidth="150.0" prefHeight="60.0" prefWidth="150.0" styleClass="fontStyle" text="Option     :" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets left="50.0" />
+                        </HBox.margin>
+                     </Label>
+                     <JFXCheckBox fx:id="enableAllStudies" maxHeight="50.0" maxWidth="175.0" minHeight="50.0" minWidth="175.0" prefHeight="50.0" prefWidth="175.0" text="All Studies">
+                        <HBox.margin>
+                           <Insets right="50.0" />
+                        </HBox.margin>
+                     </JFXCheckBox>
+                     <JFXCheckBox fx:id="enableSentAndPrintedStudies" maxHeight="50.0" maxWidth="350.0" minHeight="50.0" minWidth="300.0" prefHeight="50.0" prefWidth="300.0" text="Sent or Printed Studies">
+                        <HBox.margin>
+                           <Insets right="50.0" />
+                        </HBox.margin></JFXCheckBox>
+                     <JFXCheckBox fx:id="enableRejectedStudies" maxHeight="50.0" maxWidth="225.0" minHeight="50.0" minWidth="225.0" prefHeight="50.0" prefWidth="225.0" text="Rejected Studies" />
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="1250.0" minHeight="75.0" minWidth="1250.0" prefHeight="75.0" prefWidth="1250.0">
+                  <children>
+                     <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#autoDeleteOptionsSave" prefHeight="50.0" prefWidth="125.0" text="Save" />
+                  </children>
+                  <padding>
+                     <Insets right="50.0" />
+                  </padding>
+                  <VBox.margin>
+                     <Insets top="25.0" />
+                  </VBox.margin>
+               </HBox>
+                </children>
+            </VBox>
+         <VBox id="ShadowEffectBox2" maxHeight="275.0" maxWidth="1250.0" minHeight="275.0" minWidth="1250.0" prefHeight="275.0" prefWidth="1250.0">
+            <children>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="1250.0" minHeight="60.0" minWidth="1250.0" prefHeight="60.0" prefWidth="1250.0">
+                  <children>
+                     <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="500.0" minHeight="60.0" minWidth="500.0" prefHeight="60.0" prefWidth="500.0" styleClass="fontStyle" text="Storage Freespace Alarm" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="22.0" />
+                        </font>
+                     </Label>
+                  </children>
+                  <padding>
+                     <Insets left="25.0" top="-60.0" />
+                  </padding>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="1250.0" minHeight="60.0" minWidth="1250.0" prefHeight="60.0" prefWidth="1250.0" spacing="25.0">
+                  <VBox.margin>
+                     <Insets />
+                  </VBox.margin>
+                  <padding>
+                     <Insets left="50.0" />
+                  </padding>
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Warning " />
+                     <JFXSlider fx:id="warningSlider" maxWidth="500.0" minWidth="500.0" prefWidth="500.0" />
+                     <TextField fx:id="warningLabel" maxHeight="50.0" maxWidth="90.0" minHeight="50.0" minWidth="90.0" prefHeight="50.0" prefWidth="90.0">
+                        <HBox.margin>
+                           <Insets left="25.0" />
+                        </HBox.margin></TextField>
+                     <Label alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="GB">
+                        <HBox.margin>
+                           <Insets left="-20.0" />
+                        </HBox.margin></Label>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="1250.0" minHeight="60.0" minWidth="1250.0" prefHeight="60.0" prefWidth="1250.0" spacing="25.0">
+                  <padding>
+                     <Insets left="50.0" />
+                  </padding>
+                  <children>
+                     <Label maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0" text="Critical" />
+                     <JFXSlider fx:id="criticalSlider" maxWidth="500.0" minWidth="500.0" prefWidth="500.0" />
+                     <TextField fx:id="criticalLabel" maxHeight="50.0" maxWidth="90.0" minHeight="50.0" minWidth="90.0" prefHeight="50.0" prefWidth="90.0">
+                        <HBox.margin>
+                           <Insets left="25.0" />
+                        </HBox.margin></TextField>
+                     <Label alignment="BOTTOM_CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="GB">
+                        <HBox.margin>
+                           <Insets left="-20.0" />
+                        </HBox.margin></Label>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER_RIGHT" maxHeight="75.0" maxWidth="1250.0" minHeight="75.0" minWidth="1250.0" prefHeight="75.0" prefWidth="1250.0">
+                  <children>
+                     <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#saveStorageAlerts" prefHeight="50.0" prefWidth="125.0" text="Save" />
+                  </children>
+                  <padding>
+                     <Insets right="50.0" />
+                  </padding>
+               </HBox>
+            </children>
+         </VBox>
+        </children>
+      <GridPane.margin>
+         <Insets />
+      </GridPane.margin>
+    </VBox>
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <styleClass>
+        <String fx:value="GridPane" />
+        <String fx:value="fontStyle" />
+    </styleClass>
+</GridPane>

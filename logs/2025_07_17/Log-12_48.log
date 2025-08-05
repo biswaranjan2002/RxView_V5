@@ -1,0 +1,1296 @@
+2025-07-17 12:48:23 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 12:50:01 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-17 12:50:02 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-17 12:50:02 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 12:50:29 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 12:50:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-17 12:50:29 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-17 12:50:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-17 12:50:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:50:29 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-17 12:50:29 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 12:50:30 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-17 12:50:30 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-17 12:50:30 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-17 12:50:32 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-17 12:50:33 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-07-17 12:50:33 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-17 12:50:33 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-17 12:50:33 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-17 12:50:33 INFO  c.r.r.m.I.D.MainDrawTool - StepEntity is null, no params to apply
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:40 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.0 newVal=0.0037800851063829843
+2025-07-17 12:50:40 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.0037800851063829843 newVal=0.0
+2025-07-17 12:50:40 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.0
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:40 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.0
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:40 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.0
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:40 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.0 newVal=0.5745729361702128
+2025-07-17 12:50:41 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5745729361702128 newVal=0.57
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.57
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.57]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.57
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.57]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.57
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.57]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.57]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.57 newVal=1.3146767659574468
+2025-07-17 12:50:41 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3146767659574468 newVal=1.31
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:42 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.31 newVal=1.3137800851063832
+2025-07-17 12:50:42 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.3137800851063832
+2025-07-17 12:50:42 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3137800851063832]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3137800851063832]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3137800851063832 newVal=1.8770127659574471
+2025-07-17 12:50:43 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.8770127659574471 newVal=1.88
+2025-07-17 12:50:43 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.88
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.88]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.88
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.88]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.88
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.88]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.88]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.88 newVal=2.0
+2025-07-17 12:50:43 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:43 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=2.0 newVal=1.9924398297872343
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.9924398297872343 newVal=1.99
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.99
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.99]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.99
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.99]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.99
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.99]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.99]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.99 newVal=1.453227914893617
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.453227914893617 newVal=1.45
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.45
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.45]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.45
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.45]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.45
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.45]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.45]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.45 newVal=0.754464340425532
+2025-07-17 12:50:44 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.754464340425532 newVal=0.75
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.75
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.75]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.75
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.75]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.75
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.75]
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:44 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.75]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.75]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.75 newVal=0.6290372765957447
+2025-07-17 12:50:45 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.6290372765957447 newVal=0.63
+2025-07-17 12:50:45 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.63
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.63]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.63
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.63]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.63
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.63]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.63]
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:45 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.63 newVal=0.07810757446808514
+2025-07-17 12:50:45 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.07810757446808514 newVal=0.08
+2025-07-17 12:50:45 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.08
+2025-07-17 12:50:45 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.08]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.08
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.08]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.08
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.08]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.08]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.08 newVal=0.0
+2025-07-17 12:50:46 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.0
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.0
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.0]
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:46 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.0 newVal=0.007560170212765969
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.007560170212765969 newVal=0.01
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.01
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.01]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.01
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.01]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.01
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.01]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.01]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.01 newVal=0.28972629787234044
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.28972629787234044 newVal=0.29
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.29
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.29]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.29
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.29]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.29
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.29]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.29]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.29 newVal=0.5810665531914893
+2025-07-17 12:50:47 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5810665531914893 newVal=0.58
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:47 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:47 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:48 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.58 newVal=0.5913402553191488
+2025-07-17 12:50:48 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5913402553191488 newVal=0.59
+2025-07-17 12:50:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:48 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.59 newVal=0.7223029787234041
+2025-07-17 12:50:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.7223029787234041 newVal=0.72
+2025-07-17 12:50:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.72
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.72]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.72
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.72]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.72
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.72]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.72]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.72 newVal=0.7237800851063829
+2025-07-17 12:50:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.7237800851063829
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.7237800851063829]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.7237800851063829]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.7237800851063829 newVal=1.1962907234042555
+2025-07-17 12:50:49 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.1962907234042555 newVal=1.2
+2025-07-17 12:50:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.2
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.2]
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:49 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.2
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.2]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.2
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.2]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.2]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.2 newVal=1.8010335319148938
+2025-07-17 12:50:50 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.8010335319148938 newVal=1.8
+2025-07-17 12:50:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.8
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.8]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.8
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.8]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.8
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.8]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.8]
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:50 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.8 newVal=1.788659744680851
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.788659744680851 newVal=1.79
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.79
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.79]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.79
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.79]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.79
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.79]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.79]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.79 newVal=1.102024510638298
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.102024510638298 newVal=1.1
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.1
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.1
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.1
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.1 newVal=0.018895659574468038
+2025-07-17 12:50:51 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.018895659574468038 newVal=0.02
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.02
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.02]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.02
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.02]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.02
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.02]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.02]
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:51 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.02 newVal=0.023780085106382985
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.023780085106382985
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.023780085106382985]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.023780085106382985]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.023780085106382985 newVal=0.22790468085106383
+2025-07-17 12:50:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.22790468085106383 newVal=0.23
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.23
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.23]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.23
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.23]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.23
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.23]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.23]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.23 newVal=0.6117885957446808
+2025-07-17 12:50:52 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.6117885957446808 newVal=0.61
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.61
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.61]
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:52 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.61
+2025-07-17 12:50:52 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.61]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:53 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.61
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.61]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.61]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:53 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.61 newVal=0.613780085106383
+2025-07-17 12:50:53 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.613780085106383
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.613780085106383]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.613780085106383]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:53 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.613780085106383 newVal=0.8935063829787235
+2025-07-17 12:50:53 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.8935063829787235 newVal=0.89
+2025-07-17 12:50:53 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.89
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.89]
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:53 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:54 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.89
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.89]
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:54 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.89
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.89]
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.89]
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:54 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.89 newVal=0.8937800851063831
+2025-07-17 12:50:54 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.8937800851063831
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.8937800851063831]
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:54 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.8937800851063831]
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:55 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.8937800851063831 newVal=1.1546059574468086
+2025-07-17 12:50:55 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.1546059574468086 newVal=1.15
+2025-07-17 12:50:55 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.15
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.15]
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:55 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.15
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.15]
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:55 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.15
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.15]
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.15]
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:55 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.15 newVal=1.161340255319149
+2025-07-17 12:50:56 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.161340255319149 newVal=1.16
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.16
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.16]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.16
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.16]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.16
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.16]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.16]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.16 newVal=1.840415319148936
+2025-07-17 12:50:56 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.840415319148936 newVal=1.84
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.84
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.84]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.84
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.84]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.84
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.84]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.84]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.84 newVal=2.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 2.0
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0]
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:56 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.003780085106383]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 2.0000000000000004]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=2.0 newVal=1.9508588936170217
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.9508588936170217 newVal=1.95
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.95
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.95]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.95
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.95]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.95
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.95]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.95]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.95 newVal=1.6702737021276595
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.6702737021276595 newVal=1.67
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.67
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.67]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.67
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.67]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.67
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.67]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.67]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.67 newVal=1.2050495319148935
+2025-07-17 12:50:57 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.2050495319148935 newVal=1.21
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.21
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.21]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.21
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.21]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.21
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.21]
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:57 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.21]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.21 newVal=0.7412694468085107
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.7412694468085107 newVal=0.74
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.74
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.74]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.74
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.74]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.74
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.74]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.74]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.74 newVal=0.732439829787234
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.732439829787234 newVal=0.73
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.73
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.73]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.73
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.73]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.73
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.73]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.73]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.73 newVal=0.533435574468085
+2025-07-17 12:50:58 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.533435574468085 newVal=0.53
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:58 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:50:58 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:50:59 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.53 newVal=0.5355401662049861
+2025-07-17 12:51:00 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5355401662049861 newVal=0.54
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.54
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.54]
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.54
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.54]
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.54
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.54]
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.54 newVal=0.39703601108033243
+2025-07-17 12:51:00 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.39703601108033243 newVal=0.4
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.4
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.4]
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.4
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.4]
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:00 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.4
+2025-07-17 12:51:00 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.4]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.4 newVal=0.34717451523545706
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.34717451523545706 newVal=0.35
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.35
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.35]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.35
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.35]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.35
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.35]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.35 newVal=0.33609418282548476
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.33609418282548476 newVal=0.34
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.34
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.34]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.34
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.34]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.34
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.34]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.34 newVal=0.34163434903047096
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.34163434903047096
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.34163434903047096]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.34163434903047096 newVal=0.5133795013850416
+2025-07-17 12:51:01 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5133795013850416 newVal=0.51
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.51
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.51]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:01 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.51
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.51]
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:01 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.51
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.51]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.51 newVal=0.790387811634349
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.790387811634349 newVal=0.79
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.79
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.79]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.79
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.79]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.79
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.79]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.79 newVal=0.9898337950138505
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.9898337950138505 newVal=0.99
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.99
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.99]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.99
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.99]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.99
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.99]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.99 newVal=1.189279778393352
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.189279778393352 newVal=1.19
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.19
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.19]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.19
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.19]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.19
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.19]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.19 newVal=1.2890027700831026
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.2890027700831026 newVal=1.29
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.29
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.29]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.29
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.29]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.29
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.29]
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.29 newVal=1.3000831024930748
+2025-07-17 12:51:02 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3000831024930748 newVal=1.3
+2025-07-17 12:51:02 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.3
+2025-07-17 12:51:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.3
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.3
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3 newVal=1.305623268698061
+2025-07-17 12:51:03 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.305623268698061 newVal=1.31
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.s.ProcessingToolsController - Slider released at value: 1.31
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.31
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.31]
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:03 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.31 newVal=1.3137800851063828
+2025-07-17 12:51:03 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.3137800851063828
+2025-07-17 12:51:03 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3137800851063828]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.3137800851063828]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3137800851063828 newVal=1.064294468085106
+2025-07-17 12:51:04 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.064294468085106 newVal=1.06
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.06
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.06]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.06
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.06]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.06
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.06]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.06]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.06 newVal=0.5232279148936169
+2025-07-17 12:51:04 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5232279148936169 newVal=0.52
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.52
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.52]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.52
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.52]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.52
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.52]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.52]
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:04 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.52 newVal=0.527560170212766
+2025-07-17 12:51:05 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.527560170212766 newVal=0.53
+2025-07-17 12:51:05 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.53
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.53]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.53 newVal=0.9269089361702127
+2025-07-17 12:51:05 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.9269089361702127 newVal=0.93
+2025-07-17 12:51:05 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.93
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.93]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:05 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.93
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.93]
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:05 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:06 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.93
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.93]
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.93]
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:06 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.93 newVal=0.933780085106383
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.933780085106383
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.933780085106383]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.933780085106383]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.933780085106383 newVal=1.3684898723404255
+2025-07-17 12:51:07 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.3684898723404255 newVal=1.37
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.37
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.37]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.37
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.37]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.37
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.37]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.37]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.37 newVal=1.8084898723404257
+2025-07-17 12:51:07 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.8084898723404257 newVal=1.81
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.81
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.81]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.81
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.81]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.81
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.81]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.81]
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:07 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.81 newVal=1.806219914893617
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.806219914893617
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.806219914893617]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.806219914893617]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.806219914893617 newVal=1.5718546382978724
+2025-07-17 12:51:08 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.5718546382978724 newVal=1.57
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.57
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.57]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.57
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.57]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.57
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.57]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.57]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.57 newVal=1.1315101276595745
+2025-07-17 12:51:08 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.1315101276595745 newVal=1.13
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:08 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.13 newVal=1.1262199148936167
+2025-07-17 12:51:09 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.1262199148936167
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1262199148936167]
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.1262199148936167]
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.1262199148936167 newVal=0.906974978723404
+2025-07-17 12:51:09 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.906974978723404 newVal=0.91
+2025-07-17 12:51:09 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.91
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.91]
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.91
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.91]
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.91
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.91]
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:09 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.91]
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:10 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.91 newVal=0.5811325957446809
+2025-07-17 12:51:10 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.5811325957446809 newVal=0.58
+2025-07-17 12:51:10 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:10 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:10 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.58
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.58]
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:10 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.58 newVal=0.587560170212766
+2025-07-17 12:51:11 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.587560170212766 newVal=0.59
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 0.59
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 0.59]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=0.59 newVal=1.134332255319149
+2025-07-17 12:51:11 INFO  c.r.r.s.s.ProcessingToolsController - Slider moved: oldVal=1.134332255319149 newVal=1.13
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.s.study.ProcessingToolsService - Processing Contrast Slider with value: 1.13
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast DoubleProperty [value: 0.0] DoubleProperty [value: 1.13]
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 12:51:11 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0

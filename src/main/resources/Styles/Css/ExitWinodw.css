@@ -1,0 +1,30 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+#GridPane {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 20;
+    -fx-border-color:-additional;
+    -fx-border-width:2;
+    -fx-border-radius:20;
+}
+
+#ActionButton{
+    -fx-background-color: -accent;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+     -fx-focus-traversable:false;
+     -fx-font-size:20;
+     -fx-font-weight:bold;
+}
+
+.label{
+    -fx-text-fill:-text;
+    -fx-font-size:26;
+}
+
+
+#fontIcon {
+    -fx-icon-color: -text;
+}

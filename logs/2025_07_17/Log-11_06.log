@@ -1,0 +1,4 @@
+2025-07-17 11:06:14 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 11:06:16 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-17 11:06:17 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-17 11:06:17 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.

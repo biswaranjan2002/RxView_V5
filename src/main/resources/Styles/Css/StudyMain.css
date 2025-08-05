@@ -1,0 +1,374 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+.scroll-pane {
+    -fx-background-color: -primary;
+    -fx-background-radius:  10;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: -primary;
+    -fx-background-radius: 25;
+     -fx-border-radius: 10 ;
+}
+
+.scroll-bar:vertical {
+    -fx-pref-width: 10px; /* Decrease this value for thinner scrollbar */
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+
+.scroll-pane2 {
+    -fx-background-color: -secondary;
+    -fx-background-radius:  10;
+}
+
+.scroll-pane2 .viewport {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 25;
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+.jfx-button{
+  -fx-background-color: transparent;
+   -fx-focus-traversable:false;
+}
+
+
+#GridPane{
+    -fx-background-color: -primary;
+}
+
+
+#BodyPartDeleteButton{
+    -fx-focus-traversable:false;
+    /* -fx-border-color:-additional; */
+    -fx-border-radius: 15;
+    -fx-background-color: transparent;
+    -fx-background-radius: 15;
+}
+
+
+#HBox{
+    -fx-background-color: -secondary;
+    -fx-background-radius:15;
+}
+
+#ImageDisplayGrid{
+    -fx-background-color:black;
+    -fx-background-radius:10;
+    -fx-border-radius:10;
+    -fx-border-color:Transparent;
+    -fx-border-width:2;
+}
+
+
+.unselectedExposeButton{
+       -fx-background-color:-additional;
+        -fx-background-radius:15;
+        -fx-text-fill:-text;
+}
+
+.exposeButton{
+       -fx-background-color:green;
+        -fx-background-radius:15;
+        -fx-text-fill:-text;
+}
+
+.selectedExposeButton{
+       -fx-background-color:-accent;
+        -fx-background-radius:15;
+        -fx-text-fill:-text;
+}
+
+
+
+
+#ToolsPanel{
+    -fx-background-color:-accent;
+    -fx-background-radius:15;
+    -fx-text-fill:-text;
+
+}
+
+#ActionButton{
+    -fx-focus-traversable:false;
+    -fx-background-color:-accent;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+    -fx-font-weight:bold;
+     -fx-font-size:20;
+}
+
+.selectedAecButtons{
+       -fx-focus-traversable:false;
+       -fx-background-color:-additional;
+       -fx-background-radius:15;
+}
+
+.unSelectedAecButtons{
+       -fx-focus-traversable:false;
+       -fx-background-color:-secondary;
+       -fx-background-radius:15;
+}
+
+
+
+.jfx-toggle-button {
+    -fx-focus-traversable:false;
+    -jfx-toggle-color: -accent;
+    -jfx-untoggle-color: -text;
+}
+
+
+#ConsoleButtons{
+    -fx-focus-traversable:false;
+    -fx-background-color:-additional;
+    -fx-background-radius:10;
+}
+
+.ExposeLabel{
+     -fx-font-size:30;
+     -fx-font-weight:bold;
+}
+
+
+
+.selectedToolsButton{
+   -fx-border-width: 2;
+   -fx-border-radius: 10;
+   -fx-background-color: -additional;
+   -fx-text-fill:-text;
+   -fx-background-radius:10;
+   -fx-focus-traversable:false;
+    -fx-font-size:30;
+}
+
+
+.unSelectedToolsButton{
+   -fx-border-color: -additional;
+   -fx-border-width: 0;
+   -fx-border-radius: 0;
+   -fx-background-color: -primary;
+   -fx-text-fill:-text;
+   -fx-background-radius:10;
+   -fx-focus-traversable:false;
+   -fx-font-size:30;
+}
+
+
+
+
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+#closeTabIcon {
+    -fx-icon-color: -additional;
+     -fx-background-radius:10;
+}
+
+
+#selectedCloseTabIcon {
+    -fx-icon-color: -primary;
+     -fx-background-radius:10;
+}
+
+#selectedBodyPartsButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:-additional;
+    -fx-text-fill:-text;
+    -fx-font-size:12;
+}
+
+#unSelectedBodyPartsButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:transparent;
+     -fx-text-fill:-text;
+     -fx-font-size:12;
+}
+
+#exposedSelectedBodyPartButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:-additional;
+    -fx-text-fill:green;
+    -fx-font-size:12;
+}
+
+#exposedUnselectedBodyPartButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:transparent;
+    -fx-text-fill:green;
+    -fx-font-size:12;
+}
+
+#rejectedSelectedBodyPartButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:-additional;
+    -fx-text-fill:red;
+    -fx-font-size:12;
+}
+
+#rejectedUnselectedBodyPartButton{
+    -fx-focus-traversable:false;
+    -fx-background-radius:10;
+    -fx-background-color:transparent;
+    -fx-text-fill:red;
+    -fx-font-size:12;
+}
+
+
+
+#selectedImageToolsButton{
+    -fx-focus-traversable:false;
+   -fx-border-color: -additional;
+   -fx-border-width: 1;
+   -fx-border-radius: 9;
+   -fx-background-color: -additional;
+   -fx-text-fill:-text;
+   -fx-background-radius:10;
+}
+
+#unSelectedImageToolsButton{
+    -fx-focus-traversable:false;
+   -fx-border-color: -additional;
+   -fx-border-width: 0;
+   -fx-border-radius: 10;
+   -fx-background-color: transparent;
+   -fx-text-fill:-text;
+   -fx-background-radius:10;
+}
+
+
+
+#selectedTabButton{
+   -fx-focus-traversable:false;
+   -fx-border-width: 2;
+   -fx-border-radius: 8;
+   -fx-text-fill:-text;
+   -fx-background-color: -additional;
+   -fx-background-radius:10;
+    -fx-font-size:16;
+}
+
+#unSelectedTabButton{
+    -fx-focus-traversable:false;
+    -fx-border-color: -additional;
+     -fx-border-width: 0;
+     -fx-border-radius: 10;
+     -fx-text-fill:-text;
+     -fx-background-color: -primary;
+     -fx-background-radius:10;
+     -fx-font-size:16;
+}
+
+#aedUnselectedReadyButton{
+    -fx-background-radius:10;
+    -fx-background-color:transparent;
+}
+
+#aedSelectedReadyButton{
+    -fx-background-radius:10;
+    -fx-background-color:transparent;
+    -fx-icon-color: green;
+}
+
+#aedUnselectedReadyIcon{
+     -fx-icon-color: red;
+}
+
+#aedSelectedReadyIcon{
+     -fx-icon-color: green;
+}
+
+
+
+.label{
+    -fx-text-fill:-text;
+    -fx-font-size:18;
+}
+
+.BigLabel{
+    -fx-text-fill:-text;
+    -fx-font-size:24;
+}
+
+
+#noFaultIcon{
+     -fx-icon-color: -text;
+}
+
+#faultIcon{
+     -fx-icon-color: red;
+}
+
+#imageToolsText{
+   -fx-background-color: transparent;
+   -fx-text-fill: #66FF00;
+   -fx-padding: 0;
+   -fx-border-width: 0;
+   -fx-background-insets: 0;
+   -fx-background-radius: 0;
+}
+
+#Imageviewbox{
+    -fx-background-color:-secondary;
+    -fx-border-color:Transparent;
+    -fx-border-width:0;
+}
+
+#overlayLabels{
+    -fx-text-fill:-text;
+}
+
+

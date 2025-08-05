@@ -1,0 +1,24 @@
+2025-05-26 12:45:57 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 12:45:57 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 12:45:57 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 12:45:57 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 12:46:00 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:46:01 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 12:46:05 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - layoutTab.getRect().width : 1237, layoutTab.getRect().height : 2497
+2025-05-26 12:46:05 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - orgW * orgH : 1237.0, 2497.0
+2025-05-26 12:46:05 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - w * h : 1206.558203125, 2435.550390625
+2025-05-26 12:46:05 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:46:07 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - layoutTab.getRect().width : 1237, layoutTab.getRect().height : 2497
+2025-05-26 12:46:07 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - orgW * orgH : 1237.0, 2497.0
+2025-05-26 12:46:07 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - w * h : 1206.558203125, 2435.550390625
+2025-05-26 12:46:07 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:46:50 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:46:51 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - layoutTab.getRect().width : 830, layoutTab.getRect().height : 817
+2025-05-26 12:46:51 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - orgW * orgH : 830.0, 817.0
+2025-05-26 12:46:51 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - w * h : 809.57421875, 796.894140625
+2025-05-26 12:46:51 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:48:54 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 12:48:55 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - layoutTab.getRect().width : 2041, layoutTab.getRect().height : 548
+2025-05-26 12:48:55 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - orgW * orgH : 2041.0, 548.0
+2025-05-26 12:48:55 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintMainDrawTool - w * h : 827.1630859374999, 222.08984374999997
+2025-05-26 12:48:55 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

@@ -1,0 +1,128 @@
+2025-07-17 11:17:33 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-17 11:17:35 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-17 11:17:36 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-17 11:17:36 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-17 11:17:37 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-17 11:17:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-17 11:17:37 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-17 11:17:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-17 11:17:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 11:17:37 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-17 11:17:37 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-17 11:17:38 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-17 11:17:38 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-17 11:17:38 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-17 11:17:41 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-17 11:17:41 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-07-17 11:17:41 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-17 11:17:41 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-17 11:17:41 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - cropRect : {0, 0, 838x1024}
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - after cropRect : {0, 0, 838x1024}
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - displayImage : 838.0x1024.0
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-17 11:17:41 INFO  c.r.r.m.I.D.MainDrawTool - StepEntity is null, no params to apply
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 0.0
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 2.49
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 5.26
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 7.48
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 8.86
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 10.53
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 11.63
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 12.74
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 13.85
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 14.68
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 15.79
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 16.9
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 17.73
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 18.84
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 19.94
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 20.78
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 21.88
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:48 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 22.99
+2025-07-17 11:17:48 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 23.82
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 24.65
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 25.48
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 26.59
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 27.98
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 30.47
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 32.13
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 33.52
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 34.9
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 36.29
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 37.4
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 38.23
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 39.06
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 39.61
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 40.17
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 40.72
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 41.0
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 41.55
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 41.83
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 42.11
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 42.38
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 42.66
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 42.94
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1
+2025-07-17 11:17:49 INFO  c.r.r.s.study.ProcessingToolsService - Processing Brightness Slider with value: 45.0
+2025-07-17 11:17:49 INFO  c.r.r.m.I.D.MainDrawTool - frame type CV_16UC1

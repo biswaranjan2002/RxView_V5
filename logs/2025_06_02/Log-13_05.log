@@ -1,0 +1,13 @@
+2025-06-02 13:05:09 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-02 13:05:09 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-02 13:05:09 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size: 2500x3052, type: CV_16UC4
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 13:05:17 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-02 13:05:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-02 13:05:17 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull

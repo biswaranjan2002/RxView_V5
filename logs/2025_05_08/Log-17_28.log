@@ -1,0 +1,18 @@
+2025-05-08 17:28:46 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-08 17:28:46 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-05-08 17:28:46 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-08 17:28:47 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-08 17:28:50 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-08 17:28:59 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-08 17:28:59 INFO  c.r.r.modules.print.Layout.LayoutTab - w * h 2048.0 2560.0
+2025-05-08 17:29:02 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-08 17:29:02 INFO  c.r.r.modules.print.Layout.LayoutTab - w * h 1019.0 1280.0
+2025-05-08 17:29:02 INFO  c.r.r.modules.print.Layout.LayoutTab - w * h 1019.0 1280.0
+2025-05-08 17:29:02 INFO  c.r.r.modules.print.Layout.LayoutTab - w * h 1019.0 1280.0
+2025-05-08 17:29:02 INFO  c.r.r.modules.print.Layout.LayoutTab - w * h 1019.0 1280.0
+2025-05-08 17:29:14 INFO  c.r.r.m.p.p.PrintPageToImageCordData - layout code STANDARD\2,2
+2025-05-08 17:29:14 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {0, 403, 1018x472}
+2025-05-08 17:29:14 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {1019, 223, 1018x833}
+2025-05-08 17:29:14 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {0, 1743, 1019x353}
+2025-05-08 17:29:14 INFO  c.r.r.m.p.p.PrintPageToImageCordData - rect {1019, 1479, 1019x881}
+2025-05-08 17:29:14 INFO  c.r.r.service.print.PrintService - size 4 

@@ -1,0 +1,24 @@
+2025-05-26 13:25:46 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 13:25:46 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 13:25:46 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 13:25:46 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 13:25:50 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 13:25:50 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:25:55 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:36:42 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:36:44 INFO  com.raymedis.rxviewui.service.print.PrintService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-05-26 13:36:44 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:36:46 INFO  com.raymedis.rxviewui.service.print.PrintService - Type or Depth Issue in annotationsMat : CV_16UC4 : CV_8UC4
+2025-05-26 13:36:46 INFO  com.raymedis.rxviewui.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-26 13:36:47 INFO  com.raymedis.rxviewui.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-26 13:36:47 INFO  com.raymedis.rxviewui.service.print.PrintService - path exits
+2025-05-26 13:36:47 INFO  com.raymedis.rxviewui.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/111.dcm
+2025-05-26 13:36:55 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:36:57 INFO  com.raymedis.rxviewui.service.print.PrintService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4
+2025-05-26 13:36:57 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:36:59 INFO  com.raymedis.rxviewui.service.print.PrintService - Type or Depth Issue in annotationsMat : CV_16UC4 : CV_8UC4
+2025-05-26 13:36:59 INFO  com.raymedis.rxviewui.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-26 13:36:59 INFO  com.raymedis.rxviewui.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-26 13:36:59 INFO  com.raymedis.rxviewui.service.print.PrintService - path exits
+2025-05-26 13:36:59 INFO  com.raymedis.rxviewui.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/211.dcm
+2025-05-26 13:40:11 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

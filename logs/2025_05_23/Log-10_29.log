@@ -1,0 +1,17 @@
+2025-05-23 10:29:19 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 10:29:19 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 10:29:19 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-23 10:29:19 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-23 10:29:23 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 10:29:23 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-23 10:29:42 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:29:42 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:29:43 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:29:43 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:29:44 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 3052.0 * 2500.0
+2025-05-23 10:29:44 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 1237 * 2497
+2025-05-23 10:29:44 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 10:29:44 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 10:29:44 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 10:29:45 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - displayImage w * h : 2048.0 * 1677.0
+2025-05-23 10:29:45 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - width * height : 2048 * 1677

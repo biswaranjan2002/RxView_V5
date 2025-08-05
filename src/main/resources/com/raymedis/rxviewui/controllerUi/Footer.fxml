@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import java.lang.String?>
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane id="GridPane" fx:id="rootPane" maxHeight="50" maxWidth="1920" minHeight="50" minWidth="1920" prefHeight="50.0" prefWidth="1920.0" styleClass="fontStyle" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.Footer">
+<HBox maxHeight="50.0" maxWidth="1920.0" minHeight="50.0" minWidth="1920.0" prefHeight="50.0" prefWidth="1920.0">
+      <JFXButton fx:id="adminPageButton" maxHeight="50.0" maxWidth="175.0" minHeight="50.0" minWidth="175.0" onAction="#adminPageClick" prefHeight="50.0" prefWidth="175.0" text=" ">
+         <graphic>
+            <HBox maxHeight="50.0" maxWidth="175.0" minHeight="50.0" minWidth="175.0" prefHeight="50.0" prefWidth="175.0">
+               <children>
+                  <Label id="RxLabel" fx:id="rxViewLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" styleClass="fontStyle" text="RxView" textFill="WHITE">
+                     <font>
+                        <Font name="Century Gothic" size="26.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </Label>
+                  <HBox maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0">
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <children>
+                        <FontIcon fx:id="adminIcon" iconColor="#575656" iconLiteral="mdi2s-shield-account" iconSize="25" styleClass="unSelectedFontIcon" wrappingWidth="25.0">
+                           <HBox.margin>
+                              <Insets top="12.0" />
+                           </HBox.margin>
+                        </FontIcon>
+                        <Label fx:id="adminLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="40.0" minHeight="50.0" minWidth="40.0" prefHeight="50.0" prefWidth="40.0" text="Admin" textFill="#575656">
+                           <font>
+                              <Font name="Century Gothic Bold" size="12.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets left="-3.0" />
+                           </HBox.margin>
+                           <styleClass>
+                              <String fx:value="unSelectedLabel" />
+                              <String fx:value="AdminLabel" />
+                              <String fx:value="fontStyle" />
+                           </styleClass>
+                        </Label>
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+         </graphic>
+      </JFXButton>
+
+    <JFXButton fx:id="registerPageButton" maxHeight="50.0" maxWidth="120.0" minHeight="50.0" minWidth="120.0" mnemonicParsing="false" onAction="#registerPageClick" prefHeight="50.0" prefWidth="120.0" text=" " textFill="#575656">
+        <font>
+            <Font name="Century Gothic" size="14.0" />
+        </font>
+        <graphic>
+            <HBox maxHeight="50.0" maxWidth="115.0" minHeight="50.0" minWidth="115.0" prefHeight="50.0" prefWidth="115.0">
+                <FontIcon fx:id="registerPageIcon" iconColor="GREY" iconLiteral="mdi2a-account-plus" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+                    <HBox.margin>
+                        <Insets top="12.0" />
+                    </HBox.margin></FontIcon>
+                <Label id="ButtonsFontSize" fx:id="registerPage" maxHeight="50.0" maxWidth="90.0" minHeight="50.0" minWidth="90.0" prefHeight="50.0" prefWidth="90.0" text="Register" textFill="GREY">
+                    <font>
+                        <Font name="Century Gothic" size="20.0" />
+                    </font>
+                  <styleClass>
+                     <String fx:value="unSelectedLabel" />
+                     <String fx:value="fontStyle" />
+                  </styleClass>
+                </Label>
+            </HBox>
+
+        </graphic>
+        <HBox.margin>
+            <Insets left="150.0" right="25.0" />
+        </HBox.margin>
+    </JFXButton>
+      <JFXButton fx:id="studyPageButton" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" mnemonicParsing="false" onAction="#studyPageClick" prefHeight="50.0" prefWidth="100.0" text=" " textFill="#575656">
+         <font>
+            <Font name="Century Gothic" size="14.0" />
+         </font>
+         <graphic>
+            <HBox maxHeight="50.0" maxWidth="90.0" minHeight="50.0" minWidth="90.0" prefHeight="50.0" prefWidth="90.0">
+               <children>
+                  <FontIcon fx:id="studyPageIcon" iconColor="GREY" iconLiteral="mdi2r-radioactive" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+                     <HBox.margin>
+                        <Insets top="12.0" />
+                     </HBox.margin>
+                  </FontIcon>
+                  <Label id="ButtonsFontSize" fx:id="studyPage" maxHeight="50.0" maxWidth="60.0" minHeight="50.0" minWidth="60.0" prefHeight="50.0" prefWidth="60.0" text="Study" textFill="GREY">
+                     <font>
+                        <Font name="Century Gothic" size="20.0" />
+                     </font>
+                     <styleClass>
+                        <String fx:value="unSelectedLabel" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </Label>
+               </children>
+            </HBox>
+         </graphic>
+         <HBox.margin>
+            <Insets right="25.0" />
+         </HBox.margin>
+      </JFXButton>
+      <JFXButton fx:id="databasePageButton" maxHeight="50.0" maxWidth="130.0" minHeight="50.0" minWidth="130.0" mnemonicParsing="false" onAction="#dataBasePageClick" prefHeight="50.0" prefWidth="130.0" text=" " textFill="#575656">
+         <font>
+            <Font name="Century Gothic" size="14.0" />
+         </font>
+         <graphic>
+            <HBox maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" prefHeight="50.0" prefWidth="125.0">
+               <children>
+                  <FontIcon fx:id="dataBasePageIcon" iconColor="GREY" iconLiteral="mdi2d-database" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+                     <HBox.margin>
+                        <Insets top="12.0" />
+                     </HBox.margin>
+                  </FontIcon>
+                  <Label id="ButtonsFontSize" fx:id="dataBasePage" maxHeight="50.0" maxWidth="100.0" minHeight="50.0" minWidth="100.0" prefHeight="50.0" prefWidth="100.0" text="Database" textFill="GREY">
+                     <font>
+                        <Font name="Century Gothic" size="20.0" />
+                     </font>
+                     <styleClass>
+                        <String fx:value="unSelectedLabel" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </Label>
+               </children>
+            </HBox>
+         </graphic>
+         <HBox.margin>
+            <Insets right="25.0" />
+         </HBox.margin>
+      </JFXButton>
+      <JFXButton fx:id="printPageButton" maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" mnemonicParsing="false" onAction="#printPageClick" prefHeight="50.0" prefWidth="75.0" text=" " textFill="#575656">
+         <font>
+            <Font name="Century Gothic" size="14.0" />
+         </font>
+         <graphic>
+            <HBox maxHeight="50.0" maxWidth="75.0" minHeight="50.0" minWidth="75.0" prefHeight="50.0" prefWidth="75.0">
+               <children>
+                  <FontIcon fx:id="printPageIcon" iconColor="GREY" iconLiteral="mdi2p-printer" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+                     <HBox.margin>
+                        <Insets top="12.0" />
+                     </HBox.margin>
+                  </FontIcon>
+                  <Label id="ButtonsFontSize" fx:id="printPage" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="Print" textFill="GREY">
+                     <font>
+                        <Font name="Century Gothic" size="20.0" />
+                     </font>
+                     <styleClass>
+                        <String fx:value="unSelectedLabel" />
+                        <String fx:value="fontStyle" />
+                     </styleClass>
+                  </Label>
+               </children>
+            </HBox>
+         </graphic>
+         <HBox.margin>
+            <Insets />
+         </HBox.margin>
+      </JFXButton>
+      <HBox maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" prefHeight="50.0" prefWidth="150.0" spacing="10.0">
+         <children>
+            <FontIcon fx:id="fpd1FontIcon" iconColor="GREY" iconLiteral="mdi2l-lan-connect" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="15.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <FontIcon fx:id="fpd2FontIcon" iconColor="GREY" iconLiteral="mdi2l-lan-connect" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="15.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <FontIcon fx:id="fpd3FontIcon" iconColor="GREY" iconLiteral="mdi2l-lan-connect" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+         </children>
+         <HBox.margin>
+            <Insets left="150.0" right="125.0" />
+         </HBox.margin>
+      </HBox>
+      <HBox maxHeight="50.0" maxWidth="80.0" minHeight="50.0" minWidth="80.0" prefHeight="50.0" prefWidth="80.0">
+         <children>
+            <FontIcon fx:id="wifiSignalFontIcon" iconColor="WHITE" iconLiteral="mdi2w-wifi-strength-outline" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="5.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <Label id="DevicesLabel" fx:id="wifiLabel" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="0%" textFill="GREY">
+               <font>
+                  <Font name="Century Gothic" size="18.0" />
+               </font>
+               <styleClass>
+                  <String fx:value="unSelectedLabel" />
+                  <String fx:value="fontStyle" />
+               </styleClass>
+            </Label>
+         </children>
+         <HBox.margin>
+            <Insets right="15.0" />
+         </HBox.margin>
+      </HBox>
+      <HBox maxHeight="50.0" maxWidth="80.0" minHeight="50.0" minWidth="80.0" prefHeight="50.0" prefWidth="80.0">
+         <children>
+            <FontIcon fx:id="batteryFontIcon" iconColor="WHITE" iconLiteral="mdi2b-battery-outline" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="5.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <Label fx:id="batteryLabel" id="DevicesLabel" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="0%" textFill="GREY">
+               <font>
+                  <Font name="Century Gothic" size="18.0" />
+               </font>
+               <styleClass>
+                  <String fx:value="unSelectedLabel" />
+                  <String fx:value="fontStyle" />
+               </styleClass>
+            </Label>
+         </children>
+         <HBox.margin>
+            <Insets right="15.0" />
+         </HBox.margin>
+      </HBox>
+      <HBox maxHeight="50.0" maxWidth="70.0" minHeight="50.0" minWidth="70.0" prefHeight="50.0" prefWidth="70.0">
+         <children>
+            <FontIcon iconColor="WHITE" iconLiteral="mdi2s-server" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="5.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <Label fx:id="pacsUploadStatusLabel" id="DevicesLabel" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="0/0" textFill="GREY">
+               <font>
+                  <Font name="Century Gothic" size="18.0" />
+               </font>
+               <styleClass>
+                  <String fx:value="unSelectedLabel" />
+                  <String fx:value="fontStyle" />
+               </styleClass>
+            </Label>
+         </children>
+         <HBox.margin>
+            <Insets right="15.0" />
+         </HBox.margin>
+      </HBox>
+      <HBox maxHeight="50.0" maxWidth="70.0" minHeight="50.0" minWidth="70.0" prefHeight="50.0" prefWidth="70.0">
+         <children>
+            <FontIcon iconColor="WHITE" iconLiteral="mdi2p-printer" iconSize="24" styleClass="unSelectedFontIcon" wrappingWidth="24.0">
+               <HBox.margin>
+                  <Insets right="5.0" top="12.0" />
+               </HBox.margin>
+            </FontIcon>
+            <Label id="DevicesLabel" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0" text="0/0" textFill="GREY">
+               <font>
+                  <Font name="Century Gothic" size="18.0" />
+               </font>
+               <styleClass>
+                  <String fx:value="unSelectedLabel" />
+                  <String fx:value="fontStyle" />
+               </styleClass>
+            </Label>
+         </children>
+         <HBox.margin>
+            <Insets right="15.0" />
+         </HBox.margin>
+      </HBox>
+
+    <VBox maxHeight="50.0" maxWidth="90.0" minHeight="50.0" minWidth="90.0" prefHeight="50.0" prefWidth="90.0">
+        <HBox.margin>
+            <Insets left="75.0" right="25.0" top="5.0" />
+        </HBox.margin>
+        <opaqueInsets>
+            <Insets />
+        </opaqueInsets>
+        <Label id="dateTimeLabel" fx:id="timeLabel" alignment="CENTER" maxHeight="20.0" maxWidth="90.0" minHeight="20.0" minWidth="90.0" prefHeight="20.0" prefWidth="90.0" styleClass="fontStyle" text="00:00:00" textAlignment="JUSTIFY" textFill="WHITE">
+            <VBox.margin>
+                <Insets />
+            </VBox.margin>
+            <font>
+               <Font name="Century Gothic" size="14.0" />
+            </font>
+        </Label>
+        <Label id="dateTimeLabel" fx:id="dateLabel" alignment="CENTER" maxHeight="20.0" maxWidth="90.0" minHeight="20.0" minWidth="90.0" prefHeight="20.0" prefWidth="90.0" styleClass="fontStyle" text="00-00-0000" textFill="WHITE">
+            <font>
+               <Font name="Century Gothic" size="14.0" />
+            </font></Label>
+    </VBox>
+
+    <JFXButton fx:id="minimizeButton" alignment="BASELINE_CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#minimizeClick" prefHeight="50.0" prefWidth="50.0" text=" " textAlignment="JUSTIFY">
+        <HBox.margin>
+            <Insets />
+        </HBox.margin>
+         <graphic>
+            <VBox alignment="BOTTOM_CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0">
+               <children>
+                  <FontIcon iconColor="WHITE" iconLiteral="mdi2w-window-minimize" iconSize="24" styleClass="SelectedFontIcon" wrappingWidth="24.0">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </FontIcon>
+                  <Label id="dateTimeLabel" alignment="TOP_CENTER" maxHeight="20.0" maxWidth="50.0" minHeight="20.0" minWidth="50.0" prefHeight="20.0" prefWidth="50.0" styleClass="fontStyle" text="Min." textFill="GREY">
+                     <font>
+                        <Font name="Century Gothic" size="14.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets top="-5.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </VBox>
+         </graphic>
+    </JFXButton>
+      <JFXButton alignment="BASELINE_CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#closeClick" prefHeight="50.0" prefWidth="50.0" text=" " textAlignment="JUSTIFY">
+         <graphic>
+            <VBox alignment="BOTTOM_CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" prefHeight="50.0" prefWidth="50.0">
+               <children>
+                  <FontIcon iconColor="WHITE" iconLiteral="mdi2p-power" iconSize="24" styleClass="SelectedFontIcon" wrappingWidth="24.0">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </FontIcon>
+                  <Label id="dateTimeLabel" alignment="TOP_CENTER" contentDisplay="CENTER" maxHeight="20.0" maxWidth="50.0" minHeight="20.0" minWidth="50.0" prefHeight="20.0" prefWidth="50.0" styleClass="fontStyle" text="Exit" textFill="GREY">
+                     <font>
+                        <Font name="Century Gothic" size="14.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets top="-3.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </VBox>
+         </graphic>
+      </JFXButton>
+</HBox>
+<columnConstraints>
+    <ColumnConstraints />
+    <ColumnConstraints />
+</columnConstraints>
+<rowConstraints>
+    <RowConstraints />
+</rowConstraints>
+   <stylesheets>
+      <URL value="@../../../../Styles/Css/Footer.css" />
+      <URL value="@../../../../Styles/Css/Fonts.css" />
+   </stylesheets>
+</GridPane>

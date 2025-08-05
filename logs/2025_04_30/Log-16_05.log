@@ -1,0 +1,68 @@
+2025-04-30 16:05:39 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-30 16:05:39 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-30 16:05:39 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-30 16:05:39 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-30 16:05:43 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-30 16:05:48 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 257.36170212765956 0.0 503.14893617021244 838.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {767, 0, 1499x2497}
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 257.36170212765956 0.0 503.14893617021244 838.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {767, 0, 1499x2497}
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 257.36170212765956 0.0 503.14893617021244 838.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {767, 0, 1499x2497}
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 257.36170212765956 0.0 503.14893617021244 838.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {767, 0, 1499x2497}
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 1499.0 * 2497.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 257.36170212765956 0.0 503.14893617021244 838.0
+2025-04-30 16:05:48 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {767, 0, 1499x2497}
+2025-04-30 16:05:52 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 1499.0 * 2497.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3052.0 * 2497.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:52 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}
+2025-04-30 16:05:55 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3052.0 * 2497.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:56 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}
+2025-04-30 16:05:58 INFO  c.r.r.modules.print.Layout.LayoutTab - cropMultiple 2.98046875
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 2048.0 * 2560.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - printDynamicCanvasElementsResize.getMultiple() 2.98046875
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - 3052.0 * 2497.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - display image 3052.0 2500.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - edited image 1024x838 
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - rect 0.0 0.0 1024.0 838.0
+2025-04-30 16:05:58 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - new rect {0, 0, 3052x2497}

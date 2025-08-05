@@ -1,0 +1,7 @@
+2025-04-24 12:00:12 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-24 12:00:13 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.209.139 and 192.168.12.10
+2025-04-24 12:00:13 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-24 12:00:13 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-24 12:00:16 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-24 12:00:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX 0.0 cropY 441.5
+2025-04-24 12:00:21 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - PrintDynamicCanvasElementsResize{lineWidth=4.0, ellipseRadiusX=16.0, ellipseRadiusY=16.0, labelFontSize=28.0, labelRectWidth=180.0, labelRectHeight=60.0, customFontIconSize=400.0, multiple=2.0}

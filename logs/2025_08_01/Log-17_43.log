@@ -1,0 +1,12 @@
+2025-08-01 17:43:12 INFO  com.raymedis.rxviewui.service.study.StudyMainController - Console is ON
+2025-08-01 17:43:16 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 10.204.22.235 and 192.168.12.10
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.json.WifiSettings - 192.168.12.10
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.json.WifiSettings - Running batch file as admin...
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-08-01 17:43:17 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-08-01 17:43:20 ERROR com.raymedis.rxviewui.service.fpdSdks.controller.FpdController - No devices found
+2025-08-01 17:43:20 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!

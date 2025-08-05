@@ -1,0 +1,14 @@
+2025-05-09 16:38:02 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-09 16:38:02 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.204.139 and 192.168.12.10
+2025-05-09 16:38:02 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-09 16:38:02 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-09 16:38:06 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-09 16:38:09 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 16:38:10 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-09 16:45:34 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 16:45:36 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-09 16:46:42 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 16:48:39 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-09 16:51:45 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-09 16:53:21 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 16:57:11 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0

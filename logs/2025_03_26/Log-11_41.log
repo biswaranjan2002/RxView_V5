@@ -1,0 +1,9 @@
+2025-03-26 11:41:45 INFO  c.r.r.service.print.PrintController - oldWidth : 672.0 oldHeight : 950.0 
+2025-03-26 11:41:45 INFO  c.r.r.service.print.PrintController - mul : 95.0 newWidth : 760.0 newHeight : 950.0 
+2025-03-26 11:41:58 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-26 11:41:59 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-03-26 11:41:59 INFO  c.r.r.service.login.LoginController - IP not found
+2025-03-26 11:41:59 INFO  c.r.r.service.login.LoginController - initialized
+2025-03-26 11:42:02 INFO  c.r.r.service.print.PrintController - oldWidth : 950.0 oldHeight : 760.0 
+2025-03-26 11:42:02 INFO  c.r.r.service.print.PrintController - mul : 76.0 newWidth : 608.0 newHeight : 760.0 
+2025-03-26 11:42:02 INFO  c.r.r.service.login.LoginController - No devices found!!!

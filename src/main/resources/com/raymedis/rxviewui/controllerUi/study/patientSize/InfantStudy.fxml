@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane id="GridPane" fx:id="anatomyBox" alignment="TOP_LEFT" maxHeight="800.0" maxWidth="680.0" minHeight="800.0" minWidth="680.0" prefHeight="800.0" prefWidth="680.0" stylesheets="@../../../../../../Styles/Css/PatientSize.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.studyModule.patientSize.InfantStudy">
+    <ImageView fx:id="imageBox" fitHeight="800.0" fitWidth="680.0" pickOnBounds="true" preserveRatio="true">
+        <Image url="@../../../../../../Styles/Images/Assets/Anatomy-Infant.png" />
+        <StackPane.margin>
+            <Insets left="95.0" />
+        </StackPane.margin>
+    </ImageView>
+</StackPane>

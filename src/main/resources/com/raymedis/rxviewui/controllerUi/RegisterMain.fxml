@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.raymedis.rxviewui.ViewBox?>
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane id="GridPane1" maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030" prefWidth="1920" stylesheets="@../../../../Styles/Css/RegisterMain.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.registrationModule.RegisterMain">
+    <ViewBox id="GridPane1" fx:id="rootNode" maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030.0" prefWidth="1920.0">
+        <BorderPane maxHeight="1030.0" maxWidth="1920.0" minHeight="1030.0" minWidth="1920.0" prefHeight="1030.0" prefWidth="1920.0">
+        <top>
+            <HBox maxHeight="60.0" maxWidth="1920.0" minHeight="60.0" minWidth="1920.0" prefHeight="60.0" prefWidth="1920.0">
+                <JFXButton id="ButtonsFontSize" fx:id="manualButton" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" mnemonicParsing="false" onAction="#manualButtonClick" prefHeight="60.0" prefWidth="250.0" text="Manual" textFill="GREY">
+                    <font>
+                        <Font name="Century Gothic" size="24.0" />
+                    </font>
+                    <graphic>
+                        <FontIcon fx:id="manualIcon" iconColor="GREY" iconLiteral="mdi2k-keyboard" iconSize="28" styleClass="unSelectedFontIcon" wrappingWidth="28.0" />
+                    </graphic>
+                  <styleClass>
+                     <String fx:value="unSelectedButton" />
+                     <String fx:value="fontStyle" />
+                  </styleClass>
+                </JFXButton>
+
+                <JFXButton id="ButtonsFontSize" fx:id="workListButton" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" mnemonicParsing="false" onAction="#workListButtonClick" prefHeight="60.0" prefWidth="250.0" text="WorkList" textFill="GREY">
+                    <font>
+                        <Font name="Century Gothic" size="24.0" />
+                    </font>
+                    <graphic>
+                        <FontIcon fx:id="workListPageIcon" iconColor="GREY" iconLiteral="mdi2m-minus-network" iconSize="28" styleClass="unSelectedFontIcon" wrappingWidth="28.0" />
+                    </graphic>
+                  <styleClass>
+                     <String fx:value="fontStyle" />
+                     <String fx:value="unSelectedButton" />
+                  </styleClass>
+                </JFXButton>
+
+                <JFXButton id="ButtonsFontSize" fx:id="localListButton" maxHeight="60.0" maxWidth="250.0" minHeight="60.0" minWidth="250.0" mnemonicParsing="false" onAction="#localListButtonClick" prefHeight="60.0" prefWidth="250.0" text="LocalList" textFill="GREY">
+                    <font>
+                        <Font name="Century Gothic" size="24.0" />
+                    </font>
+                    <graphic>
+                        <FontIcon fx:id="localListPageIcon" iconColor="GREY" iconLiteral="mdi2l-laptop" iconSize="28" styleClass="unSelectedFontIcon" wrappingWidth="28.0" />
+                    </graphic>
+                  <styleClass>
+                     <String fx:value="fontStyle" />
+                     <String fx:value="unSelectedButton" />
+                  </styleClass>
+                </JFXButton>
+
+                <JFXButton id="EmergencyButton" fx:id="emergencyButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" mnemonicParsing="false" onAction="#emergencyButtonClick" prefHeight="50.0" prefWidth="150.0" styleClass="fontStyle" text=" " textAlignment="CENTER" textFill="WHITE">
+                    <font>
+                        <Font size="22.0" />
+                    </font>
+                    <graphic>
+                        <VBox alignment="CENTER" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" prefHeight="50.0" prefWidth="150.0">
+                             <FontIcon id="whiteLabel" fx:id="emergencyPageIcon" iconColor="WHITE" iconLiteral="mdi2a-asterisk" iconSize="16" textAlignment="CENTER" wrappingWidth="16.0">
+                           <VBox.margin>
+                              <Insets />
+                           </VBox.margin>
+                        </FontIcon>
+                            <Label id="EmergencyButtonLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="25.0" maxWidth="125.0" minHeight="25.0" minWidth="125.0" prefHeight="25.0" prefWidth="125.0" text="Emergency" textAlignment="CENTER" textFill="WHITE">
+                                <VBox.margin>
+                                    <Insets />
+                                </VBox.margin>
+                                <font>
+                                    <Font name="Century Gothic Bold" size="16.0" />
+                                </font></Label>
+                        </VBox>
+                    </graphic>
+                    <HBox.margin>
+                        <Insets left="950.0" top="10.0" />
+                    </HBox.margin>
+                </JFXButton>
+            </HBox>
+        </top>
+
+        <bottom>
+            <GridPane fx:id="registerContainer">
+                <GridPane />
+               <columnConstraints>
+                  <ColumnConstraints />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints />
+               </rowConstraints>
+            </GridPane>
+        </bottom>
+
+    </BorderPane>
+      <columnConstraints>
+         <ColumnConstraints />
+      </columnConstraints>
+      <rowConstraints>
+         <RowConstraints />
+      </rowConstraints>
+    </ViewBox>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

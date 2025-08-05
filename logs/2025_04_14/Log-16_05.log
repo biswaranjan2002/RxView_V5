@@ -1,0 +1,16 @@
+2025-04-14 16:06:13 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-14 16:06:13 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-14 16:06:13 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-14 16:06:13 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-14 16:06:17 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-14 16:06:21 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-14 16:06:22 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-14 16:06:22 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:22 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:23 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:23 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:23 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:23 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-14 16:06:44 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:47 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}
+2025-04-14 16:06:47 INFO  c.r.r.m.I.D.CanvasMainChange - redraw crop rect {0, 0, 1024x838}

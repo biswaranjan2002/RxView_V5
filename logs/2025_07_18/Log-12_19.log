@@ -1,0 +1,789 @@
+2025-07-18 12:20:03 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-18 12:20:06 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-18 12:20:07 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-18 12:20:07 INFO  c.r.r.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:10 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:10 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:20:10 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:20:10 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:20:10 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:10 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:20:10 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:10 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 12:20:10 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 12:20:12 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 12:20:12 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 12:20:14 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 12:20:14 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 12:20:16 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 12:20:16 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 12:20:16 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 12:20:16 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 12:20:16 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-18 12:20:16 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 12:20:16 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 12:20:16 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 12:20:22 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.05
+2025-07-18 12:20:22 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:20:22 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:20:22 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:20:22 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:42 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:42 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:20:42 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:20:42 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:42 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:20:42 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:42 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:42 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-18 12:20:42 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-18 12:20:43 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:20:43 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:20:43 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:20:43 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:20:43 INFO  c.r.s.r.RxPanelInitializationOld - Failed to connect to RX panel.
+2025-07-18 12:20:43 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 12:20:44 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-18 12:20:44 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-18 12:20:46 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-18 12:20:46 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-18 12:20:48 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-18 12:20:48 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-18 12:20:48 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 12:20:48 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-18 12:20:48 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-18 12:20:48 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-18 12:20:48 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-18 12:20:48 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 12:43:14 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.05
+2025-07-18 12:43:14 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:43:14 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:43:14 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:43:42 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-18 12:43:42 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-18 12:43:42 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:43:42 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:43:42 INFO  c.r.s.r.RxPanelInitializationOld - Failed to connect to RX panel.
+2025-07-18 12:43:42 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 12:44:30 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 4.0,  MA: 80.0
+2025-07-18 12:44:30 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.0625
+2025-07-18 12:44:30 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 62
+2025-07-18 12:44:30 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 62 0 and G
+2025-07-18 12:44:31 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 5.0,  MA: 80.0
+2025-07-18 12:44:31 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.075
+2025-07-18 12:44:31 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 75
+2025-07-18 12:44:31 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 75 0 and G
+2025-07-18 12:44:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 6.0,  MA: 80.0
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.0875
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 87
+2025-07-18 12:44:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 87 0 and G
+2025-07-18 12:44:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 7.0,  MA: 80.0
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 100
+2025-07-18 12:44:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 100 0 and G
+2025-07-18 12:44:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 8.0,  MA: 80.0
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1125
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 112
+2025-07-18 12:44:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 112 0 and G
+2025-07-18 12:44:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 9.0,  MA: 80.0
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.125
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 125
+2025-07-18 12:44:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 125 0 and G
+2025-07-18 12:44:32 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 10.0,  MA: 80.0
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1375
+2025-07-18 12:44:32 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 137
+2025-07-18 12:44:32 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -119 0 and G
+2025-07-18 12:44:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 11.0,  MA: 80.0
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.15
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 150
+2025-07-18 12:44:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -106 0 and G
+2025-07-18 12:44:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 12.0,  MA: 80.0
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1625
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 162
+2025-07-18 12:44:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -94 0 and G
+2025-07-18 12:44:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 13.0,  MA: 80.0
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.175
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 175
+2025-07-18 12:44:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -81 0 and G
+2025-07-18 12:44:33 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 14.0,  MA: 80.0
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.1875
+2025-07-18 12:44:33 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 187
+2025-07-18 12:44:33 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -69 0 and G
+2025-07-18 12:44:34 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 15.0,  MA: 80.0
+2025-07-18 12:44:34 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.2
+2025-07-18 12:44:34 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 200
+2025-07-18 12:44:34 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -56 0 and G
+2025-07-18 12:44:35 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 70.0,  MA: 80.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 70.0, currentMa: 80.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 5
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - x 5, maxlength: 5
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - currentMa: 100.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 100.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 100.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.49
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 212
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -44
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.16
+2025-07-18 12:44:35 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 160
+2025-07-18 12:44:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -44
+2025-07-18 12:44:35 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -96 0 and G
+2025-07-18 12:44:38 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Skull
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 75.0, ma: 100, mas: 16.0
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 100.0
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 100.0
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.49
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.7
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 212
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -44
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.16
+2025-07-18 12:44:38 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 160
+2025-07-18 12:44:38 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -44
+2025-07-18 12:44:38 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -96 0 and G
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-18 12:44:38 INFO  c.r.s.r.RxPanelInitializationOld - Failed to connect to RX panel.
+2025-07-18 12:44:38 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-18 12:44:39 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 16.0,  MA: 100.0
+2025-07-18 12:44:39 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.17
+2025-07-18 12:44:39 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 170
+2025-07-18 12:44:39 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -86 0 and G
+2025-07-18 12:44:40 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 17.0,  MA: 100.0
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.18
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 180
+2025-07-18 12:44:40 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -76 0 and G
+2025-07-18 12:44:40 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 18.0,  MA: 100.0
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.19
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 190
+2025-07-18 12:44:40 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -66 0 and G
+2025-07-18 12:44:40 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 19.0,  MA: 100.0
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.2
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 200
+2025-07-18 12:44:40 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -56 0 and G
+2025-07-18 12:44:40 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 20.0,  MA: 100.0
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.21
+2025-07-18 12:44:40 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 210
+2025-07-18 12:44:40 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -46 0 and G
+2025-07-18 12:44:41 INFO  c.r.r.s.study.StudyMainController - IncMas mas: 21.0,  MA: 100.0
+2025-07-18 12:44:41 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.22
+2025-07-18 12:44:41 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 220
+2025-07-18 12:44:41 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: -36 0 and G
+2025-07-18 12:44:44 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 100.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 100.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - currentMa: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.305
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:44:44 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:44 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:44:44 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - currentMa: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.305
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:44:44 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:44:44 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:44 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:44:45 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 80.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 80.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 80
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 4, mAkW size: 5
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 3, mAkW size: 5
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 70.0, filamentVoltage: 75.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 70.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 70.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.215
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 205
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -51
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3142857142857143
+2025-07-18 12:44:45 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 314
+2025-07-18 12:44:45 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -51
+2025-07-18 12:44:45 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 58 1 and G
+2025-07-18 12:44:46 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 70.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 70.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 70
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 3, mAkW size: 5
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 2, mAkW size: 5
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 60.0, filamentVoltage: 75.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 60.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 60.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.125
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 203
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -53
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.36666666666666664
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 366
+2025-07-18 12:44:46 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -53
+2025-07-18 12:44:46 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 1 and G
+2025-07-18 12:44:46 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 60.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 60.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 60
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 2, mAkW size: 5
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 1, mAkW size: 5
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 40.0, filamentVoltage: 75.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 40.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 40.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 7.845000000000001
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 196
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -60
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.55
+2025-07-18 12:44:46 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 550
+2025-07-18 12:44:46 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -60
+2025-07-18 12:44:46 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 38 2 and G
+2025-07-18 12:44:47 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 40.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 40.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 40
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 1, mAkW size: 5
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 0, mAkW size: 5
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 20.0, filamentVoltage: 75.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.41
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.38
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 7.395
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.41
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.38
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 185
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -71
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1100
+2025-07-18 12:44:47 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -71
+2025-07-18 12:44:47 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 76 4 and G
+2025-07-18 12:44:47 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 20
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 0, mAkW size: 5
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 0, mAkW size: 5
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 20.0, filamentVoltage: 75.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 20.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.41
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.38
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 7.395
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.41
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.38
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 185
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -71
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 1.1
+2025-07-18 12:44:47 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 1100
+2025-07-18 12:44:47 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -71
+2025-07-18 12:44:47 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 76 4 and G
+2025-07-18 12:44:48 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 20.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 20.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 0, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 1, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - currentMa: 40.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 40.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 40.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 7.845000000000001
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 196
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -60
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.55
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 550
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -60
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 38 2 and G
+2025-07-18 12:44:48 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 40.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 40.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 1, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 2, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - currentMa: 60.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 60.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 60.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.125
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 203
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -53
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.36666666666666664
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 366
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -53
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 1 and G
+2025-07-18 12:44:48 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 60.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 60.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 2, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 3, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - currentMa: 70.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 70.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 70.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.215
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 205
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -51
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3142857142857143
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 314
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -51
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 58 1 and G
+2025-07-18 12:44:48 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 70.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 70.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 3, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - currentMa: 80.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 80.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.305
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:44:48 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:48 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:44:49 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 80.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 80.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - currentMa: 80.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 80.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.305
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:44:49 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:44:49 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:49 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:44:50 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 80.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 80.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 80
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 4, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 3, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 70.0, filamentVoltage: 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 70.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 70.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.215
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 205
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -51
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3142857142857143
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 314
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -51
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 58 1 and G
+2025-07-18 12:44:50 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 70.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 70.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 70
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 3, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 2, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 60.0, filamentVoltage: 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 60.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 60.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.125
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 203
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -53
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.36666666666666664
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 366
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -53
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 1 and G
+2025-07-18 12:44:50 INFO  c.r.r.s.study.StudyMainController - DecMa kv: 75.0,  MA: 60.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - decMA currentKv: 75.0, currentMa: 60.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current mA value: 60
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x before decrement: 2, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x after decrement: 1, mAkW size: 5
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - New filamentCurrent: 40.0, filamentVoltage: 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 40.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 40.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 7.845000000000001
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.86
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 7.83
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 196
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -60
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.55
+2025-07-18 12:44:50 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 550
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -60
+2025-07-18 12:44:50 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 38 2 and G
+2025-07-18 12:44:51 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 40.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 40.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - x 1, maxlength: 4
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - x 2, maxlength: 4
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - currentMa: 60.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 60.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 60.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.125
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 203
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -53
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.36666666666666664
+2025-07-18 12:44:51 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 366
+2025-07-18 12:44:51 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -53
+2025-07-18 12:44:51 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 110 1 and G
+2025-07-18 12:44:52 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 60.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 60.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x 2, maxlength: 4
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x 3, maxlength: 4
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - currentMa: 70.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 70.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 70.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.215
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.14
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.11
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 205
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -51
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.3142857142857143
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 314
+2025-07-18 12:44:52 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -51
+2025-07-18 12:44:52 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 58 1 and G
+2025-07-18 12:44:52 INFO  c.r.r.s.study.StudyMainController - IncMa kv: 75.0,  MA: 70.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - received currentKv: 75.0, currentMa: 70.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x 3, maxlength: 4
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x 4, maxlength: 4
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - currentMa: 80.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 75.0, ma1: 80.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - x: 188
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.305
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 75.0
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:44:52 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:44:52 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:52 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:44:54 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 75.0, MA: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 75.0, currentMa: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 74.0, ma1: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - x: 185
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.308
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 74.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:54 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:54 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 74.0, MA: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 74.0, currentMa: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 73.0, ma1: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - x: 183
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.311
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 73.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:54 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:44:54 INFO  c.r.r.s.study.StudyMainController - DecKv KV: 73.0, MA: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - decKv currentKv: 73.0, currentMa: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In mA 250
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 72.0, ma1: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - x: 180
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.314
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 72.0
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-18 12:44:54 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-18 12:44:54 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-18 12:45:01 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.275
+2025-07-18 12:45:01 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:45:01 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:45:01 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G
+2025-07-18 12:45:03 INFO  c.r.r.m.s.SerialPortManager - decMs currentMs: 0.17500000000000002
+2025-07-18 12:45:03 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.275
+2025-07-18 12:45:03 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 275
+2025-07-18 12:45:03 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 19 1 and G

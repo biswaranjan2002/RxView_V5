@@ -1,0 +1,149 @@
+2025-04-29 15:16:03 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-29 15:16:04 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-29 15:16:04 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-29 15:16:04 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-29 15:16:07 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-29 15:16:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:15 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:16 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:17 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:18 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:18 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:19 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:20 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:21 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:22 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:23 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rect: {805, 0, 1415x2497}
+2025-04-29 15:16:24 INFO  c.r.r.m.p.i.d.PrintCropLayout - printCanvasMainChange.getDisplayImage() 3052x2500

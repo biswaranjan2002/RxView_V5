@@ -1,0 +1,34 @@
+2025-05-19 15:36:06 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-19 15:36:06 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-19 15:36:06 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-19 15:36:06 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-19 15:36:10 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-19 15:36:14 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 15:36:15 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 15:36:15 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-19 15:36:31 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 15:36:31 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 15:36:31 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-19 15:36:44 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 15:36:45 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 15:36:45 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-19 15:36:50 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-19 15:36:51 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-19 15:37:01 INFO  c.r.rxviewui.controller.ExportStudy - before last redraw 2.4388958774717513 
+
+2025-05-19 15:37:01 INFO  c.r.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-19 15:37:01 INFO  c.r.rxviewui.controller.ExportStudy - after last annotation
+
+2025-05-19 15:37:02 INFO  c.r.rxviewui.controller.ExportStudy - before last redraw 2.98046875 
+
+2025-05-19 15:37:02 INFO  c.r.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-19 15:37:02 INFO  c.r.rxviewui.controller.ExportStudy - after last annotation
+
+2025-05-19 15:37:03 INFO  c.r.rxviewui.controller.ExportStudy - before last redraw 2.98046875 
+
+2025-05-19 15:37:03 INFO  c.r.rxviewui.controller.ExportStudy - after last redraw
+
+2025-05-19 15:37:03 INFO  c.r.rxviewui.controller.ExportStudy - after last annotation
+

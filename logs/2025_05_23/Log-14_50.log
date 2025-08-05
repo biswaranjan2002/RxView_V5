@@ -1,0 +1,22 @@
+2025-05-23 14:50:47 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 14:50:47 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 14:50:47 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-23 14:50:47 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-23 14:50:50 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-23 14:50:51 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 14:50:55 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 14:50:55 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 14:50:55 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 14:51:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: RIGHT_MID
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=2, dy=2
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=125, dy=5
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=84, dy=0
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=0
+2025-05-23 14:51:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID

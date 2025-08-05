@@ -1,0 +1,26 @@
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 100.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 95.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 95.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 100.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 95.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 95.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0
+2025-04-01 13:20:21 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0
+2025-04-01 13:21:09 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-01 13:21:09 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-01 13:21:09 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-01 13:21:10 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-01 13:21:13 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-01 13:21:26 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-01 13:21:27 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-01 13:21:28 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 100.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 95.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 47.5 , height : 95.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 100.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 95.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 95.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0
+2025-04-01 13:21:30 INFO  c.r.r.s.print.LayoutIconCreator - width : 30.0 , height : 90.0

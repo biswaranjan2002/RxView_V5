@@ -1,0 +1,14 @@
+2025-05-26 13:19:53 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-26 13:19:53 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-26 13:19:53 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-26 13:19:53 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-26 13:19:56 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-26 13:19:57 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!
+2025-05-26 13:19:59 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - display image width: 3052.0, height: 2500.0
+2025-05-26 13:19:59 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - layoutTab rect width: 1237, height: 2497
+2025-05-26 13:19:59 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - display image width: 3052.0, height: 2500.0
+2025-05-26 13:19:59 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - layoutTab rect width: 1237, height: 2497
+2025-05-26 13:20:02 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - display image width: 3052.0, height: 2500.0
+2025-05-26 13:20:02 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - layoutTab rect width: 1237, height: 2497
+2025-05-26 13:20:07 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - display image width: 2048.0, height: 1677.0
+2025-05-26 13:20:07 INFO  com.raymedis.rxviewui.modules.print.imageProcessing.drawToolsResource.PrintCanvasMainChange - layoutTab rect width: 1236, height: 1831

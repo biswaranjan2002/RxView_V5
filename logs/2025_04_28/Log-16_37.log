@@ -1,0 +1,31 @@
+2025-04-28 16:37:50 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-28 16:37:51 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-28 16:37:51 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-28 16:37:51 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-28 16:37:54 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-28 16:37:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:37:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=222.331914893617, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:37:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=488.8851063829788, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:37:57 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=735.5234042553192, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=1.5819148936170109, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=268.1351063829788, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=514.7734042553192, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:05 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:05 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=-219.168085106383, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:05 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=47.38510638297879, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:05 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=294.0234042553192, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:06 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:06 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=-439.918085106383, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:06 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=-173.3648936170212, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:06 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=73.27340425531918, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:07 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:07 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=-660.6680851063829, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:07 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=-394.1148936170212, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:07 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=-147.47659574468082, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:08 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:08 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=-881.4180851063829, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:08 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=-614.8648936170212, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:08 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=-368.2265957446808, radiusX=8.0, radiusY=8.0} 
+2025-04-28 16:38:12 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 16:38:13 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 

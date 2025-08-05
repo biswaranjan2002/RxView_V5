@@ -1,0 +1,11 @@
+2025-06-03 12:01:14 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-03 12:01:14 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-03 12:01:14 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Hand
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2497x3052}
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - cropped mat size 2497x3052 , type CV_16UC1 
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2497x3052}
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size 0x0 , type CV_16UC4 
+2025-06-03 12:01:24 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in informationMat : CV_16UC4 : CV_8UC4

@@ -1,0 +1,26 @@
+2025-06-02 12:18:14 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-02 12:18:14 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-02 12:18:14 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: hand
+2025-06-02 12:18:36 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-06-02 12:18:39 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - L/R Label: L
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Text: Some Text
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Position Value: 175.0
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - Invalid position value: 175.0
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-02 12:18:40 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-06-02 12:18:41 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-02 12:18:41 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 12:19:31 INFO  com.raymedis.rxviewui.service.export.ExportStudyService -  crop rect after {0, 0, 838x1024} 

@@ -1,0 +1,5 @@
+2025-05-23 17:19:19 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-23 17:19:19 INFO  com.raymedis.rxviewui.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 17:19:19 INFO  com.raymedis.rxviewui.service.login.LoginController - IP not found
+2025-05-23 17:19:19 INFO  com.raymedis.rxviewui.service.login.LoginController - initialized
+2025-05-23 17:19:23 INFO  com.raymedis.rxviewui.service.login.LoginController - No devices found!!!

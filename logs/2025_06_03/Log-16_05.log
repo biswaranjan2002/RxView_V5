@@ -1,0 +1,19 @@
+2025-06-03 16:05:43 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-03 16:05:43 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-03 16:05:43 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {694, 0, 945x3052}
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - DynamicCanvasElementsResize values set with multiple: 2.44140625
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Line Width: 4.8828125, Ellipse Radius X: 19.53125, Ellipse Radius Y: 19.53125, Label Font Size: 34.1796875, Rect Width: 219.7265625, Rect Height: 73.2421875, Custom Font Icon Size: 488.28125
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - cropped mat size 945x3052 , type CV_16UC1 
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {694, 0, 945x3052}
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - DynamicCanvasElementsResize values set with multiple: 2.44140625
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Line Width: 4.8828125, Ellipse Radius X: 19.53125, Ellipse Radius Y: 19.53125, Label Font Size: 34.1796875, Rect Width: 219.7265625, Rect Height: 73.2421875, Custom Font Icon Size: 488.28125
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - 2 DynamicCanvasElementsResize values set with multiple: 2.44140625
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - 2 Line Width: 4.8828125, Ellipse Radius X: 19.53125, Ellipse Radius Y: 19.53125, Label Font Size: 34.1796875, Rect Width: 219.7265625, Rect Height: 73.2421875, Custom Font Icon Size: 488.28125
+2025-06-03 16:05:47 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-03 16:05:48 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-03 16:05:48 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-03 16:05:48 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-03 16:05:48 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull

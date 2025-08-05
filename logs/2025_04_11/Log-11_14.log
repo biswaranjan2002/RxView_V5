@@ -1,0 +1,28 @@
+2025-04-11 11:14:25 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-11 11:14:26 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-11 11:14:26 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-11 11:14:26 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-11 11:14:29 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-11 11:14:30 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-11 11:14:30 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:14:31 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-11 11:15:05 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-11 11:15:05 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-11 11:15:05 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-11 11:15:06 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-11 11:15:09 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-11 11:15:09 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-11 11:15:10 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - w 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.s.study.StudyMainController - h 1526.0 1526.0 1526.0 1526.0 
+2025-04-11 11:15:11 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

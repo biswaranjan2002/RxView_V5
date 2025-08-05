@@ -1,0 +1,45 @@
+2025-04-16 16:36:16 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-16 16:36:16 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.24.139 and 192.168.12.10
+2025-04-16 16:36:16 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-16 16:36:16 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-16 16:36:19 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-16 16:36:20 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-16 16:36:21 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-16 16:36:22 INFO  c.r.r.s.r.ManualRegisterController - unknown patient size
+2025-04-16 16:36:22 INFO  c.r.r.s.r.ManualRegisterController - unknown patient size
+2025-04-16 16:36:22 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-16 16:36:24 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-16 16:36:29 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:36:36 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:36:36 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:36:36 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 652.0 , startSceneY : 414.0
+2025-04-16 16:36:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 1036.0 , startSceneY : 686.0
+2025-04-16 16:36:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 1036.0 , startSceneY : 686.0
+2025-04-16 16:36:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 396.0 , startSceneY : 327.0
+2025-04-16 16:36:45 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 374.0 , startSceneY : 475.0
+2025-04-16 16:36:45 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 374.0 , startSceneY : 475.0
+2025-04-16 16:36:45 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 776.0 , startSceneY : 466.0
+2025-04-16 16:36:50 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 360.0 , startSceneY : 542.0
+2025-04-16 16:36:50 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 360.0 , startSceneY : 542.0
+2025-04-16 16:36:50 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 581.0 , startSceneY : 463.0
+2025-04-16 16:36:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 532.0 , startSceneY : 489.0
+2025-04-16 16:36:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 532.0 , startSceneY : 489.0
+2025-04-16 16:36:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 565.0 , startSceneY : 440.0
+2025-04-16 16:37:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 590.0 , startSceneY : 379.0
+2025-04-16 16:37:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 590.0 , startSceneY : 379.0
+2025-04-16 16:37:15 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 720.0 , startSceneY : 328.0
+2025-04-16 16:37:17 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 718.0 , startSceneY : 595.0
+2025-04-16 16:37:17 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 718.0 , startSceneY : 595.0
+2025-04-16 16:37:17 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 539.0 , startSceneY : 498.0
+2025-04-16 16:37:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 837.0 , startSceneY : 555.0
+2025-04-16 16:37:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 837.0 , startSceneY : 555.0
+2025-04-16 16:37:41 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 698.0 , startSceneY : 312.0
+2025-04-16 16:37:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:37:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 0.0 , startSceneY : 0.0
+2025-04-16 16:37:52 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 389.0 , startSceneY : 338.0
+2025-04-16 16:37:53 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 383.0 , startSceneY : 338.0
+2025-04-16 16:37:53 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 383.0 , startSceneY : 338.0
+2025-04-16 16:37:53 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 407.0 , startSceneY : 521.0
+2025-04-16 16:37:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - drawingCanvasMousePressed pressed startSceneX : 400.0 , startSceneY : 518.0
+2025-04-16 16:37:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - before pressed startSceneX : 400.0 , startSceneY : 518.0
+2025-04-16 16:37:54 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - pressed startSceneX : 358.0 , startSceneY : 455.0

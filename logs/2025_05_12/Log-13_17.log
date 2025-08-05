@@ -1,0 +1,101 @@
+2025-05-12 13:17:17 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-12 13:17:17 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.204.139 and 192.168.12.10
+2025-05-12 13:17:17 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-12 13:17:17 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-12 13:17:21 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-12 13:17:25 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 3052.0 : 2500.0 : {}
+2025-05-12 13:17:25 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 3052.0 : 2500.0 : {}
+2025-05-12 13:17:25 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 3052.0 : 2500.0 : {}
+2025-05-12 13:17:25 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 3052.0 : 2500.0 : {}
+2025-05-12 13:17:29 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-12 13:17:30 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-12 13:17:30 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:30 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:30 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:30 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:31 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:31 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:31 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:31 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:40 INFO  c.r.r.s.study.StudyMainController - saving for export...
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.rxviewui.controller.ExportWindow - initialized
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:40 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 1024.0 : 838.0 : {}
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - w * h 3052.0 : 2497.6328125 : {}
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - line startX: 232.03404255319148 startY: 700.0553191489362 endX: 745.1234042553192 endY: 695.6978723404255
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 232.03404255319148 centerY: 700.0553191489362 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse centerX: 745.1234042553192 centerY: 695.6978723404255 radiusX: 8.0 radiusY: 8.0  
+
+2025-05-12 13:17:43 INFO  c.r.rxviewui.controller.ExportStudy - after last redraw

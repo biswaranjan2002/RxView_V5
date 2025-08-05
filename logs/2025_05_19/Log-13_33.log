@@ -1,0 +1,14 @@
+2025-05-19 13:33:35 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-19 13:33:35 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-19 13:33:35 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-19 13:33:35 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-19 13:33:39 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-19 13:33:40 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 13:33:41 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 13:33:41 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-19 13:33:43 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 13:33:44 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 13:33:44 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-19 13:33:58 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-19 13:33:58 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-19 13:33:58 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

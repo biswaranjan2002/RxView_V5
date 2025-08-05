@@ -1,0 +1,2 @@
+2025-05-28 13:28:38 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-28 13:28:39 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.

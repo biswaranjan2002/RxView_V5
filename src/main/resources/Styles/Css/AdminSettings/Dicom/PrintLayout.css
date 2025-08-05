@@ -1,0 +1,247 @@
+@import url('../../ThemeColor.css');
+@import url('../../Fonts.css');
+
+.GridPane{
+    -fx-background-color:-primary;
+}
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+#ShadowEffectBox2{
+    -fx-background-color:-primary;
+    -fx-background-radius:15;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.8), 8, 0, 0, 0);
+    -fx-border-width: 2;
+    -fx-border-color:-additional;
+    -fx-border-radius:13;
+}
+
+
+#HeaderLabel2{
+      -fx-background-color:-primary;
+      -fx-background-radius:15;
+      -fx-font-size:30;
+      -fx-text-fill:-additional;
+      -fx-border-color:-accent;
+      -fx-border-radius:13;
+      -fx-border-width:2;
+}
+
+#selectedLayoutButton{
+    -fx-text-fill:-text;
+    -fx-font-size:12;
+    -fx-background-color:transparent;
+    -fx-background-radius:15;
+    -fx-border-color:-accent;
+    -fx-border-width:2;
+    -fx-border-radius:15;
+}
+
+#unSelectedLayoutButton{
+    -fx-text-fill:-text;
+    -fx-font-size:12;
+    -fx-background-color:transparent;
+    -fx-background-radius:15;
+    -fx-border-color:transparent;
+    -fx-border-width:2;
+    -fx-border-radius:15;
+}
+
+#layoutOuterBox{
+    -fx-background-color:-secondary;
+    -fx-background-radius:25;
+    -fx-border-radius:25;
+    -fx-border-width:2;
+}
+
+#layoutBox{
+    -fx-background-color:-primary;
+    -fx-background-radius:5;
+}
+
+
+#layout{
+    -fx-background-color:-text;
+    -fx-background-radius:2;
+}
+
+
+
+#subGridlayout{
+    -fx-background-color:black;
+    -fx-background-radius:5;
+}
+
+
+.jfx-combo-box {
+    -fx-font-size : 20;
+    -fx-prompt-text-fill:-additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+}
+
+.jfx-combo-box-popup .list-view {
+    -fx-background-color: -secondary;
+    -fx-font-size : 18;
+}
+
+.jfx-combo-box .list-cell {
+    -fx-background-color: -secondary;
+    -fx-text-fill: -additional;
+}
+
+.jfx-combo-box2 {
+    -fx-font-size : 20;
+    -fx-prompt-text-fill:-additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+}
+
+.jfx-combo-box-popup2 .list-view {
+    -fx-background-color: -primary;
+    -fx-font-size : 18;
+}
+
+.jfx-combo-box2 .list-cell {
+    -fx-background-color: -primary;
+    -fx-text-fill: -additional;
+}
+
+
+#subHeaderLabel{
+  -fx-background-color:-primary;
+  -fx-font-size:24;
+  -fx-text-fill:-additional;
+  -fx-border-color:-additional;
+  -fx-border-width:0 0 0 0;
+}
+
+#inputTextField{
+  -fx-background-color:-primary;
+  -fx-font-size:20;
+  -fx-text-fill:-additional;
+  -fx-border-color:-additional;
+  -fx-border-width:0 0 2 0;
+}
+
+#ActionButton{
+      -fx-font-size:24;
+      -fx-text-fill:-text;
+      -fx-background-color:-accent;
+      -fx-background-radius:15;
+      -fx-font-weight:bold;
+      -fx-focus-traversable:false;
+}
+
+#validOutputTextField{
+  -fx-background-color:-primary;
+  -fx-font-size:20;
+  -fx-text-fill:green;
+  -fx-border-color:-additional;
+  -fx-border-radius:10;
+  -fx-border-width:2;
+}
+
+#inValidOutputTextField{
+  -fx-background-color:-primary;
+  -fx-font-size:20;
+  -fx-text-fill:red;
+  -fx-border-color:-additional;
+  -fx-border-radius:10;
+  -fx-border-width:2;
+}
+
+#GridPane2 {
+    -fx-background-color: -secondary;
+    -fx-background-radius: 20;
+}
+
+
+.scroll-pane {
+    -fx-background: -primary;
+    -fx-background-color: -primary;
+    -fx-control-inner-background: -primary;
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+
+
+.scroll-pane2 {
+    -fx-background: -secondary;
+    -fx-background-color: -secondary;
+    -fx-control-inner-background: -secondary;
+}
+
+.scroll-bar2:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:-secondary;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar2:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar2:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar2:vertical .track {
+    -fx-background-color: -additional;
+}
+
+#DeleteButton{
+    -fx-background-color:Transparent;
+    -fx-focus-traversable:false;
+    -fx-background-radius: 10;
+}
+
+#selectedLayoutButton{
+    -fx-background-radius:5;
+    -fx-border-color:-accent;
+    -fx-border-radius:5;
+    -fx-border-width:2;
+}
+
+#unSelectedLayoutButton{
+    -fx-background-radius:5;
+    -fx-border-color:transparent;
+    -fx-border-radius:5;
+    -fx-border-width:2;
+}
+
+#layout{
+    -fx-background-color:-text;
+    -fx-background-radius:2;
+}
+

@@ -1,0 +1,94 @@
+2025-05-23 15:22:49 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 15:22:50 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 15:22:50 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-23 15:22:50 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-23 15:22:53 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 15:22:54 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-23 15:22:59 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 15:22:59 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 15:22:59 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 15:23:00 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: RIGHT_MID
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=0
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 837
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=837, height=1676
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=30, dy=0
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 867
+2025-05-23 15:23:01 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=867, height=1676
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=40, dy=0
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 907
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=907, height=1676
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=20, dy=2
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 927
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=927, height=1676
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=58, dy=5
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 985
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=985, height=1676
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=38, dy=7
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 1023
+2025-05-23 15:23:02 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=1023, height=1676
+2025-05-23 15:23:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=0
+2025-05-23 15:23:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 15:23:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 1030
+2025-05-23 15:23:03 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: LEFT_MID
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=1030, height=1676
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-5, dy=0
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=623, y=0, width=1035, height=1676
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-168, dy=0
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=455, y=0, width=1203, height=1676
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-148, dy=0
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:04 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=307, y=0, width=1351, height=1676
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-302, dy=-28
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=5, y=0, width=1653, height=1676
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-7, dy=0
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: null
+2025-05-23 15:23:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: LEFT_MID
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=5, y=0, width=1653, height=1676
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=5
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=12, y=0, width=1646, height=1676
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=309, dy=10
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=321, y=0, width=1337, height=1676
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=46, dy=0
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: LEFT_MID
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=367, y=0, width=1291, height=1676
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=0, dy=2
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=367, y=0, width=1291, height=1676
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=222, dy=15
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=589, y=0, width=1069, height=1676
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=5, dy=0
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:23:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - PrintCropLayout drawLayout

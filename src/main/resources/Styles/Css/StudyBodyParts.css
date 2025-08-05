@@ -1,0 +1,83 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+#StudyBodyPart{
+    -fx-border-width:1;
+    -fx-border-radius:10;
+    -fx-background-color: -primary;
+    -fx-background-radius:10;
+}
+
+.SelectedRadioButton{
+    -fx-background-color: Transparent;
+    -fx-focus-traversable:false;
+    -fx-border-radius: 10;
+    -fx-border-color:-accent;
+    -fx-border-width:3;
+}
+
+.unSelectedRadioButton{
+    -fx-background-color: Transparent;
+     -fx-focus-traversable:false;
+}
+
+
+.selectedDetector{
+    -fx-icon-color: -text;
+    -fx-background-radius:10;
+    -fx-focus-traversable:false;
+}
+
+.unSelectedDetector{
+    -fx-icon-color: -additional;
+    -fx-background-radius:10;
+     -fx-focus-traversable:false;
+}
+
+#fontIcon {
+    -fx-icon-color: -text;
+}
+
+
+#positionBox{
+    -fx-background-color:transparent;
+    -fx-border-color:-additional;
+    -fx-border-width:1;
+    -fx-border-radius:10;
+}
+
+.scroll-pane {
+    -fx-background: -primary;
+    -fx-background-color: -primary;
+    -fx-control-inner-background: -primary;
+}
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color: -secondary;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+
+.scroll-bar:vertical .decrement-button {
+    -fx-background-color: -secondary;
+    -fx-border-color: -secondary;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+
+.button{
+     -fx-background-color: transparent;
+      -fx-focus-traversable:false;
+      -fx-font-size:18;
+      -fx-text-fill:-text;
+}

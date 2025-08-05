@@ -1,0 +1,371 @@
+2025-05-17 12:05:01 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-17 12:05:02 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-17 12:05:02 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-17 12:05:02 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-17 12:05:05 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-17 12:05:07 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:07 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:07 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:07 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:11 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:11 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:13 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:31 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:32 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:36 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 130.87446808510637 y 252.73191489361702 
+2025-05-17 12:05:37 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.96382978723403 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 131.96382978723403 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 135.23191489361702 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 135.23191489361702 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 137.41063829787234 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 137.41063829787234 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 143.9468085106383 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 143.9468085106383 y 252.73191489361702 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 149.3936170212766 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 149.3936170212766 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 163.55531914893618 y 265.8042553191489 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 163.55531914893618 y 265.8042553191489 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 169.00212765957448 y 267.98297872340424 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 169.00212765957448 y 267.98297872340424 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 175.53829787234042 y 270.16170212765957 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 175.53829787234042 y 270.16170212765957 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 184.2531914893617 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 184.2531914893617 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 189.70000000000002 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 189.70000000000002 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 191.8787234042553 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 191.8787234042553 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 195.1468085106383 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 195.1468085106383 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 196.23617021276596 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 196.23617021276596 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 199.50425531914894 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 199.50425531914894 y 273.4297872340425 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 200.5936170212766 y 271.25106382978726 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 200.5936170212766 y 271.25106382978726 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 200.5936170212766 y 267.98297872340424 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 200.5936170212766 y 267.98297872340424 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 198.41489361702128 y 262.53617021276597 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 198.41489361702128 y 262.53617021276597 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 189.70000000000002 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 189.70000000000002 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 186.43191489361703 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 186.43191489361703 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 184.2531914893617 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 184.2531914893617 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.98510638297873 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 180.98510638297873 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 178.8063829787234 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 178.8063829787234 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 175.53829787234042 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 175.53829787234042 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 256.0 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 259.26808510638296 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 259.26808510638296 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:38 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 154.8404255319149 y 520.7148936170213 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 157.0191489361702 y 522.8936170212766 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 157.0191489361702 y 522.8936170212766 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 159.19787234042553 y 522.8936170212766 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 159.19787234042553 y 522.8936170212766 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 160.2872340425532 y 526.1617021276596 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 160.2872340425532 y 526.1617021276596 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 165.7340425531915 y 531.6085106382978 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 165.7340425531915 y 531.6085106382978 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 538.1446808510639 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 538.1446808510639 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 186.43191489361703 y 550.1276595744681 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 186.43191489361703 y 550.1276595744681 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 201.68297872340426 y 559.931914893617 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 201.68297872340426 y 559.931914893617 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 213.6659574468085 y 571.9148936170213 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 213.6659574468085 y 571.9148936170213 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 234.36382978723404 y 594.7914893617021 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 234.36382978723404 y 594.7914893617021 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 240.9 y 605.6851063829787 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:40 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 240.9 y 605.6851063829787 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 251.7936170212766 y 622.0255319148936 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 251.7936170212766 y 622.0255319148936 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 258.32978723404256 y 630.7404255319149 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 258.32978723404256 y 630.7404255319149 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 268.1340425531915 y 643.8127659574468 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 268.1340425531915 y 643.8127659574468 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 272.4914893617021 y 652.5276595744681 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 272.4914893617021 y 652.5276595744681 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 276.84893617021277 y 659.063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 276.84893617021277 y 659.063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 281.2063829787234 y 664.5106382978723 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 281.2063829787234 y 664.5106382978723 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 287.7425531914894 y 674.3148936170213 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 287.7425531914894 y 674.3148936170213 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 289.9212765957447 y 679.7617021276595 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 289.9212765957447 y 679.7617021276595 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 292.1 y 683.0297872340426 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 292.1 y 683.0297872340426 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 293.18936170212766 y 686.2978723404256 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 293.18936170212766 y 686.2978723404256 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 293.18936170212766 y 688.4765957446808 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 293.18936170212766 y 688.4765957446808 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 294.27872340425535 y 691.7446808510639 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 294.27872340425535 y 691.7446808510639 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 695.0127659574468 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 695.0127659574468 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 700.4595744680851 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 700.4595744680851 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 702.6382978723404 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 296.45744680851067 y 702.6382978723404 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 291.01063829787233 y 710.263829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 291.01063829787233 y 710.263829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 288.831914893617 y 712.4425531914894 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 288.831914893617 y 712.4425531914894 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 288.831914893617 y 714.6212765957447 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 288.831914893617 y 714.6212765957447 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 285.56382978723406 y 717.8893617021276 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 285.56382978723406 y 717.8893617021276 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 282.29574468085104 y 718.9787234042553 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 282.29574468085104 y 718.9787234042553 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 279.0276595744681 y 721.1574468085106 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 279.0276595744681 y 721.1574468085106 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 276.84893617021277 y 722.2468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 276.84893617021277 y 722.2468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 273.5808510638298 y 722.2468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 273.5808510638298 y 722.2468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 273.5808510638298 y 721.1574468085106 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 273.5808510638298 y 721.1574468085106 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 270.3127659574468 y 717.8893617021276 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 270.3127659574468 y 717.8893617021276 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 714.6212765957447 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 714.6212765957447 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 711.3531914893617 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 711.3531914893617 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 709.1744680851064 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 709.1744680851064 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 705.9063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 267.04468085106384 y 705.9063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 264.8659574468085 y 705.9063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 264.8659574468085 y 705.9063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 261.5978723404255 y 705.9063829787234 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:41 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 261.5978723404255 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 259.4191489361702 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 259.4191489361702 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 256.15106382978723 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 256.15106382978723 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 705.9063829787234 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 703.7276595744681 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:42 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 703.7276595744681 
+2025-05-17 12:05:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:05:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:43 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:05:44 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:44 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:05:44 INFO  c.r.r.service.study.StudyService - org mat size 3052 * 2500
+2025-05-17 12:05:44 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:05:44 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:06:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:06:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:06:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:06:30 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:06:33 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 172.27021276595744 y 261.4468085106383 
+2025-05-17 12:06:33 INFO  c.r.r.m.I.D.CanvasMainChange - ellipse center x 252.88297872340425 y 700.4595744680851 
+2025-05-17 12:06:35 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:35 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:35 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:35 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:36 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 12:06:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:38 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:39 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:40 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 12:06:41 INFO  c.r.r.service.study.StudyService - Mat is not empty

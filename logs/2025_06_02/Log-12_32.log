@@ -1,0 +1,20 @@
+2025-06-02 12:33:02 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-02 12:33:02 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-02 12:33:02 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-02 12:33:06 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-02 12:33:06 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size: 2500x3052, type: CV_16UC4
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-02 12:33:07 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-02 12:33:07 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Hand
+2025-06-02 12:33:07 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat type: CV_16UC1
+2025-06-02 12:33:08 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - orgMat size: 2500x3052, type: CV_16UC4
+2025-06-02 12:33:08 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {0, 0, 2500x3052}
+2025-06-02 12:33:08 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, height: 3052
+2025-06-02 12:33:08 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - AngleDrawWrapper: AngleDrawWrapper{ellipses=[EllipseWrapper{centerX=320.9574468085106, centerY=299.5744680851064, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=631.4255319148937, centerY=398.7063829787234, radiusX=8.0, radiusY=8.0}, EllipseWrapper{centerX=412.46382978723403, centerY=714.6212765957447, radiusX=8.0, radiusY=8.0}], lines=[LineWrapper{startX=320.9574468085106, startY=299.5744680851064, endX=631.4255319148937, endY=398.7063829787234}, LineWrapper{startX=631.4255319148937, startY=398.7063829787234, endX=412.46382978723403, endY=714.6212765957447}], labelWrapper=LabelWrapper{value=72.98222821212963, x=532.2008152782939, y=432.45223327583926}}
+2025-06-02 12:33:08 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - DynamicCanvasElementsResize.getMultiple : 2.983293556085919

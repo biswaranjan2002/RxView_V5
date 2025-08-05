@@ -1,0 +1,39 @@
+2025-07-21 10:36:36 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-21 10:36:40 INFO  c.r.r.service.login.LoginController - username is 
+2025-07-21 10:36:40 INFO  c.r.r.service.login.LoginController - password is 
+2025-07-21 10:36:40 INFO  c.r.r.service.login.Authentication - User not found: 
+2025-07-21 10:36:40 INFO  c.r.r.service.login.LoginController - role is null
+2025-07-21 10:36:41 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-21 10:36:52 INFO  c.r.r.service.login.LoginController - username is saipro
+2025-07-21 10:36:52 INFO  c.r.r.service.login.LoginController - password is saipro
+2025-07-21 10:36:52 INFO  c.r.r.service.login.Authentication - User not found: saipro
+2025-07-21 10:36:52 INFO  c.r.r.service.login.LoginController - role is null
+2025-07-21 10:36:53 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - username is sai
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - password is sai
+2025-07-21 10:36:57 INFO  c.r.r.service.login.Authentication - User found: sai
+2025-07-21 10:36:57 INFO  c.r.r.service.login.Authentication - userEntity: SystemAccountsEntity{userName='sai', userId='sai', password='$2a$10$enSlul37thzHo2IPocKCz.5cS3zLpefZHPT8JUasErH.eL6aKcZdW', userGroup='Technician'}
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - role is Technician
+2025-07-21 10:36:57 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - IP not found
+2025-07-21 10:36:57 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-07-21 10:36:57 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-21 10:36:57 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-07-21 10:36:57 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-21 10:36:57 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-21 10:37:01 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-21 10:37:01 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - username is admin
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - password is admin
+2025-07-21 10:37:13 INFO  c.r.r.service.login.Authentication - User found: admin
+2025-07-21 10:37:13 INFO  c.r.r.service.login.Authentication - userEntity: SystemAccountsEntity{userName='admin', userId='admin', password='$2a$10$Nk7CpvTBFRBCWp2sl4cWDOmCJDzkYhNwKHDl.7kTKEaskVNfriL32', userGroup='Admin'}
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - role is Admin
+2025-07-21 10:37:13 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - ip matched 192.168.12.10
+2025-07-21 10:37:13 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-21 10:37:13 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-21 10:37:17 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-21 10:37:17 INFO  c.r.r.service.login.LoginController - No devices found!!!

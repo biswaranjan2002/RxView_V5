@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.raymedis.rxviewui.ViewBox?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane id="GridPane" fx:id="rootNode" alignment="CENTER" maxHeight="400.0" maxWidth="700.0" minHeight="400.0" minWidth="700.0" prefHeight="400.0" prefWidth="700.0" styleClass="fontStyle" stylesheets="@../../../../Styles/Css/StudyProjectionEdit.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.StudyProjectionEditPage">
+   <columnConstraints>
+
+
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <ViewBox id="gridPane2" alignment="CENTER" maxHeight="400.0" maxWidth="700.0" minHeight="400.0" minWidth="700.0" prefHeight="400.0" prefWidth="700.0">
+         <columnConstraints>
+            <ColumnConstraints />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints />
+         </rowConstraints>
+         <children>
+            <VBox alignment="CENTER" maxHeight="400.0" maxWidth="700.0" minHeight="400.0" minWidth="700.0" prefHeight="400.0" prefWidth="700.0" spacing="15.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" maxHeight="60.0" maxWidth="700.0" minHeight="60.0" minWidth="700.0" prefHeight="60.0" prefWidth="700.0">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <children>
+                        <Label alignment="BOTTOM_CENTER" maxHeight="50.0" maxWidth="375.0" minHeight="50.0" minWidth="375.0" prefHeight="50.0" prefWidth="375.0" text="Updated Body Part                     :">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <JFXComboBox fx:id="bodyPartComboBox" visibleRowCount="4" onAction="#bodyPartSelection" maxHeight="50.0" maxWidth="275.0" minHeight="50.0" minWidth="275.0" prefHeight="50.0" prefWidth="275.0" />
+                     </children>
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="50.0" maxWidth="700.0" minHeight="50.0" minWidth="700.0" prefHeight="50.0" prefWidth="700.0">
+                     <children>
+                        <Label alignment="BOTTOM_CENTER" maxHeight="50.0" maxWidth="375.0" minHeight="50.0" minWidth="375.0" prefHeight="50.0" prefWidth="375.0" text="Updated Projection                    :">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Label>
+                        <JFXComboBox fx:id="projectionComboBox" onAction="#projectionSelection" visibleRowCount="4" maxHeight="50.0" maxWidth="275.0" minHeight="50.0" minWidth="275.0" prefHeight="50.0" prefWidth="275.0" />
+                     </children>
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="50.0" maxWidth="700.0" minHeight="50.0" minWidth="700.0" prefHeight="50.0" prefWidth="700.0" spacing="20.0">
+                     <children>
+                        <Label maxHeight="50.0" maxWidth="375.0" minHeight="50.0" minWidth="375.0" prefHeight="50.0" prefWidth="375.0" text="   Current Body Part Projection     :">
+                           <font>
+                              <Font name="Century Gothic" size="18.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Label>
+                        <Label fx:id="currentProjectionLabel" maxHeight="50.0" maxWidth="325.0" minHeight="50.0" minWidth="325.0" prefHeight="50.0" prefWidth="325.0" text="NA">
+                        </Label>
+                     </children>
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" maxHeight="50.0" maxWidth="700.0" minHeight="50.0" minWidth="700.0" prefHeight="50.0" prefWidth="700.0" spacing="20.0">
+                     <children>
+                        <Label maxHeight="50.0" maxWidth="375.0" minHeight="50.0" minWidth="375.0" prefHeight="50.0" prefWidth="375.0" text="   Updated Body Part Projection  :">
+                           <font>
+                              <Font name="Century Gothic" size="18.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Label>
+                        <Label fx:id="updatedProjectionLabel" maxHeight="50.0" maxWidth="325.0" minHeight="50.0" minWidth="325.0" prefHeight="50.0" prefWidth="325.0" text="NA">
+                        </Label>
+                     </children>
+                     <padding>
+                        <Insets left="25.0" />
+                     </padding>
+                  </HBox>
+                  <HBox alignment="CENTER" maxHeight="60.0" maxWidth="700.0" minHeight="60.0" minWidth="700.0" prefHeight="60.0" prefWidth="700.0" spacing="100.0">
+                     <children>
+                        <JFXButton id="ActionButton" fx:id="updateButton" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#updateClick" prefHeight="50.0" prefWidth="150.0" text="Update" textFill="WHITE">
+                           <font>
+                              <Font name="Century Gothic" size="18.0" />
+                           </font>
+                        </JFXButton>
+                        <JFXButton id="ActionButton" fx:id="closeButton" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#closeClick" prefHeight="50.0" prefWidth="150.0" text="Close" textFill="WHITE">
+                           <font>
+                              <Font name="Century Gothic" size="18.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets top="10.0" />
+                     </padding>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </ViewBox>
+   </children>
+</GridPane>

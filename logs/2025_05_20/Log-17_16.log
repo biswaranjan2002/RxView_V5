@@ -1,0 +1,17 @@
+2025-05-20 17:16:36 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-20 17:16:37 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-20 17:16:37 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-20 17:16:37 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-20 17:16:40 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-20 17:16:42 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 17:16:50 INFO  c.r.r.service.print.PrintService - Type or Depth Issue : CV_16UC4 : CV_8UC4
+2025-05-20 17:16:50 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 17:16:51 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 17:16:53 INFO  c.r.r.service.print.PrintService - Type or Depth Issue For AnnotationsMat : CV_16UC4 : CV_8UC4
+2025-05-20 17:16:53 INFO  c.r.r.service.print.PrintService - outputMat type : CV_16UC4
+2025-05-20 17:16:53 INFO  c.r.r.service.print.PrintService - outputMat type: CV_16UC3
+2025-05-20 17:16:54 INFO  c.r.r.service.print.PrintService - changed outputMat type: CV_16UC1
+2025-05-20 17:16:54 INFO  c.r.r.service.print.PrintService - path exits
+2025-05-20 17:16:54 INFO  c.r.r.service.print.PrintService - D:\Work\RxView_Java\RxView\43_RxView_Study_Restructure/dcmOutput/111.dcm
+2025-05-20 17:16:54 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-20 17:17:49 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0

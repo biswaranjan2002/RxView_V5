@@ -1,0 +1,29 @@
+2025-04-25 14:39:09 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-25 14:39:10 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-25 14:39:10 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-25 14:39:10 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-25 14:39:14 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-25 14:39:16 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-04-25 14:39:28 INFO  c.r.r.service.study.StudyService - rectW rectH 90.0 * 30.0
+2025-04-25 14:39:32 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 501x838} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 501x845} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 501x850} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 508x878} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 519x899} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 536x925} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 572x989} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 590x1019} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 670x1119} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 685x1140} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 718x1175} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 723x1183} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 795x1242} 
+2025-04-25 14:39:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 818x1262} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 831x1278} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 854x1301} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 882x1329} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 890x1337} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 949x1388} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 961x1393} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 1025x1426} 
+2025-04-25 14:39:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {240, 0, 1033x1429} 

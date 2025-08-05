@@ -1,0 +1,18 @@
+2025-05-31 15:43:59 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-31 15:43:59 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-31 15:43:59 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-31 15:44:05 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:44:05 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:05 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:05 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:44:05 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:44:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:44:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:17 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:44:17 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-05-31 15:44:38 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-05-31 15:44:38 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:38 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-05-31 15:44:38 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-05-31 15:44:38 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull

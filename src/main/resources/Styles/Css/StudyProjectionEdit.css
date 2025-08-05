@@ -1,0 +1,63 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+#GridPane {
+   -fx-background-color: transparent;
+   -fx-background-radius: 23;
+   -fx-border-radius: 23;
+}
+
+#gridPane2{
+  -fx-background-color: -primary;
+  -fx-background-radius: 23;
+  -fx-border-radius: 23;
+  -fx-border-color:-additional;
+   -fx-border-width:2;
+}
+
+
+#ActionButton{
+    -fx-background-color: -accent;
+    -fx-background-radius:10;
+    -fx-text-fill:-text;
+     -fx-focus-traversable:false;
+     -fx-font-size:22;
+     -fx-font-weight:bold;
+}
+
+
+#TextField {
+    -fx-background-color: transparent;
+    -fx-border-color: -additional;
+    -fx-border-width: 0 0 1 0;
+    -fx-text-fill: -text;
+}
+
+
+.label{
+    -fx-text-fill:-additional;
+    -fx-font-size:22;
+}
+
+
+.jfx-combo-box {
+    -fx-font-size: 22;
+    -fx-prompt-text-fill: -additional;
+    -fx-text-fill: -additional;
+    -jfx-focus-color: -accent;
+    -jfx-unfocus-color: -additional;
+    -fx-focus-traversable: false;
+}
+
+.jfx-combo-box-popup .list-view {
+    -fx-background-color: -primary;
+    -fx-font-size: 22;
+    -fx-max-height: 200;
+}
+
+.jfx-combo-box .list-cell {
+    -fx-background-color: -primary;
+    -fx-text-fill: -additional;
+}
+

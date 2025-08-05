@@ -1,0 +1,63 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+.selectedAdditionalToolsButton{
+    -fx-background-color:-additional;
+    -fx-border-radius:10;
+    -fx-background-radius:10;
+    -fx-focus-traversable:false;
+    -fx-text-fill:-text;
+}
+
+.unSelectedAdditionalToolsButton{
+    -fx-border-color:Transparent;
+    -fx-border-radius:10;
+    -fx-background-radius:10;
+     -fx-focus-traversable:false;
+     -fx-text-fill:-text;
+}
+
+.scroll-pane2 {
+    -fx-background-color: -primary;
+    -fx-background-radius:  10;
+}
+
+.scroll-pane2 .viewport {
+    -fx-background-color: -primary;
+    -fx-background-radius: 25;
+}
+
+
+.scroll-bar:vertical .increment-button {
+    -fx-background-color: -secondary;
+    -fx-border-color:transparent;
+    -fx-background-radius:5;
+    -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .decrement-button {
+   -fx-background-color: -secondary;
+   -fx-border-color:-secondary;
+   -fx-background-radius:5;
+   -fx-border-radius:5;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: -primary;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: -secondary;
+}
+
+
+.label{
+    -fx-text-fill:-text;
+     -fx-focus-traversable:false;
+      -fx-font-size:20;
+}
+
+.button{
+     -fx-font-size:20;
+}

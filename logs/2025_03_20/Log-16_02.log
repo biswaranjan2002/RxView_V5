@@ -1,0 +1,30 @@
+2025-03-20 16:03:05 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-03-20 16:03:11 INFO  c.r.r.service.study.StudyService - Image received
+2025-03-20 16:03:12 INFO  c.r.r.service.study.StudyService - 838.0 1024.0
+2025-03-20 16:03:13 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-03-20 16:03:13 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {0, 0, 838x1024} and multiple is 1024.0 838.0
+2025-03-20 16:03:13 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-03-20 16:03:29 INFO  c.r.r.s.study.StudyMainController - Saving for Pacs...
+2025-03-20 16:03:29 INFO  c.r.r.modules.dicom.DicomService - Status : Uploading Begins
+2025-03-20 16:03:29 INFO  c.r.r.modules.dicom.DicomService - Creating DICOM File/s...
+2025-03-20 16:03:29 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 3052.0 2500.0
+2025-03-20 16:03:32 INFO  c.r.r.modules.dicom.DicomService - path exits
+2025-03-20 16:03:32 INFO  c.r.r.modules.dicom.DicomService - D:\Work\RxView_Java\RxView\28_RxView_Study_PacsUpload_Crop_Version/dcmOutput/11.dcm
+2025-03-20 16:03:32 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 1024.0 838.0
+2025-03-20 16:03:35 INFO  c.r.r.modules.dicom.DicomService - Uploading to server...
+2025-03-20 16:03:35 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-03-20 16:03:40 INFO  c.r.r.modules.dicom.DicomService - Upload completed successfully!
+2025-03-20 16:03:41 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 1024.0 838.0
+2025-03-20 16:04:33 INFO  c.r.r.s.study.StudyMainController - Saving for Pacs...
+2025-03-20 16:04:33 INFO  c.r.r.modules.dicom.DicomService - Status : Uploading Begins
+2025-03-20 16:04:33 INFO  c.r.r.modules.dicom.DicomService - Creating DICOM File/s...
+2025-03-20 16:04:33 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 3052.0 2500.0
+2025-03-20 16:04:34 INFO  c.r.r.modules.dicom.DicomService - path exits
+2025-03-20 16:04:34 INFO  c.r.r.modules.dicom.DicomService - D:\Work\RxView_Java\RxView\28_RxView_Study_PacsUpload_Crop_Version/dcmOutput/11.dcm
+2025-03-20 16:04:34 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 1024.0 838.0
+2025-03-20 16:04:35 INFO  c.r.r.modules.dicom.DicomService - Uploading to server...
+2025-03-20 16:04:35 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-03-20 16:04:42 INFO  c.r.r.modules.dicom.DicomService - Upload completed successfully!
+2025-03-20 16:04:43 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling -  crop rect after {199, 0, 396x1024} and multiple is 1024.0 838.0

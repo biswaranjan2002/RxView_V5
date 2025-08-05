@@ -1,0 +1,54 @@
+2025-05-30 12:31:05 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-05-30 12:31:05 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-05-30 12:31:05 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-05-30 12:31:10 INFO  com.raymedis.rxviewui.service.study.StudyMainController - stepEntity StepEntity{stepId=7, stepName='Abdomen LAT', patientSize='Medium', autoCrop=true, imageProcessParamKey=1.0, detectorNo=1, lrLabel='L', lrPos=175.0, text='Some Text', textPos='145', flip=false, mirror=true, rotation=true, imageRotation=true, consoleKv=80.0, consoleMas=10.0, consoleMa=200.0, consoleMs=50.0, consoleAec=false, consoleAecLeft=false, consoleAecRight=false, consoleAecCenter=false, consoleDen=0, generatorP1='0', generatorP2='0', imageProcType=0, sid=0.0, imageParamType=0, armAngle=0.0, detectorAngle=10.0, tubeTiltAngle=50.0, tubeRotateAngle=10.0, ceilingPosition=0.0, detectorArmPosition=0.0, tubeArmPosition=0.0, procedureId=0}
+2025-05-30 12:31:30 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: abdomen
+2025-05-30 12:31:30 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Starting Abdomen Image Processing...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Starting process16BitImages...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Setting preprocessing parameters for 16-bit images...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Normalizing input image...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Normalization done.
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Applying CLAHE...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - CLAHE applied successfully.
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Applying Mean filter...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Mean filter applied successfully.
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Applying Inversion...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Inversion applied successfully.
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Applying CLAHE second time with new clip and grid sizes...
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Second CLAHE applied successfully.
+2025-05-30 12:31:30 INFO  com.ramedis.zioxa.Main - Applying Dehaze...
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Dehaze applied successfully.
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Applying Detail Enhancement...
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Detail Enhancement applied successfully.
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Applying Brightness & Contrast adjustment...
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Brightness & Contrast adjustment applied successfully.
+2025-05-30 12:31:31 INFO  com.ramedis.zioxa.Main - Applying Pixel Normalization...
+2025-05-30 12:31:32 INFO  com.ramedis.zioxa.Main - Pixel Normalization applied successfully.
+2025-05-30 12:31:32 INFO  com.ramedis.zioxa.Main - process16BitImages completed.
+2025-05-30 12:31:32 INFO  com.ramedis.zioxa.Main - Completed Abdomen Image Processing...
+2025-05-30 12:31:32 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 12:31:32 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 12:31:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 12:31:32 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 12:31:43 INFO  com.raymedis.rxviewui.service.study.StudyMainController - stepEntity StepEntity{stepId=63, stepName='Chest AP', patientSize='Medium', autoCrop=true, imageProcessParamKey=1.0, detectorNo=1, lrLabel='L', lrPos=175.0, text='Some Text', textPos='145', flip=false, mirror=true, rotation=true, imageRotation=true, consoleKv=120.0, consoleMas=2.5, consoleMa=200.0, consoleMs=12.5, consoleAec=false, consoleAecLeft=false, consoleAecRight=false, consoleAecCenter=false, consoleDen=0, generatorP1='0', generatorP2='0', imageProcType=0, sid=0.0, imageParamType=0, armAngle=0.0, detectorAngle=10.0, tubeTiltAngle=50.0, tubeRotateAngle=10.0, ceilingPosition=0.0, detectorArmPosition=0.0, tubeArmPosition=0.0, procedureId=0}
+2025-05-30 12:31:44 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-05-30 12:31:44 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 12:31:47 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 12:31:47 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 12:31:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 12:31:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 12:33:24 INFO  com.raymedis.rxviewui.service.study.StudyMainController - stepEntity StepEntity{stepId=131, stepName='Hand OBL', patientSize='Medium', autoCrop=true, imageProcessParamKey=1.0, detectorNo=1, lrLabel='L', lrPos=175.0, text='Some Text', textPos='145', flip=true, mirror=true, rotation=true, imageRotation=true, consoleKv=50.0, consoleMas=2.0, consoleMa=80.0, consoleMs=20.0, consoleAec=false, consoleAecLeft=false, consoleAecRight=false, consoleAecCenter=false, consoleDen=0, generatorP1='0', generatorP2='0', imageProcType=0, sid=0.0, imageParamType=0, armAngle=0.0, detectorAngle=10.0, tubeTiltAngle=50.0, tubeRotateAngle=10.0, ceilingPosition=0.0, detectorArmPosition=0.0, tubeArmPosition=0.0, procedureId=0}
+2025-05-30 12:33:27 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: hand
+2025-05-30 12:33:27 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 12:33:29 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 12:33:29 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 12:33:29 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 12:33:42 INFO  com.raymedis.rxviewui.service.study.StudyMainController - stepEntity StepEntity{stepId=67, stepName='Chest PA', patientSize='Medium', autoCrop=true, imageProcessParamKey=1.0, detectorNo=1, lrLabel='L', lrPos=175.0, text='Some Text', textPos='145', flip=false, mirror=true, rotation=true, imageRotation=true, consoleKv=120.0, consoleMas=2.5, consoleMa=125.0, consoleMs=20.0, consoleAec=false, consoleAecLeft=false, consoleAecRight=false, consoleAecCenter=false, consoleDen=0, generatorP1='0', generatorP2='0', imageProcType=0, sid=0.0, imageParamType=0, armAngle=0.0, detectorAngle=10.0, tubeTiltAngle=50.0, tubeRotateAngle=10.0, ceilingPosition=0.0, detectorArmPosition=0.0, tubeArmPosition=0.0, procedureId=0}
+2025-05-30 12:33:43 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Processing body part: chest
+2025-05-30 12:33:43 INFO  com.raymedis.rxviewui.service.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-05-30 12:33:46 INFO  com.raymedis.rxviewui.service.study.StudyService - Image received Found in FPD
+2025-05-30 12:33:46 INFO  com.raymedis.rxviewui.service.study.StudyService - org : CV_16UC1
+2025-05-30 12:33:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - ImagingParams is null
+2025-05-30 12:33:47 INFO  com.raymedis.rxviewui.modules.ImageProcessing.DrawToolsResource.MainDrawTool - HFlip is false, not applying HFlip
+2025-05-30 12:33:48 INFO  com.raymedis.rxviewui.service.study.StudyMainController - stepEntity StepEntity{stepId=203, stepName='Skull AP', patientSize='Medium', autoCrop=true, imageProcessParamKey=1.0, detectorNo=1, lrLabel='L', lrPos=175.0, text='Some Text', textPos='145', flip=true, mirror=true, rotation=true, imageRotation=true, consoleKv=75.0, consoleMas=16.0, consoleMa=160.0, consoleMs=100.0, consoleAec=false, consoleAecLeft=false, consoleAecRight=false, consoleAecCenter=false, consoleDen=0, generatorP1='0', generatorP2='0', imageProcType=0, sid=0.0, imageParamType=0, armAngle=0.0, detectorAngle=10.0, tubeTiltAngle=50.0, tubeRotateAngle=10.0, ceilingPosition=0.0, detectorArmPosition=0.0, tubeArmPosition=0.0, procedureId=0}

@@ -1,0 +1,19 @@
+@import url('ThemeColor.css');
+@import url('Fonts.css');
+
+
+#GridPane{
+    -fx-background-color: Transparent;
+}
+
+.jfx-radio-button{
+    -fx-font-size:18;
+    -fx-text-fill:-text;
+    -fx-focus-traversable:false;
+    -jfx-selected-color: -accent;
+    -jfx-unselected-color: -additional;
+}
+
+.jfx-radio-button .radio-container:hover{
+    -fx-cursor: hand;
+}

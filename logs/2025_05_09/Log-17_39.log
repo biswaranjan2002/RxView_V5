@@ -1,0 +1,41 @@
+2025-05-09 17:39:33 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-09 17:39:34 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.204.139 and 192.168.12.10
+2025-05-09 17:39:34 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-09 17:39:34 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-09 17:39:37 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-09 17:39:40 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 17:39:42 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\2,2 2048.0 2560.0
+2025-05-09 17:40:41 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,2 2048.0 2560.0
+2025-05-09 17:41:07 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-05-09 17:41:07 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 2560.0 
+2025-05-09 17:41:07 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 1275.0 
+2025-05-09 17:41:07 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 1275.0 
+2025-05-09 17:41:42 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\1,2,2,1 2048.0 2560.0
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2,3 2048.0 2560.0
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 2560.0 
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:04 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2,3 2048.0 2560.0
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 2560.0 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:20 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2,3 2048.0 2560.0
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 2560.0 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 1275.0 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:42:50 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 676.0 , height : 846.6666666666666 
+2025-05-09 17:43:21 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: ROW\2,3,1 2048.0 2560.0
+2025-05-09 17:43:41 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\3,4 2048.0 2560.0
+2025-05-09 17:44:04 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-09 17:58:02 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: COL\1,2 2048.0 2560.0
+2025-05-09 17:58:02 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 2560.0 
+2025-05-09 17:58:02 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 1275.0 
+2025-05-09 17:58:02 INFO  c.r.r.m.print.Layout.LayoutCreator - width : 1019.0 , height : 1275.0 

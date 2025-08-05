@@ -1,0 +1,30 @@
+2025-06-03 17:54:26 INFO  com.raymedis.rxviewui.controller.LoginPage - logged In
+2025-06-03 17:54:26 INFO  com.raymedis.rxviewui.service.login.LoginController - 192.168.12.10
+2025-06-03 17:54:27 INFO  com.raymedis.rxviewui.service.login.LoginController - No Wi-Fi interface found or no IPv4 address assigned.
+2025-06-03 17:54:30 INFO  com.raymedis.rxviewui.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-06-03 17:54:30 INFO  com.raymedis.rxviewui.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-06-03 17:54:30 INFO  com.raymedis.rxviewui.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-06-03 17:54:31 INFO  com.raymedis.rxviewui.service.study.StudyService - org mat size 2500 * 3052
+2025-06-03 17:54:39 INFO  com.raymedis.rxviewui.modules.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - ExportStudyService initialized.
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, wof1024: 838
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - cropMultiple 2.983293556085919
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {695, 0, 946x3052}
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export mat.rows() * width : 946 317.0
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export DynamicCanvasElementsResize values set with multiple: 2.9842271293375395
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export Line Width: 5.968454258675079, Ellipse Radius X: 23.873817034700316, Ellipse Radius Y: 23.873817034700316, Label Font Size: 41.77917981072555, Rect Width: 268.5804416403786, Rect Height: 89.52681388012618, Custom Font Icon Size: 596.8454258675079
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - cropped mat size 946x3052 , type CV_16UC1 
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - org width: 2500, wof1024: 838
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - cropMultiple 2.983293556085919
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Crop Rect: {695, 0, 946x3052}
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export mat.rows() * width : 946 317.0
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export DynamicCanvasElementsResize values set with multiple: 2.9842271293375395
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - export Line Width: 5.968454258675079, Ellipse Radius X: 23.873817034700316, Ellipse Radius Y: 23.873817034700316, Label Font Size: 41.77917981072555, Rect Width: 268.5804416403786, Rect Height: 89.52681388012618, Custom Font Icon Size: 596.8454258675079
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - 2 DynamicCanvasElementsResize values set with multiple: 2.9842271293375395
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - 2 Line Width: 5.968454258675079, Ellipse Radius X: 23.873817034700316, Ellipse Radius Y: 23.873817034700316, Label Font Size: 41.77917981072555, Rect Width: 268.5804416403786, Rect Height: 89.52681388012618, Custom Font Icon Size: 596.8454258675079
+2025-06-03 17:57:22 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Type or Depth Issue in annotationMat : CV_16UC1 : CV_8UC4
+2025-06-03 17:57:23 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Chest
+2025-06-03 17:57:23 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Chest
+2025-06-03 17:57:23 INFO  com.raymedis.rxviewui.service.export.ExportStudyService - Exporting body part: Skull
+2025-06-03 17:57:23 WARN  com.raymedis.rxviewui.service.export.ExportStudyService - No image found for body part: Skull

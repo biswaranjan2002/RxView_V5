@@ -1,0 +1,24 @@
+2025-04-08 15:28:12 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-08 15:28:13 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.31.178 and 192.168.12.10
+2025-04-08 15:28:13 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-08 15:28:13 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-08 15:28:17 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-08 15:28:17 INFO  c.r.r.service.study.StudyService - Image received
+2025-04-08 15:28:19 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-04-08 15:28:20 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-04-08 15:30:11 INFO  c.r.r.m.I.D.MainDrawTool - resetCalled
+2025-04-08 15:40:01 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 0, 838x1024}
+2025-04-08 15:40:03 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 0, 838x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {3, 0, 834x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {5, 0, 832x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {9, 0, 828x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {30, 0, 807x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {41, 0, 796x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {111, 0, 726x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {140, 0, 697x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {245, 0, 592x1024}
+2025-04-08 15:40:05 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {294, 0, 543x1024}
+2025-04-08 15:40:06 INFO  c.r.r.m.I.D.CanvasMainChange - Canvas cropRect : {294, 0, 543x1024}
+2025-04-08 15:40:06 INFO  c.r.r.m.I.D.CanvasMainChange - Canvas cropRect : {294, 0, 543x1024}
+2025-04-08 15:40:12 INFO  c.r.r.m.I.D.CanvasMainChange - Canvas cropRect : {294, 0, 543x1024}
+2025-04-08 15:40:12 INFO  c.r.r.m.I.D.CropLayout - cropLayout cropRect : {0, 0, 838x1024}

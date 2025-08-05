@@ -1,0 +1,31 @@
+[ {
+  "applications" : [ {
+    "type" : "RADIOGRAPHY",
+    "selectedDetector" : 1,
+    "firstDetector" : {
+      "index" : 1,
+      "model" : "X221AW2-B1C",
+      "serial" : "BA01207002",
+      "sdkType" : "RAD_INNOCARE",
+      "connectionType" : "Wifi",
+      "ipAddress" : "192.168.12.10"
+    },
+    "secondDetector" : {
+      "index" : 2,
+      "model" : "X221AW2-B1C",
+      "serial" : "BA01207002",
+      "sdkType" : "RAD_INNOCARE",
+      "connectionType" : "Wifi",
+      "ipAddress" : "192.168.12.10"
+    },
+    "thirdDetector" : {
+      "index" : 3,
+      "model" : "",
+      "serial" : "",
+      "sdkType" : "RAD_INNOCARE",
+      "connectionType" : "Wifi",
+      "ipAddress" : "192.168.12.12"
+    },
+    "sdk" : [ "RAD_INNOCARE" ]
+  } ]
+} ]

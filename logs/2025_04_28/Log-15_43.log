@@ -1,0 +1,173 @@
+2025-04-28 15:43:35 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-28 15:43:35 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-28 15:43:35 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-28 15:43:35 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-28 15:43:39 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-28 15:46:29 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 15:46:29 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=222.331914893617, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:46:29 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=488.8851063829788, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:46:29 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=735.5234042553192, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:46:31 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {540, 0, 409x1676}
+2025-04-28 15:46:31 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {533, 0, 416x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {516, 0, 433x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {497, 0, 452x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {483, 0, 466x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {453, 0, 496x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {441, 0, 508x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {387, 0, 562x1676}
+2025-04-28 15:46:37 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {380, 0, 569x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {368, 0, 581x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {356, 0, 593x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {344, 0, 605x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {332, 0, 617x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {292, 0, 657x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {184, 0, 765x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {50, 0, 899x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {50, 0, 899x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {45, 0, 904x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {31, 0, 918x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {26, 0, 923x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {19, 0, 930x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {7, 0, 942x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:38 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {2, 0, 947x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {35, 0, 914x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {97, 0, 852x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {137, 0, 812x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {281, 0, 668x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {372, 0, 577x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {377, 0, 572x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {396, 0, 553x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {408, 0, 541x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {431, 0, 518x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {469, 0, 480x1676}
+2025-04-28 15:46:39 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {568, 0, 381x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {589, 0, 360x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {622, 0, 327x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {634, 0, 315x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {641, 0, 308x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {674, 0, 275x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {733, 0, 216x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {759, 0, 190x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {804, 0, 145x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {858, 0, 91x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {910, 0, 39x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {922, 0, 27x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {948, 0, 1x1676}
+2025-04-28 15:46:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {891, 0, 58x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {818, 0, 131x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {757, 0, 192x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {717, 0, 232x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {686, 0, 263x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {509, 0, 440x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {276, 0, 673x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {149, 0, 800x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {134, 0, 815x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {111, 0, 838x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {94, 0, 855x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {64, 0, 885x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {52, 0, 897x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {40, 0, 909x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {33, 0, 916x1676}
+2025-04-28 15:46:41 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {33, 0, 916x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {33, 0, 916x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {33, 0, 916x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Crop Rectangle: {0, 0, 949x1676}
+2025-04-28 15:46:42 INFO  c.r.r.m.p.i.d.PrintCropLayout - Matrix dimensions: width=949, height=1676

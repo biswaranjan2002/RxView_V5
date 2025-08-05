@@ -1,0 +1,121 @@
+2025-04-28 15:53:57 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-04-28 15:53:57 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.1.139 and 192.168.12.10
+2025-04-28 15:53:57 INFO  c.r.r.service.login.LoginController - IP not found
+2025-04-28 15:53:57 INFO  c.r.r.service.login.LoginController - initialized
+2025-04-28 15:54:01 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-04-28 15:54:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - cropX cropY 0.0 441.5 : 
+2025-04-28 15:54:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=321.82978723404256, centerY=222.331914893617, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:54:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=317.2340425531915, centerY=488.8851063829788, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:54:04 INFO  c.r.r.m.p.i.d.PrintCanvasMainChange - ellipse PatientPrintEllipseWrapper{centerX=301.9148936170213, centerY=735.5234042553192, radiusX=8.0, radiusY=8.0} 
+2025-04-28 15:54:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {540, 0, 949x1676}
+2025-04-28 15:54:05 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {535, 0, 954x1676}
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {497, 0, 992x1676}
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {464, 0, 1025x1676}
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {297, 0, 1192x1676}
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {276, 0, 1213x1676}
+2025-04-28 15:54:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {80, 0, 1409x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {80, 0, 1409x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {0, 0, 1489x1676}
+2025-04-28 15:54:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {5, 0, 1484x1676}
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {106, 0, 1383x1676}
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {380, 0, 1110x1676}
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {420, 0, 1070x1676}
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {488, 0, 1001x1676}
+2025-04-28 15:54:09 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {528, 0, 961x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {776, 0, 714x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {964, 0, 525x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {981, 0, 509x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {1018, 0, 471x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {1009, 0, 480x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {874, 0, 615x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {849, 0, 641x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {743, 0, 747x1676}
+2025-04-28 15:54:10 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {714, 0, 775x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {627, 0, 862x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {622, 0, 867x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {615, 0, 874x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {611, 0, 879x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {622, 0, 867x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {655, 0, 834x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {655, 0, 834x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {865, 0, 624x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {891, 0, 598x1676}
+2025-04-28 15:54:11 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {896, 0, 594x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {889, 0, 601x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {731, 0, 759x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {587, 0, 902x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {384, 0, 1105x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {358, 0, 1131x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {156, 0, 1334x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {123, 0, 1367x1676}
+2025-04-28 15:54:12 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {123, 0, 1367x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {123, 0, 1367x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {64, 0, 1426x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {64, 0, 1426x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {54, 0, 1435x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {17, 0, 1473x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {12, 0, 1477x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {12, 0, 1477x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {12, 0, 1477x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Adjusted Crop Rectangle: {12, 0, 1477x1676}
+2025-04-28 15:54:13 INFO  c.r.r.m.p.i.d.PrintCropLayout - Image dimensions: 2048 x 1677

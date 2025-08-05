@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXSlider?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane id="GridPane" maxHeight="815.0" maxWidth="400.0" minHeight="815.0" minWidth="400.0" prefHeight="815.0" prefWidth="400.0" styleClass="fontStyle" stylesheets="@../../../../Styles/Css/ProcessingTools.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.studyModule.ProcessingTools">
+    <VBox maxHeight="815.0" maxWidth="400.0" minHeight="815.0" minWidth="400.0" prefHeight="815.0" prefWidth="400.0">
+      <children>
+         <HBox alignment="CENTER" maxHeight="80.0" maxWidth="400.0" minHeight="80.0" minWidth="400.0" prefHeight="80.0" prefWidth="400.0" spacing="15.0">
+            <children>
+               <JFXButton fx:id="boneButton" alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="40.0" maxWidth="115.0" minHeight="40.0" minWidth="115.0" onAction="#boneClick" prefHeight="40.0" prefWidth="115.0" text="Bone" textFill="WHITE">
+                  <font>
+                     <Font name="Century Gothic" size="18.0" />
+                  </font>
+                  <styleClass>
+                     <String fx:value="unSelectedProcessingTools" />
+                     <String fx:value="fontStyle" />
+                  </styleClass>
+               </JFXButton>
+               <JFXButton fx:id="softTissueButton" alignment="CENTER" contentDisplay="CENTER" disable="true" maxHeight="40.0" maxWidth="115.0" minHeight="40.0" minWidth="115.0" onAction="#softTissueClick" prefHeight="40.0" prefWidth="115.0" text="Soft-Tissue" textFill="WHITE">
+                  <font>
+                     <Font name="Century Gothic" size="18.0" />
+                  </font>
+                  <styleClass>
+                     <String fx:value="unSelectedProcessingTools" />
+                     <String fx:value="fontStyle" />
+                  </styleClass>
+               </JFXButton>
+               <JFXButton fx:id="balanceButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="40.0" maxWidth="115.0" minHeight="40.0" minWidth="115.0" onAction="#balanceClick" prefHeight="40.0" prefWidth="115.0" styleClass="selectedProcessingTools" text="Balance" textFill="WHITE">
+                  <font>
+                     <Font name="Century Gothic" size="18.0" />
+                  </font>
+               </JFXButton>
+            </children>
+         </HBox>
+         <VBox maxHeight="80.0" maxWidth="400.0" minHeight="80.0" minWidth="400.0" prefHeight="80.0" prefWidth="400.0">
+            <children>
+               <HBox alignment="CENTER" maxHeight="40.0" maxWidth="400.0" minHeight="40.0" minWidth="400.0" prefHeight="40.0" prefWidth="400.0" spacing="225.0">
+                  <children>
+                     <Label contentDisplay="CENTER" maxHeight="40.0" maxWidth="100.0" minHeight="40.0" minWidth="100.0" prefHeight="40.0" prefWidth="100.0" text="Denoise" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets />
+                        </HBox.margin>
+                     </Label>
+                     <TextField id="InputLabel" fx:id="denoiseValueLabel" alignment="CENTER" maxHeight="40.0" maxWidth="50.0" minHeight="40.0" minWidth="50.0" prefHeight="40.0" prefWidth="50.0" text="0">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets top="-10.0" />
+                        </HBox.margin>
+                     </TextField>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                  <children>
+                     <JFXSlider fx:id="denoiseSlider" maxHeight="40.0" maxWidth="375.0" minHeight="40.0" minWidth="375.0" prefHeight="40.0" prefWidth="375.0" value="1.0" />
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+         <VBox maxHeight="80.0" maxWidth="400.0" minHeight="80.0" minWidth="400.0" prefHeight="80.0" prefWidth="400.0">
+            <children>
+               <HBox alignment="CENTER" maxHeight="40.0" maxWidth="400.0" minHeight="40.0" minWidth="400.0" prefHeight="40.0" prefWidth="400.0" spacing="225.0">
+                  <children>
+                     <Label contentDisplay="CENTER" maxHeight="40.0" maxWidth="100.0" minHeight="40.0" minWidth="100.0" prefHeight="40.0" prefWidth="100.0" text="Sharpness" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets />
+                        </HBox.margin>
+                     </Label>
+                     <TextField id="InputLabel" fx:id="sharpnessValueLabel" alignment="CENTER" maxHeight="40.0" maxWidth="50.0" minHeight="40.0" minWidth="50.0" prefHeight="40.0" prefWidth="50.0" text="0">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets top="-10.0" />
+                        </HBox.margin>
+                     </TextField>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                  <children>
+                     <JFXSlider fx:id="sharpnessSlider" maxHeight="40.0" maxWidth="375.0" minHeight="40.0" minWidth="375.0" prefHeight="40.0" prefWidth="375.0" value="1.0" />
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+         <VBox maxHeight="80.0" maxWidth="400.0" minHeight="80.0" minWidth="400.0" prefHeight="80.0" prefWidth="400.0">
+            <children>
+               <HBox alignment="CENTER" maxHeight="40.0" maxWidth="400.0" minHeight="40.0" minWidth="400.0" prefHeight="40.0" prefWidth="400.0" spacing="225.0">
+                  <children>
+                     <Label contentDisplay="CENTER" maxHeight="40.0" maxWidth="100.0" minHeight="40.0" minWidth="100.0" prefHeight="40.0" prefWidth="100.0" text="Contrast" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets />
+                        </HBox.margin>
+                     </Label>
+                     <TextField id="InputLabel" fx:id="contrastValueLabel" alignment="CENTER" maxHeight="40.0" maxWidth="50.0" minHeight="40.0" minWidth="50.0" prefHeight="40.0" prefWidth="50.0" text="0">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets top="-10.0" />
+                        </HBox.margin>
+                     </TextField>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                  <children>
+                     <JFXSlider fx:id="contrastSlider" maxHeight="40.0" maxWidth="375.0" minHeight="40.0" minWidth="375.0" prefHeight="40.0" prefWidth="375.0" value="1.0" />
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+         <VBox maxHeight="80.0" maxWidth="400.0" minHeight="80.0" minWidth="400.0" prefHeight="80.0" prefWidth="400.0">
+            <children>
+               <HBox alignment="CENTER" maxHeight="40.0" maxWidth="400.0" minHeight="40.0" minWidth="400.0" prefHeight="40.0" prefWidth="400.0" spacing="225.0">
+                  <children>
+                     <Label contentDisplay="CENTER" maxHeight="40.0" maxWidth="100.0" minHeight="40.0" minWidth="100.0" prefHeight="40.0" prefWidth="100.0" text="Brightness" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets />
+                        </HBox.margin>
+                     </Label>
+                     <TextField id="InputLabel" fx:id="brightnessValueLabel" alignment="CENTER" maxHeight="40.0" maxWidth="50.0" minHeight="40.0" minWidth="50.0" prefHeight="40.0" prefWidth="50.0" text="0">
+                        <font>
+                           <Font name="Century Gothic" size="16.0" />
+                        </font>
+                        <HBox.margin>
+                           <Insets top="-10.0" />
+                        </HBox.margin>
+                     </TextField>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                  <children>
+                     <JFXSlider fx:id="brightnessSlider" maxHeight="40.0" maxWidth="375.0" minHeight="40.0" minWidth="375.0" prefHeight="40.0" prefWidth="375.0" value="1.0" />
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+         <VBox alignment="TOP_CENTER" maxHeight="415.0" maxWidth="400.0" minHeight="415.0" minWidth="400.0" prefHeight="415.0" prefWidth="400.0">
+            <children>
+               <Label alignment="TOP_LEFT" contentDisplay="CENTER" maxHeight="30.0" maxWidth="400.0" minHeight="30.0" minWidth="400.0" prefHeight="30.0" prefWidth="400.0" text="LUT" textAlignment="CENTER" textFill="WHITE">
+                  <font>
+                     <Font name="Century Gothic" size="26.0" />
+                  </font>
+                  <VBox.margin>
+                     <Insets />
+                  </VBox.margin>
+                  <padding>
+                     <Insets left="15.0" />
+                  </padding>
+               </Label>
+               <JFXComboBox fx:id="lutComboBox" focusColor="#ec641c" maxHeight="40.0" maxWidth="375.0" minHeight="40.0" minWidth="350.0" prefHeight="40.0" prefWidth="350.0" unFocusColor="#ec641c">
+                   <padding>
+                       <Insets left="5.0" />
+                   </padding>
+                   <items>
+                       <FXCollections fx:factory="observableArrayList">
+                           <String fx:value="LINEAR" />
+                           <String fx:value="LogL" />
+                           <String fx:value="LogM" />
+                           <String fx:value="LogH" />
+                           <String fx:value="LogS" />
+                           <String fx:value="Log" />
+                       </FXCollections>
+                   </items>
+                   <value>
+                       <String fx:value="None" />
+                   </value>
+               </JFXComboBox>
+               <VBox alignment="CENTER" maxHeight="315.0" maxWidth="400.0" minHeight="315.0" minWidth="400.0" prefHeight="315.0" prefWidth="400.0">
+                  <children>
+                     <Canvas fx:id="histogramCanvas" id="ProcessingGraphBox" height="300.0" width="300.0" />
+                  </children>
+               </VBox>
+            </children>
+         </VBox>
+      </children>
+    </VBox>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+
+</GridPane>

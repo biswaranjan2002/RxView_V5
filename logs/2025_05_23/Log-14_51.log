@@ -1,0 +1,36 @@
+2025-05-23 14:51:48 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-23 14:51:49 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-23 14:51:49 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-23 14:51:49 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-23 14:51:52 INFO  c.r.r.m.print.Layout.LayoutCreator - Creating layout with code: STANDARD\1,1 2048.0 2560.0
+2025-05-23 14:51:52 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-23 14:51:58 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - scaleX : 0.6710353866317169 , scaleY : 0.6710353866317169
+2025-05-23 14:51:58 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - mainImageMat width : 3052 , height : 2500
+2025-05-23 14:51:58 INFO  c.r.r.m.p.i.d.PrintMainDrawTool - width : 2048.0 , height : 1677.5884665792923
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: RIGHT_MID
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=0
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 837
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=92, dy=-15
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:52:07 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 922
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=17, dy=0
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 847
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=7, dy=0
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: RIGHT_MID
+2025-05-23 14:52:08 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Right Mid: 837
+2025-05-23 14:57:41 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-23 14:57:42 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-05-23 14:57:42 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Active Corner: LEFT_MID
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-7, dy=0
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Rectangle: x=628, y=0, width=830, height=1676
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize dx=-209, dy=-7
+2025-05-23 15:01:40 INFO  c.r.r.m.p.i.d.PrintCropLayout - Resize Corner: LEFT_MID

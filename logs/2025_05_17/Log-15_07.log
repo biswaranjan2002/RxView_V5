@@ -1,0 +1,15 @@
+2025-05-17 15:07:50 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-05-17 15:07:51 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.126.140 and 192.168.12.10
+2025-05-17 15:07:51 INFO  c.r.r.service.login.LoginController - IP not found
+2025-05-17 15:07:51 INFO  c.r.r.service.login.LoginController - initialized
+2025-05-17 15:07:54 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-05-17 15:07:55 INFO  c.r.r.service.study.StudyService - mat length 1024 * width 838
+2025-05-17 15:07:55 INFO  c.r.r.service.study.StudyService - display image lent1024.0 * width 838.0
+2025-05-17 15:08:00 INFO  c.r.r.service.study.StudyService - Image received
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - mat size 1024 * 838
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - Mat is not empty
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - mat length 1024 * width 838
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - display image lent1024.0 * width 838.0
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - mat length 1024 * width 838
+2025-05-17 15:08:01 INFO  c.r.r.service.study.StudyService - display image lent1024.0 * width 838.0
+2025-05-17 15:08:01 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null

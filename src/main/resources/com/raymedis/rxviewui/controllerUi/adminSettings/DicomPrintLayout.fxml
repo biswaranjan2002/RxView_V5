@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<GridPane alignment="CENTER" maxHeight="1030.0" maxWidth="1600.0" minHeight="1030.0" minWidth="1600.0" prefHeight="1030.0" prefWidth="1600.0" stylesheets="@../../../../../Styles/Css/AdminSettings/Dicom/PrintLayout.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.adminSettings.dicom.DicomPrintLayout">
+    <VBox id="ShadowEffectBox2" alignment="TOP_CENTER" maxHeight="950.0" maxWidth="1500.0" minHeight="950.0" minWidth="1500.0" prefHeight="950.0" prefWidth="1500.0">
+        <children>
+         <HBox maxHeight="60.0" maxWidth="1500.0" minHeight="60.0" minWidth="1500.0" prefHeight="60.0" prefWidth="1500.0">
+            <padding>
+               <Insets left="50.0" top="-35.0" />
+            </padding>
+            <children>
+               <Label id="HeaderLabel2" alignment="CENTER" maxHeight="60.0" maxWidth="350.0" minHeight="60.0" minWidth="350.0" prefHeight="60.0" prefWidth="350.0" styleClass="fontStyle" text="Print Layout" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                  <font>
+                     <Font name="Century Gothic" size="22.0" />
+                  </font>
+               </Label>
+            </children>
+         </HBox>
+         <HBox maxHeight="890.0" maxWidth="1500.0" minHeight="890.0" minWidth="1500.0" prefHeight="890.0" prefWidth="1500.0" spacing="25.0">
+            <children>
+               <VBox maxHeight="890.0" maxWidth="1150.0" minHeight="890.0" minWidth="1150.0" prefHeight="890.0" prefWidth="1150.0">
+                  <children>
+                     <VBox id="layoutOuterBox" alignment="CENTER" maxHeight="675.0" maxWidth="1150.0" minHeight="675.0" minWidth="1150.0" prefHeight="675.0" prefWidth="1150.0">
+                        <children>
+                           <VBox alignment="CENTER" maxHeight="615.0" maxWidth="1150.0" minHeight="615.0" minWidth="1150.0" prefHeight="615.0" prefWidth="1150.0">
+                              <children>
+                                 <GridPane id="layoutBox" fx:id="layoutBox" maxHeight="600.0" maxWidth="480.0" minHeight="600.0" minWidth="480.0" prefHeight="600.0" prefWidth="480.0" style="-fx-background-color: #3a3a3a;" />
+                              </children>
+                           </VBox>
+                        </children>
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                     </VBox>
+                     <VBox maxHeight="200.0" maxWidth="1150.0" minHeight="200.0" minWidth="1150.0" prefHeight="200.0" prefWidth="1150.0">
+                        <VBox.margin>
+                           <Insets top="5.0" />
+                        </VBox.margin>
+                        <children>
+                           <Label id="subHeaderLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="40.0" maxWidth="200.0" minHeight="40.0" minWidth="200.0" prefHeight="40.0" prefWidth="200.0" text="Custom Layout :" />
+                           <HBox alignment="CENTER" maxHeight="80.0" maxWidth="1150.0" minHeight="80.0" minWidth="1150.0" prefHeight="80.0" prefWidth="1150.0" spacing="25.0">
+                              <children>
+                                 <JFXComboBox fx:id="layoutTypeComboBox" focusColor="GREY" maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" styleClass="jfx-combo-box2" unFocusColor="#575656" value="STANDARD">
+                                    <items>
+                                       <FXCollections fx:factory="observableArrayList">
+                                          <String fx:value="STANDARD" />
+                                          <String fx:value="ROW" />
+                                          <String fx:value="COL" />
+                                       </FXCollections>
+                                    </items>
+                                 </JFXComboBox>
+                                 <TextField id="inputTextField" fx:id="inputText" maxHeight="50.0" maxWidth="250.0" minHeight="50.0" minWidth="250.0" prefHeight="50.0" prefWidth="250.0" promptText="Input Like: 3,4" />
+                                 <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#checkClick" prefHeight="50.0" prefWidth="125.0" text="Check" />
+                                 <JFXButton id="ActionButton" fx:id="addButton" maxHeight="50.0" maxWidth="125.0" minHeight="50.0" minWidth="125.0" onAction="#addClick" prefHeight="50.0" prefWidth="125.0" text="Add" />
+                              </children>
+                              <VBox.margin>
+                                 <Insets />
+                              </VBox.margin>
+                              <padding>
+                                 <Insets left="75.0" />
+                              </padding>
+                           </HBox>
+                           <HBox alignment="CENTER" maxHeight="80.0" maxWidth="1150.0" minHeight="80.0" minWidth="1150.0" prefHeight="80.0" prefWidth="1150.0">
+                              <children>
+                                 <TextField id="validOutputTextField" fx:id="outputText" alignment="CENTER" editable="false" maxHeight="50.0" maxWidth="350.0" minHeight="50.0" minWidth="350.0" prefHeight="50.0" prefWidth="350.0" promptText="Input Like: 2,3" text="STANDARD\3,4 is Valid" />
+                              </children>
+                           </HBox>
+                        </children></VBox>
+                  </children>
+                  <HBox.margin>
+                     <Insets />
+                  </HBox.margin>
+                  <padding>
+                     <Insets left="15.0" />
+                  </padding>
+               </VBox>
+               <VBox id="GridPane2" alignment="CENTER" maxHeight="875.0" maxWidth="310.0" minHeight="875.0" minWidth="310.0" prefHeight="875.0" prefWidth="310.0" spacing="10.0">
+                  <children>
+                     <JFXButton id="DeleteButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="50.0" maxWidth="50.0" minHeight="50.0" minWidth="50.0" onAction="#deleteLayoutClick" prefHeight="50.0" prefWidth="50.0" text=" ">
+                        <graphic>
+                           <FontIcon id="fontIcon" iconColor="#ffffff" iconLiteral="mdi2d-delete" iconSize="40" wrappingWidth="40.0" />
+                        </graphic>
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                     </JFXButton>
+                     <StackPane maxHeight="725.0" maxWidth="300.0" minHeight="725.0" minWidth="300.0" prefHeight="725.0" prefWidth="300.0">
+                        <children>
+                           <ScrollPane hbarPolicy="NEVER" maxHeight="725.0" maxWidth="300.0" minHeight="725.0" minWidth="300.0" prefHeight="725.0" prefWidth="300.0">
+                              <content>
+                                 <VBox fx:id="selectedLayoutContainer" alignment="CENTER" maxWidth="290.0" minWidth="290.0" prefWidth="290.0" spacing="15.0">
+                                 </VBox>
+                              </content>
+                              <styleClass>
+                                 <String fx:value="scroll-pane2" />
+                                 <String fx:value="scroll-bar2" />
+                              </styleClass>
+                           </ScrollPane>
+                        </children>
+                     </StackPane>
+                     <JFXButton id="ActionButton" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#saveClick" prefHeight="50.0" prefWidth="150.0" text="Save" />
+                  </children>
+               </VBox>
+            </children>
+         </HBox>
+           </children>
+    </VBox>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <styleClass>
+      <String fx:value="fontStyle" />
+      <String fx:value="GridPane" />
+   </styleClass>
+
+
+</GridPane>

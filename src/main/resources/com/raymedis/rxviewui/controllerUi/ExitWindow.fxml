@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+<?import javafx.scene.layout.GridPane?>
+<?import com.raymedis.rxviewui.ViewBox?>
+
+<GridPane id="GridPane"  alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+          styleClass="fontStyle" stylesheets="@../../../../Styles/Css/ExitWinodw.css"
+          xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.raymedis.rxviewui.controller.ExitWindow">
+   <ViewBox  alignment="CENTER" maxHeight="400" maxWidth="600" minHeight="400" minWidth="600" prefHeight="400" prefWidth="600">
+
+      <VBox id="GridPane" alignment="TOP_CENTER" maxHeight="400.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="400.0"
+      prefWidth="600.0" spacing="75.0" >
+         <VBox alignment="CENTER_RIGHT" maxHeight="50.0" maxWidth="600.0" minHeight="50.0" minWidth="600.0" prefHeight="50.0" prefWidth="600.0">
+            <VBox.margin>
+               <Insets />
+            </VBox.margin>
+            <children>
+               <JFXButton fx:id="closeButton" id="ActionButton" alignment="CENTER" contentDisplay="CENTER" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" onAction="#closeClick" prefHeight="35.0" prefWidth="35.0" text=" ">
+                  <graphic>
+                     <FontIcon id="fontIcon" iconLiteral="mdi2w-window-close" iconSize="25" tabSize="10" wrappingWidth="25.0" />
+                  </graphic>
+               </JFXButton>
+            </children>
+            <padding>
+               <Insets left="10.0" right="10.0" />
+            </padding>
+         </VBox>
+         <VBox alignment="TOP_CENTER" maxHeight="250.0" maxWidth="600.0" minHeight="250.0" minWidth="600.0" prefHeight="250.0" prefWidth="600.0" spacing="40.0">
+            <children>
+               <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="40.0" maxWidth="500.0" minHeight="40.0" minWidth="500.0" prefHeight="40.0" prefWidth="500.0" text="Do you want to logout or shutdown ?" />
+               <HBox alignment="CENTER" maxHeight="50.0" maxWidth="600.0" minHeight="50.0" minWidth="600.0" prefHeight="50.0" prefWidth="600.0" spacing="50.0">
+                  <JFXButton fx:id="logoutButton" id="ActionButton" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#logoutClick" prefHeight="50.0" prefWidth="150.0" text="Logout" />
+                  <JFXButton fx:id="shutdownButton" id="ActionButton" maxHeight="50.0" maxWidth="150.0" minHeight="50.0" minWidth="150.0" onAction="#exitClick" prefHeight="50.0" prefWidth="150.0" text="ShutDown" />
+               </HBox>
+            </children>
+            <VBox.margin>
+               <Insets />
+            </VBox.margin>
+            <padding>
+               <Insets top="15.0" />
+            </padding>
+         </VBox>
+      </VBox>
+
+   </ViewBox>
+</GridPane>

@@ -1,0 +1,127 @@
+2025-07-22 11:46:51 INFO  c.r.r.s.study.StudyMainController - Console is ON
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: accession number
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: age
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: height
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: institution
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: patient id
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: patient name
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: performing physician
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: procedure
+2025-07-22 11:46:51 INFO  c.r.r.s.database.DatabaseController - Setting visibility for field: study description
+2025-07-22 11:46:55 INFO  c.r.rxviewui.controller.LoginPage - logged In
+2025-07-22 11:46:56 INFO  c.r.r.service.login.LoginController - 192.168.12.10
+2025-07-22 11:46:56 INFO  c.r.r.service.login.LoginController - ip mismatched 192.168.28.232 and 192.168.12.10
+2025-07-22 11:46:56 INFO  c.r.r.service.login.LoginController - IP not found
+2025-07-22 11:46:56 INFO  c.r.r.service.json.WifiSettings - 192.168.12.10
+2025-07-22 11:46:56 INFO  c.r.r.service.json.WifiSettings - Batch file created: set_static_ip.bat 
+2025-07-22 11:46:56 INFO  c.r.r.service.json.WifiSettings - Running batch file as admin...
+2025-07-22 11:46:56 INFO  c.r.r.s.f.controller.FpdController - Loading detector: X221AW2-B1C, SDK type: RAD_INNOCARE
+2025-07-22 11:46:56 INFO  c.r.r.service.login.LoginController - initialized
+2025-07-22 11:46:57 INFO  c.r.r.s.study.StudyMainController - Setting console values for body part: Chest
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Setting Xray Console - kv: 70.0, ma: 80, mas: 4.0
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - setMa kv1: 70.0, ma1: 80.0
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - x: 175
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Current Sent: 80.0
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - filamentCurrent: 8.32
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - KV Sent : 70.0
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.32
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.29
+2025-07-22 11:46:57 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Calibration Val: 8.49
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - In short sending KV: 208
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - In byte sending KV: -48
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - setExposureTime 0.05
+2025-07-22 11:46:57 INFO  c.r.r.m.s.SerialPortManager - Exposure Time Sent - 50
+2025-07-22 11:46:57 INFO  c.r.s.r.TriggerCommandRxOld - Setting Exposure Time to: 50 0 and G
+2025-07-22 11:46:57 INFO  c.r.s.r.TriggerCommandRxOld - Setting KV to: -48
+2025-07-22 11:46:57 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-22 11:46:57 INFO  c.r.s.r.TriggerCommandRxOld - Serial port is not open.
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - Available COM ports:
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - - COM6: USB-SERIAL CH340 (COM6)
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - - COM5: USB-SERIAL CH340 (COM5)
+2025-07-22 11:46:57 INFO  c.r.s.r.RxPanelInitializationOld - Connected to RX panel.
+2025-07-22 11:46:57 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 1
+2025-07-22 11:46:59 INFO  c.r.r.service.study.StudyService - current bodyPart chest AP
+2025-07-22 11:46:59 INFO  c.r.r.s.preProcessing.PreProcess - Processing body part: chest
+2025-07-22 11:46:59 INFO  c.r.r.s.preProcessing.PreProcess - Mat is 16-bit unsigned
+2025-07-22 11:46:59 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 1 failed.
+2025-07-22 11:46:59 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 2
+2025-07-22 11:46:59 ERROR c.r.r.s.f.controller.FpdController - No devices found
+2025-07-22 11:46:59 INFO  c.r.r.service.login.LoginController - No devices found!!!
+2025-07-22 11:47:01 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 2 failed.
+2025-07-22 11:47:01 INFO  c.r.s.r.ReceiveCommandRxOld - requested interlocks, attempt 3
+2025-07-22 11:47:02 INFO  c.r.r.service.study.StudyService - Image received Found in FPD
+2025-07-22 11:47:02 INFO  c.r.r.service.study.StudyService - org : CV_16UC1
+2025-07-22 11:47:02 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-22 11:47:02 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-22 11:47:02 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - ImagingParams is null
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - HFlip is false, not applying HFlip
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - L/R Label: L
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - Text: Some Text
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - Position Value: 175.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - Invalid position value: 175.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:02 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-22 11:47:03 INFO  c.r.s.r.ReceiveCommandRxOld - Interlock attempt 3 failed.
+2025-07-22 11:47:03 INFO  c.r.s.r.ReceiveCommandRxOld - Failed to retrieve interlocks after 3 attempts. Exiting.
+2025-07-22 11:47:03 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-22 11:47:03 INFO  c.r.r.m.s.SerialPortCommunicationService - Received response: INTERLOCK_FAILED
+2025-07-22 11:47:03 INFO  c.r.r.m.s.SerialPortCommunicationService - Interlock failed.
+2025-07-22 11:47:03 INFO  c.r.s.r.RxPanelInitializationOld - Disconnecting from RX panel...
+2025-07-22 11:47:03 INFO  c.r.s.r.RxPanelInitializationOld - Disconnected Port due to interlock issues.
+2025-07-22 11:47:03 INFO  c.r.r.s.study.StudyMainController - done
+2025-07-22 11:47:08 INFO  c.r.r.s.study.StudyMainController - Saving for Pacs...
+2025-07-22 11:47:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - saved label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-22 11:47:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - ========================================================================
+2025-07-22 11:47:08 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - Crop Layout X: 0.0, Y: 0.0, Width: 838.0, Height: 1024.0
+2025-07-22 11:47:08 INFO  c.r.r.modules.dicom.DicomService - DicomService loaded with patient: 
+2025-07-22 11:47:08 INFO  c.r.r.modules.dicom.DicomService - Status : Uploading Begins
+2025-07-22 11:47:08 INFO  c.r.r.modules.dicom.DicomService - Creating DICOM File/s...
+2025-07-22 11:47:08 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-22 11:47:08 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-22 11:47:08 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-22 11:47:08 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:08 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-22 11:47:08 INFO  c.r.r.modules.dicom.DicomService - needsAnnotations
+2025-07-22 11:47:08 INFO  c.r.rxviewui.controller.ExportStudy - org.width(): 2500 patientBodyPart.getEditedMat().width(): 838
+2025-07-22 11:47:08 INFO  c.r.rxviewui.controller.ExportStudy - saveWithAnnotationBurn Crop Multiple: 2.983293556085919
+2025-07-22 11:47:08 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 2.983293556085919
+2025-07-22 11:47:08 INFO  c.r.r.service.study.StudyService - study Line Width: 5.966587112171838, Ellipse Radius X: 23.86634844868735, Ellipse Radius Y: 23.86634844868735, Label Font Size: 41.766109785202865, Rect Width: 268.49642004773267, Rect Height: 89.49880668257757, Custom Font Icon Size: 596.6587112171837
+2025-07-22 11:47:09 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomService - path exits
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomService - D:\Work\RxView\RxView_Nellore_V3/dcmOutput/11.dcm
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomService - mat type CV_8UC3
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomService - updatedMat type CV_8UC3
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomCreator - mat type: CV_8UC3, width: 3052, height: 3052, channels: 3
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomService - Uploading to server...
+2025-07-22 11:47:10 INFO  c.r.r.modules.dicom.DicomCStore - 
+Initiating C-STORE operation...
+2025-07-22 11:47:10 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-22 11:47:10 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:10 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - SOP Instance ID being transferred:1.3.6.1.4.1.5962.99.1.8183.7493.1753165030327.1.1.0.1.1
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - Items in Queue:0
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - Transfers Completed:1
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - Failed Transmits:0
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - Warnings:0
+2025-07-22 11:47:11 INFO  c.r.r.m.d.OurTransferUpdateStatusHandler - isTransferComplete: true
+2025-07-22 11:47:12 INFO  c.r.r.modules.dicom.DicomService - Upload completed successfully!
+2025-07-22 11:47:12 INFO  c.r.r.service.study.StudyService - study mat.rows() * width : 1024 1024.0
+2025-07-22 11:47:12 INFO  c.r.r.service.study.StudyService - study DynamicCanvasElementsResize values set with multiple: 1.0
+2025-07-22 11:47:12 INFO  c.r.r.service.study.StudyService - study Line Width: 2.0, Ellipse Radius X: 8.0, Ellipse Radius Y: 8.0, Label Font Size: 14.0, Rect Width: 90.0, Rect Height: 30.0, Custom Font Icon Size: 200.0
+2025-07-22 11:47:12 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:12 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
+2025-07-22 11:47:12 INFO  c.r.r.m.I.i.ImageDrawWrapperHandling - apply label  LeftRightDrawWrapper{offsetX=50.0, offsetY=50.0, text='LEFT'} 
+2025-07-22 11:47:12 INFO  c.r.r.m.I.D.MainDrawTool - imaging params 0.0,1.0,3.0,1.0
+2025-07-22 11:47:12 INFO  c.r.r.m.I.D.MainDrawTool - Brightness and Contrast 0.0 1.0
